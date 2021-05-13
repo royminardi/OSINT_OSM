@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-13T08:31:26Z"/>
+
+  <way id="808195546">
+    <center lat="37.0931582" lon="15.2074190"/>
+    <nd ref="3203126927"/>
+    <nd ref="7557462291"/>
+    <nd ref="6193162547"/>
+    <nd ref="6193162548"/>
+    <nd ref="3203126929"/>
+    <nd ref="3203121243"/>
+    <nd ref="3974576162"/>
+    <nd ref="7557462290"/>
+    <nd ref="3203126891"/>
+    <nd ref="3203126927"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand:wikidata" v="Q46730"/>
+    <tag k="brand:wikipedia" v="it:Banca Monte dei Paschi di Siena"/>
+    <tag k="name" v="Monte dei Paschi di Siena"/>
+    <tag k="short_name" v="Mps"/>
+  </way>
+
+</osm>
