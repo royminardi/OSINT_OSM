@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T10:56:24Z" areas="2021-05-14T10:27:55Z"/>
+
+  <node id="7525922371" lat="36.9690982" lon="15.2113923">
+    <tag k="name" v="Fontane Bianche"/>
+    <tag k="operator" v="RFI"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="halt"/>
+    <tag k="wikidata" v="Q16609200"/>
+    <tag k="wikipedia" v="it:Stazione di Fontane Bianche"/>
+  </node>
+  <node id="7525922372" lat="37.0690913" lon="15.2807426">
+    <tag k="name" v="Siracusa"/>
+    <tag k="operator" v="RFI"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q1158776"/>
+    <tag k="wikipedia" v="it:Stazione di Siracusa"/>
+  </node>
+  <node id="7525884240" lat="37.1096295" lon="15.2459555">
+    <tag k="name" v="Targia"/>
+    <tag k="operator" v="RFI"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q3971084"/>
+    <tag k="wikipedia" v="it:Stazione di Targia"/>
+  </node>
+
+</osm>

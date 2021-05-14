@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T11:02:25Z" areas="2021-05-14T10:27:55Z"/>
+
+  <node id="6296835325" lat="37.0828345" lon="15.2525420">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6304757891" lat="37.0717681" lon="15.2822665">
+    <tag k="name" v="Stanleybet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6215252528" lat="37.0828409" lon="15.2779585">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6238471032" lat="37.0796709" lon="15.2789515">
+    <tag k="name" v="Planetwin365"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6949957846" lat="37.0633110" lon="15.2916272">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6304756982" lat="37.0691060" lon="15.2862683">
+    <tag k="name" v="Eurobet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6389747198" lat="37.0673362" lon="15.2863510">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="7204814867" lat="37.0688677" lon="15.2873962">
+    <tag k="name" v="Stanleybet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6304756321" lat="37.0722456" lon="15.2854673">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6358723510" lat="37.0721038" lon="15.2863195">
+    <tag k="name" v="The Jackpot Club"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6363338142" lat="37.0753368" lon="15.2835136">
+    <tag k="name" v="GiocaSi"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6363338154" lat="37.0753533" lon="15.2837536">
+    <tag k="name" v="Scommesse Italia"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6268536512" lat="37.0824532" lon="15.2939076">
+    <tag k="name" v="Planetwin365"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6468784642" lat="37.0817704" lon="15.2968183">
+    <tag k="name" v="Planetwin365"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6468784710" lat="37.0832161" lon="15.2968173">
+    <tag k="name" v="Eurobet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6459447500" lat="37.0929033" lon="15.2084064">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6283162533" lat="37.0844259" lon="15.2827675">
+    <tag k="name" v="Sisal Matchpoint"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6283162669" lat="37.0841807" lon="15.2821567">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6250779344" lat="37.0953819" lon="15.2728103">
+    <tag k="name" v="Planetwin365"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6254817948" lat="37.0940316" lon="15.2768221">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6201643680" lat="37.0982490" lon="15.2678818">
+    <tag k="name" v="Eurobet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6245851367" lat="37.0997278" lon="15.2716897">
+    <tag k="name" v="Stanleybet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6269913441" lat="37.0895170" lon="15.2866152">
+    <tag k="name" v="Better"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6274948686" lat="37.0859801" lon="15.2840121">
+    <tag k="name" v="Admiral Sport"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6291853500" lat="37.0872771" lon="15.2845473">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6291853701" lat="37.0878772" lon="15.2868254">
+    <tag k="name" v="Stanleybet Novelli"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6456671105" lat="37.0842574" lon="15.2854229">
+    <tag k="name" v="Scommesse Italia"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6446723858" lat="37.0858781" lon="15.2912327">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6452874098" lat="37.0899038" lon="15.2913078">
+    <tag k="name" v="Scommesse Italia"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <node id="6199350479" lat="37.0854077" lon="15.2976113">
+    <tag k="name" v="Goldbet"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
+  <way id="673247811">
+    <center lat="37.0693357" lon="15.2871641"/>
+    <nd ref="6304757142"/>
+    <nd ref="6304757141"/>
+    <nd ref="6304757140"/>
+    <nd ref="6304757139"/>
+    <nd ref="6358723016"/>
+    <nd ref="6304757138"/>
+    <nd ref="3111175578"/>
+    <nd ref="6358723496"/>
+    <nd ref="3111175577"/>
+    <nd ref="3111158899"/>
+    <nd ref="1847191185"/>
+    <nd ref="6304757124"/>
+    <nd ref="6304757142"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Better"/>
+    <tag k="shop" v="bookmaker"/>
+  </way>
+
+</osm>

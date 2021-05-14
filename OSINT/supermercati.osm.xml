@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T10:57:26Z" areas="2021-05-14T10:27:55Z"/>
+
+  <node id="6146462347" lat="36.9750045" lon="15.1945198">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="7843768084" lat="36.9752518" lon="15.1993221">
+    <tag k="name" v="Like"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="8258816063" lat="36.9783245" lon="15.2005894">
+    <tag k="name" v="Like"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="7613570063" lat="36.9818332" lon="15.2027661">
+    <tag k="name" v="Ard Discount"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6546231322" lat="37.0699071" lon="15.2618709">
+    <tag k="brand" v="Conad"/>
+    <tag k="brand:wikidata" v="Q639075"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="email" v="conad.archimede@formisanogroup.com"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Conad Superstore"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-21:00; Su 09:00-21:00"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="+39 0931 1848065"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462342" lat="37.0690318" lon="15.2723613">
+    <tag k="brand:wikidata" v="Q1374674"/>
+    <tag k="brand:wikipedia" v="it:Eurospin"/>
+    <tag k="name" v="Eurospin"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4750843327" lat="37.0672842" lon="15.2824835">
+    <tag k="name" v="Paghi Poco"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-20:30; Su 08:30-12:00"/>
+    <tag k="phone" v="+39 0931 468942"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://www.paghipoco.eu/vendita.php"/>
+  </node>
+  <node id="3326462975" lat="37.0767965" lon="15.2825676">
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò Maxistore"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5003435318" lat="37.0822836" lon="15.2761887">
+    <tag k="brand:wikidata" v="Q610492"/>
+    <tag k="brand:wikipedia" v="it:SPAR"/>
+    <tag k="name" v="Eurospar"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:30; Su 08:30-13:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3730642225" lat="37.0626660" lon="15.2927380">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:30; Su 07:00-13:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4748882825" lat="37.0691713" lon="15.2834348">
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò Maxistore"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-20:30; Su 08:30-13:00"/>
+    <tag k="phone" v="+39 0931 483079"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://mydecogruppoarena.it/punto-vendita/f-lli-arena-s-r-l-65.html"/>
+  </node>
+  <node id="4750858473" lat="37.0698662" lon="15.2858272">
+    <tag k="brand:wikidata" v="Q57543102"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="name" v="Conad City"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-13:30, 16:15-20:15; Su 08:30-13:00"/>
+    <tag k="phone" v="+39 0931 449344"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=3228"/>
+  </node>
+  <node id="4370007312" lat="37.0755731" lon="15.2907771">
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6193161580" lat="37.0819447" lon="15.2870310">
+    <tag k="brand:wikidata" v="Q60840755"/>
+    <tag k="name" v="Natura Sì"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462350" lat="37.0777237" lon="15.2902298">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6727756929" lat="37.0828763" lon="15.2907874">
+    <tag k="brand:wikidata" v="Q57543102"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="name" v="Conad City"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462349" lat="37.0929002" lon="15.2110000">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462365" lat="37.0836743" lon="15.2580527">
+    <tag k="name" v="Paghi Poco"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6136156366" lat="37.0952075" lon="15.2588143">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai Superstore"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462354" lat="37.0899831" lon="15.2776905">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="5144454621" lat="37.0945167" lon="15.2769332">
+    <tag k="brand:wikidata" v="Q639075"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="name" v="Conad"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="5162886228" lat="37.0944002" lon="15.2769085">
+    <tag k="name" v="Ard Discount"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="7666996581" lat="37.0994565" lon="15.2675629">
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò Maxistore"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3251190191" lat="37.0994229" lon="15.2705203">
+    <tag k="brand:wikidata" v="Q1374674"/>
+    <tag k="brand:wikipedia" v="it:Eurospin"/>
+    <tag k="name" v="Eurospin"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462346" lat="37.0853256" lon="15.2834121">
+    <tag k="brand:wikidata" v="Q57543102"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="name" v="Conad City"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462351" lat="37.0838908" lon="15.2842571">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462352" lat="37.0887832" lon="15.2849222">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6157639017" lat="37.0855105" lon="15.2903212">
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462353" lat="37.0919392" lon="15.2865905">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3232426356" lat="37.0932620" lon="15.2903196">
+    <tag k="name" v="Paghi Poco"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6055397182" lat="37.0910428" lon="15.2908601">
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="name" v="Crai Superstore"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462339" lat="37.0854588" lon="15.2971839">
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò Superstore"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6146462343" lat="37.0843555" lon="15.2971912">
+    <tag k="name" v="Ard Discount"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <way id="686462345">
+    <center lat="37.0646097" lon="15.2741244"/>
+    <nd ref="3135713083"/>
+    <nd ref="3135713176"/>
+    <nd ref="8175111135"/>
+    <nd ref="3135713177"/>
+    <nd ref="6434291578"/>
+    <nd ref="3135712968"/>
+    <nd ref="8175111090"/>
+    <nd ref="8175111092"/>
+    <nd ref="8175111094"/>
+    <nd ref="8175111098"/>
+    <nd ref="8175111097"/>
+    <nd ref="3135713196"/>
+    <nd ref="2506127737"/>
+    <nd ref="8175111173"/>
+    <nd ref="8175111174"/>
+    <nd ref="8175111178"/>
+    <nd ref="8175111176"/>
+    <nd ref="8175111181"/>
+    <nd ref="8175111180"/>
+    <nd ref="8175111194"/>
+    <nd ref="8175111188"/>
+    <nd ref="8175111185"/>
+    <nd ref="8175111198"/>
+    <nd ref="8175111191"/>
+    <nd ref="8175111187"/>
+    <nd ref="8175111196"/>
+    <nd ref="8175111193"/>
+    <nd ref="8175111210"/>
+    <nd ref="8175111204"/>
+    <nd ref="8175111201"/>
+    <nd ref="8175111214"/>
+    <nd ref="8175111207"/>
+    <nd ref="8175111203"/>
+    <nd ref="8175111212"/>
+    <nd ref="8175111209"/>
+    <nd ref="8175111213"/>
+    <nd ref="8175111060"/>
+    <nd ref="8175111061"/>
+    <nd ref="8175111063"/>
+    <nd ref="6434291615"/>
+    <nd ref="8175111065"/>
+    <nd ref="8175111067"/>
+    <nd ref="8175111069"/>
+    <nd ref="8175111071"/>
+    <nd ref="8175111073"/>
+    <nd ref="8175111075"/>
+    <nd ref="8175111077"/>
+    <nd ref="8175111079"/>
+    <nd ref="8175111081"/>
+    <nd ref="8175111083"/>
+    <nd ref="8175111084"/>
+    <nd ref="6434291606"/>
+    <nd ref="8175111087"/>
+    <nd ref="8175111089"/>
+    <nd ref="8185067291"/>
+    <nd ref="8185067289"/>
+    <nd ref="8185067288"/>
+    <nd ref="6434291605"/>
+    <nd ref="6434291601"/>
+    <nd ref="6434291602"/>
+    <nd ref="3135713188"/>
+    <nd ref="7887513918"/>
+    <nd ref="7887513914"/>
+    <nd ref="7887513919"/>
+    <nd ref="7887513920"/>
+    <nd ref="6434291590"/>
+    <nd ref="3135713083"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="brand:wikipedia" v="it:Lidl"/>
+    <tag k="name" v="Lidl"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="686462396">
+    <center lat="37.0651984" lon="15.2760445"/>
+    <nd ref="5933813887"/>
+    <nd ref="5933813890"/>
+    <nd ref="5933813889"/>
+    <nd ref="5933813888"/>
+    <nd ref="6434291683"/>
+    <nd ref="5933813891"/>
+    <nd ref="5933813887"/>
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Crai Superstore"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="175008062">
+    <center lat="37.0672941" lon="15.2792828"/>
+    <nd ref="1856532750"/>
+    <nd ref="1856532799"/>
+    <nd ref="1856532804"/>
+    <nd ref="1856532791"/>
+    <nd ref="1856532789"/>
+    <nd ref="6389746773"/>
+    <nd ref="6389746776"/>
+    <nd ref="1856532755"/>
+    <nd ref="1856532750"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ard Discount"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:30; Su 09:00-18:30"/>
+    <tag k="phone" v="+39 0931-21612"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://www.arddiscount.it/punto-vendita/it-IT/146/via-elorina-68---96100-siracusa-sr"/>
+  </way>
+  <way id="682262039">
+    <center lat="37.0673163" lon="15.2779063"/>
+    <nd ref="4024973897"/>
+    <nd ref="2502578011"/>
+    <nd ref="2502578010"/>
+    <nd ref="3386527945"/>
+    <nd ref="2502578012"/>
+    <nd ref="3088435604"/>
+    <nd ref="6389180855"/>
+    <nd ref="6389180854"/>
+    <nd ref="6389180819"/>
+    <nd ref="6389180822"/>
+    <nd ref="8175111248"/>
+    <nd ref="8175111245"/>
+    <nd ref="6389180821"/>
+    <nd ref="6389180818"/>
+    <nd ref="6389180831"/>
+    <nd ref="6389180817"/>
+    <nd ref="6434292126"/>
+    <nd ref="6412890017"/>
+    <nd ref="6389180851"/>
+    <nd ref="6412890020"/>
+    <nd ref="6389180850"/>
+    <nd ref="3386527968"/>
+    <nd ref="6389180848"/>
+    <nd ref="6389180846"/>
+    <nd ref="3386527970"/>
+    <nd ref="6389180852"/>
+    <nd ref="3386527956"/>
+    <nd ref="4024973897"/>
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò Maxistore"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="477046821">
+    <center lat="37.0818625" lon="15.2681256"/>
+    <nd ref="4704570196"/>
+    <nd ref="1881818226"/>
+    <nd ref="1881818224"/>
+    <nd ref="1881818240"/>
+    <nd ref="1881818253"/>
+    <nd ref="4704570197"/>
+    <nd ref="1885613015"/>
+    <nd ref="1881818254"/>
+    <nd ref="1881818255"/>
+    <nd ref="1881818257"/>
+    <nd ref="1881818261"/>
+    <nd ref="1881818262"/>
+    <nd ref="1881818258"/>
+    <nd ref="4704570198"/>
+    <nd ref="1881818260"/>
+    <nd ref="1881818264"/>
+    <nd ref="1881818265"/>
+    <nd ref="1881818256"/>
+    <nd ref="1881818230"/>
+    <nd ref="1881818229"/>
+    <nd ref="1881818228"/>
+    <nd ref="4704570196"/>
+    <tag k="name" v="Ard Discount"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="584977905">
+    <center lat="37.0816079" lon="15.2649852"/>
+    <nd ref="1885612527"/>
+    <nd ref="7017952902"/>
+    <nd ref="6533062397"/>
+    <nd ref="6533062398"/>
+    <nd ref="1885613027"/>
+    <nd ref="8185607854"/>
+    <nd ref="1885613013"/>
+    <nd ref="8185607853"/>
+    <nd ref="1885612976"/>
+    <nd ref="4704570210"/>
+    <nd ref="1885612972"/>
+    <nd ref="8185607852"/>
+    <nd ref="1885612978"/>
+    <nd ref="1885612984"/>
+    <nd ref="8185607752"/>
+    <nd ref="1885612961"/>
+    <nd ref="8185607758"/>
+    <nd ref="1885612757"/>
+    <nd ref="1885612609"/>
+    <nd ref="8185607855"/>
+    <nd ref="8185607753"/>
+    <nd ref="1885612527"/>
+    <tag k="brand:wikidata" v="Q639075"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="name" v="Conad"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="480873707">
+    <center lat="37.0836921" lon="15.2737864"/>
+    <nd ref="3199026091"/>
+    <nd ref="6724832392"/>
+    <nd ref="6724830884"/>
+    <nd ref="6219920409"/>
+    <nd ref="6724830883"/>
+    <nd ref="7020946668"/>
+    <nd ref="7020946669"/>
+    <nd ref="7020946670"/>
+    <nd ref="3199026185"/>
+    <nd ref="7502201105"/>
+    <nd ref="3199026041"/>
+    <nd ref="3199026091"/>
+    <tag k="brand:wikidata" v="Q1374674"/>
+    <tag k="brand:wikipedia" v="it:Eurospin"/>
+    <tag k="name" v="Eurospin"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:jcb" v="no"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="688720792">
+    <center lat="37.0925907" lon="15.2082723"/>
+    <nd ref="6459447069"/>
+    <nd ref="6459447068"/>
+    <nd ref="6459447067"/>
+    <nd ref="6459447066"/>
+    <nd ref="3200341570"/>
+    <nd ref="7300772477"/>
+    <nd ref="7300772476"/>
+    <nd ref="3200341624"/>
+    <nd ref="6459447064"/>
+    <nd ref="3200341569"/>
+    <nd ref="3200341684"/>
+    <nd ref="6459447063"/>
+    <nd ref="6459447062"/>
+    <nd ref="6459447072"/>
+    <nd ref="6459447071"/>
+    <nd ref="6459447070"/>
+    <nd ref="3200341580"/>
+    <nd ref="7557462106"/>
+    <nd ref="7557462105"/>
+    <nd ref="7557462104"/>
+    <nd ref="6459447069"/>
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Crai"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="750572487">
+    <center lat="37.0917907" lon="15.2640103"/>
+    <nd ref="7042458912"/>
+    <nd ref="7017953418"/>
+    <nd ref="7017953458"/>
+    <nd ref="7017953416"/>
+    <nd ref="6007864145"/>
+    <nd ref="7017953429"/>
+    <nd ref="7042458867"/>
+    <nd ref="8131864017"/>
+    <nd ref="8131864016"/>
+    <nd ref="8131864014"/>
+    <nd ref="8131864012"/>
+    <nd ref="8131864010"/>
+    <nd ref="8131864008"/>
+    <nd ref="8131864006"/>
+    <nd ref="8131864004"/>
+    <nd ref="7017953428"/>
+    <nd ref="8131863982"/>
+    <nd ref="8131863984"/>
+    <nd ref="8131863986"/>
+    <nd ref="8131863988"/>
+    <nd ref="8131863990"/>
+    <nd ref="8131863992"/>
+    <nd ref="8131863994"/>
+    <nd ref="8131863996"/>
+    <nd ref="8131863998"/>
+    <nd ref="8131864001"/>
+    <nd ref="8131864000"/>
+    <nd ref="7483228151"/>
+    <nd ref="7017953441"/>
+    <nd ref="8131863854"/>
+    <nd ref="8131863853"/>
+    <nd ref="7017953440"/>
+    <nd ref="8131863859"/>
+    <nd ref="7017953439"/>
+    <nd ref="8131863862"/>
+    <nd ref="8131863866"/>
+    <nd ref="8131863865"/>
+    <nd ref="8131863870"/>
+    <nd ref="8131863869"/>
+    <nd ref="8131863873"/>
+    <nd ref="7017953436"/>
+    <nd ref="8131863878"/>
+    <nd ref="8131863880"/>
+    <nd ref="8131863882"/>
+    <nd ref="8131863884"/>
+    <nd ref="8131863886"/>
+    <nd ref="8131863889"/>
+    <nd ref="8131863888"/>
+    <nd ref="7017953427"/>
+    <nd ref="8258816132"/>
+    <nd ref="8131863918"/>
+    <nd ref="8131863892"/>
+    <nd ref="8131863893"/>
+    <nd ref="8131863894"/>
+    <nd ref="8131863895"/>
+    <nd ref="8131863896"/>
+    <nd ref="8131863897"/>
+    <nd ref="8131863898"/>
+    <nd ref="8131863899"/>
+    <nd ref="8131863900"/>
+    <nd ref="8131863901"/>
+    <nd ref="8131863902"/>
+    <nd ref="8131863903"/>
+    <nd ref="8131863904"/>
+    <nd ref="7017953430"/>
+    <nd ref="7017953431"/>
+    <nd ref="7042458911"/>
+    <nd ref="7017953435"/>
+    <nd ref="7042458912"/>
+    <tag k="brand:wikidata" v="Q3841263"/>
+    <tag k="brand:wikipedia" v="it:MD (azienda)"/>
+    <tag k="name" v="MD"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="750962953">
+    <center lat="37.0864384" lon="15.2776436"/>
+    <nd ref="3286518125"/>
+    <nd ref="7020946650"/>
+    <nd ref="7020946649"/>
+    <nd ref="7667440911"/>
+    <nd ref="7667440910"/>
+    <nd ref="7020946648"/>
+    <nd ref="7052571731"/>
+    <nd ref="7667440932"/>
+    <nd ref="7052571730"/>
+    <nd ref="8140244245"/>
+    <nd ref="7667440914"/>
+    <nd ref="7667440915"/>
+    <nd ref="7052571729"/>
+    <nd ref="7667440916"/>
+    <nd ref="7667440917"/>
+    <nd ref="7020946647"/>
+    <nd ref="7667440918"/>
+    <nd ref="7667440919"/>
+    <nd ref="7667440909"/>
+    <nd ref="7667440920"/>
+    <nd ref="7050483957"/>
+    <nd ref="7667440906"/>
+    <nd ref="3286518261"/>
+    <nd ref="1858129895"/>
+    <nd ref="3068559563"/>
+    <nd ref="3068559559"/>
+    <nd ref="1858129881"/>
+    <nd ref="1858129889"/>
+    <nd ref="3286518137"/>
+    <nd ref="1858129884"/>
+    <nd ref="1858129883"/>
+    <nd ref="3286518125"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="brand:wikipedia" v="it:Lidl"/>
+    <tag k="name" v="Lidl"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="319017192">
+    <center lat="37.0949176" lon="15.2731331"/>
+    <nd ref="3254330038"/>
+    <nd ref="3254330030"/>
+    <nd ref="6250780188"/>
+    <nd ref="6250780187"/>
+    <nd ref="6250780186"/>
+    <nd ref="3254329978"/>
+    <nd ref="3254329981"/>
+    <nd ref="3254329982"/>
+    <nd ref="3254329995"/>
+    <nd ref="3254330010"/>
+    <nd ref="3254330003"/>
+    <nd ref="3254330005"/>
+    <nd ref="3254330009"/>
+    <nd ref="3254330170"/>
+    <nd ref="3254330165"/>
+    <nd ref="3254330162"/>
+    <nd ref="3254330048"/>
+    <nd ref="3254330028"/>
+    <nd ref="3254330041"/>
+    <nd ref="3254330038"/>
+    <tag k="brand:wikidata" v="Q3696429"/>
+    <tag k="brand:wikipedia" v="it:Crai"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Crai Superstore"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="825911739">
+    <center lat="37.0849407" lon="15.2882496"/>
+    <nd ref="3124163656"/>
+    <nd ref="8416048386"/>
+    <nd ref="8416048389"/>
+    <nd ref="8416048385"/>
+    <nd ref="8416048383"/>
+    <nd ref="8416048381"/>
+    <nd ref="8416048379"/>
+    <nd ref="8416048377"/>
+    <nd ref="8416048375"/>
+    <nd ref="3213590928"/>
+    <nd ref="8416029715"/>
+    <nd ref="8416029714"/>
+    <nd ref="8416029712"/>
+    <nd ref="8416029710"/>
+    <nd ref="8416029708"/>
+    <nd ref="8416029706"/>
+    <nd ref="8416029704"/>
+    <nd ref="8416029702"/>
+    <nd ref="8416029700"/>
+    <nd ref="8416029698"/>
+    <nd ref="3213590930"/>
+    <nd ref="3213590931"/>
+    <nd ref="8416029680"/>
+    <nd ref="8416029679"/>
+    <nd ref="3213590938"/>
+    <nd ref="6928865476"/>
+    <nd ref="3213590934"/>
+    <nd ref="3213590932"/>
+    <nd ref="3122221082"/>
+    <nd ref="6204632170"/>
+    <nd ref="3135713094"/>
+    <nd ref="3135712939"/>
+    <nd ref="8416029673"/>
+    <nd ref="3213590922"/>
+    <nd ref="3124163264"/>
+    <nd ref="7960118336"/>
+    <nd ref="7960118334"/>
+    <nd ref="7960118338"/>
+    <nd ref="7960118335"/>
+    <nd ref="7960118337"/>
+    <nd ref="6269914473"/>
+    <nd ref="3124163656"/>
+    <tag k="brand:wikidata" v="Q65127915"/>
+    <tag k="brand:wikipedia" v="it:Decò"/>
+    <tag k="name" v="Decò Maxistore"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="177768896">
+    <center lat="37.0909596" lon="15.2960251"/>
+    <nd ref="1881818413"/>
+    <nd ref="3223483356"/>
+    <nd ref="1881818420"/>
+    <nd ref="1881818401"/>
+    <nd ref="1881818394"/>
+    <nd ref="1881818413"/>
+    <tag k="brand:wikidata" v="Q284688"/>
+    <tag k="brand:wikipedia" v="it:Penny Market"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Penny Market"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.pennymarket.it/"/>
+  </way>
+  <way id="750572416">
+    <center lat="37.0968117" lon="15.2932319"/>
+    <nd ref="3201592958"/>
+    <nd ref="1863189367"/>
+    <nd ref="3201592954"/>
+    <nd ref="3201592897"/>
+    <nd ref="3227527867"/>
+    <nd ref="3227527851"/>
+    <nd ref="3201592931"/>
+    <nd ref="8149543271"/>
+    <nd ref="8149543273"/>
+    <nd ref="8149543275"/>
+    <nd ref="8149543277"/>
+    <nd ref="8149543279"/>
+    <nd ref="8149543281"/>
+    <nd ref="8149543283"/>
+    <nd ref="8149543286"/>
+    <nd ref="3201592912"/>
+    <nd ref="3227527837"/>
+    <nd ref="4070380578"/>
+    <nd ref="4070380582"/>
+    <nd ref="3201592904"/>
+    <nd ref="3201592955"/>
+    <nd ref="3201592948"/>
+    <nd ref="3201592937"/>
+    <nd ref="8149543360"/>
+    <nd ref="3201592884"/>
+    <nd ref="8149543349"/>
+    <nd ref="3201592880"/>
+    <nd ref="3227527994"/>
+    <nd ref="3201592898"/>
+    <nd ref="4070380797"/>
+    <nd ref="3227528006"/>
+    <nd ref="3201592909"/>
+    <nd ref="3201592906"/>
+    <nd ref="3201592958"/>
+    <tag k="name" v="Ard Discount"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="750572417">
+    <center lat="37.0976917" lon="15.2928267"/>
+    <nd ref="7017953206"/>
+    <nd ref="7017953205"/>
+    <nd ref="7017953204"/>
+    <nd ref="3227528355"/>
+    <nd ref="3128221731"/>
+    <nd ref="3227528417"/>
+    <nd ref="3128221736"/>
+    <nd ref="7017953176"/>
+    <nd ref="7017953175"/>
+    <nd ref="6055397788"/>
+    <nd ref="6055397787"/>
+    <nd ref="6055397786"/>
+    <nd ref="7017953185"/>
+    <nd ref="7017953186"/>
+    <nd ref="8149543524"/>
+    <nd ref="8149543511"/>
+    <nd ref="8149543523"/>
+    <nd ref="8149543476"/>
+    <nd ref="8149543475"/>
+    <nd ref="8149543479"/>
+    <nd ref="8149543481"/>
+    <nd ref="8149543483"/>
+    <nd ref="8149543485"/>
+    <nd ref="8149543487"/>
+    <nd ref="8149543489"/>
+    <nd ref="8149543491"/>
+    <nd ref="8149543493"/>
+    <nd ref="8149543495"/>
+    <nd ref="8149543498"/>
+    <nd ref="8149543497"/>
+    <nd ref="6389180799"/>
+    <nd ref="6389180800"/>
+    <nd ref="7017953200"/>
+    <nd ref="8149543439"/>
+    <nd ref="6389180801"/>
+    <nd ref="8149543460"/>
+    <nd ref="8149543440"/>
+    <nd ref="6389180802"/>
+    <nd ref="8149543441"/>
+    <nd ref="6389180803"/>
+    <nd ref="8149543443"/>
+    <nd ref="6389180804"/>
+    <nd ref="6389180805"/>
+    <nd ref="7017953206"/>
+    <tag k="brand:wikidata" v="Q1374674"/>
+    <tag k="brand:wikipedia" v="it:Eurospin"/>
+    <tag k="name" v="Eurospin"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+
+</osm>

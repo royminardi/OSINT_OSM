@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T10:27:55Z" areas="2021-05-14T09:19:34Z"/>
+
+  <node id="4738256963" lat="36.9753054" lon="15.1986864">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato Settimanale di Cassibile"/>
+  </node>
+  <node id="6371000953" lat="36.9693203" lon="15.2215629">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato del Contadino"/>
+    <tag k="opening_hours" v="Jul-Sep tu 12:00-18:00"/>
+  </node>
+  <node id="6371000954" lat="36.9971967" lon="15.2633890">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato del Contadino"/>
+    <tag k="opening_hours" v="Jul-Sep sa 12:00-18:00"/>
+  </node>
+  <node id="4738256965" lat="37.0621528" lon="15.2722621">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato delle Piante e dei Fiori"/>
+  </node>
+  <node id="6371000957" lat="37.0711486" lon="15.2801563">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato del Contadino"/>
+    <tag k="opening_hours" v="Fr 08:00-14:00"/>
+  </node>
+  <node id="4738256966" lat="37.0649840" lon="15.2934730">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato di Via De Benedictis"/>
+  </node>
+  <node id="6371000956" lat="37.0659184" lon="15.2926109">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato del Contadino"/>
+    <tag k="opening_hours" v="Su 08:00-14:00"/>
+  </node>
+  <node id="4738256967" lat="37.0716469" lon="15.2915821">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato Multietnico"/>
+    <tag k="opening_hours" v="Su 08:00-14:00"/>
+  </node>
+  <node id="4738256968" lat="37.0721776" lon="15.2911100">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato delle Pulci"/>
+    <tag k="opening_hours" v="Su 09:00-13:00"/>
+  </node>
+  <node id="4738256964" lat="37.0938877" lon="15.2095869">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato Settimanale di Belvedere"/>
+  </node>
+  <node id="6371000955" lat="37.0944863" lon="15.2599770">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato del Contadino"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+  </node>
+  <node id="4738256970" lat="37.0961769" lon="15.2744481">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercatino di Via Giarre"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-14:00"/>
+  </node>
+  <node id="4738256969" lat="37.0929945" lon="15.2852279">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato settimanale di Piazza Sgarlata"/>
+    <tag k="opening_hours" v="We 08:00-14:00"/>
+  </node>
+  <way id="480873706">
+    <center lat="37.0633715" lon="15.2729229"/>
+    <nd ref="1863188612"/>
+    <nd ref="4738256943"/>
+    <nd ref="4738256945"/>
+    <nd ref="1863188652"/>
+    <nd ref="6434291541"/>
+    <nd ref="1863188663"/>
+    <nd ref="1863188661"/>
+    <nd ref="4738256962"/>
+    <nd ref="1863188654"/>
+    <nd ref="1863188648"/>
+    <nd ref="1863188635"/>
+    <nd ref="1863188612"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mercato ortofrutticolo"/>
+    <tag k="opening_hours" v="05:00-14:30"/>
+  </way>
+
+</osm>

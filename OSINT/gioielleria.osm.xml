@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T10:58:26Z" areas="2021-05-14T10:27:55Z"/>
+
+  <node id="8356245063" lat="36.9769821" lon="15.1981666">
+    <tag k="name" v="Momenti Preziosi"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6546231357" lat="37.0692175" lon="15.2618541">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Bluespirit"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6546231358" lat="37.0696586" lon="15.2625646">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Stroili"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6296836179" lat="37.0729840" lon="15.2819371">
+    <tag k="name" v="Gioielleria Conigliaro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6304757936" lat="37.0720279" lon="15.2824897">
+    <tag k="name" v="Blue Store"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6369132658" lat="37.0715427" lon="15.2823506">
+    <tag k="name" v="Li Volti"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6444204097" lat="37.0718714" lon="15.2820838">
+    <tag k="name" v="Idee d'Oro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="8109816893" lat="37.0707116" lon="15.2823016">
+    <tag k="name" v="Oreficeria Danieli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6199350694" lat="37.0800699" lon="15.2811068">
+    <tag k="name" v="Fontana Del Vecchio"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="5003435266" lat="37.0637256" lon="15.2935590">
+    <tag k="name" v="Le Perle di Lulù"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6157639007" lat="37.0624557" lon="15.2932711">
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6157639008" lat="37.0623494" lon="15.2931006">
+    <tag k="name" v="Stroili"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6188902860" lat="37.0609424" lon="15.2938439">
+    <tag k="name" v="Massimo Izzo"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6193164815" lat="37.0619721" lon="15.2932911">
+    <tag k="brand" v="Swarovski"/>
+    <tag k="brand:wikidata" v="Q611115"/>
+    <tag k="brand:wikipedia" v="en:Swarovski"/>
+    <tag k="name" v="Swarovski"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6936171412" lat="37.0630361" lon="15.2929788">
+    <tag k="name" v="Izzo Carlo"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6936171445" lat="37.0609366" lon="15.2930995">
+    <tag k="name" v="Massimo Sinatra"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="7015609689" lat="37.0609586" lon="15.2934703">
+    <tag k="name" v="La Caramella d'Oro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="7042592731" lat="37.0613730" lon="15.2929755">
+    <tag k="name" v="Turandot"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="7042592746" lat="37.0623733" lon="15.2918342">
+    <tag k="name" v="Piccolo Atelier Edi"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="8521605700" lat="37.0582249" lon="15.2949298">
+    <tag k="name" v="Baco"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="8521609519" lat="37.0588717" lon="15.2946611">
+    <tag k="name" v="Zirone Oro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="8521609522" lat="37.0599539" lon="15.2946427">
+    <tag k="name" v="Sarkar"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6193163614" lat="37.0690347" lon="15.2845587">
+    <tag k="name" v="Gioielli &amp; Diamanti"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6193163634" lat="37.0685082" lon="15.2848823">
+    <tag k="name" v="Piccione Gioielli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6199350643" lat="37.0696650" lon="15.2833667">
+    <tag k="name" v="Bla Bla"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6304756060" lat="37.0697495" lon="15.2846468">
+    <tag k="name" v="Tresor"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6304756150" lat="37.0697120" lon="15.2856194">
+    <tag k="name" v="Bengasi"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6373946425" lat="37.0656041" lon="15.2873859">
+    <tag k="name" v="Orafo Birbio"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6373946430" lat="37.0655022" lon="15.2877609">
+    <tag k="name" v="Gioielleria Calabrese"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6373946431" lat="37.0654651" lon="15.2878972">
+    <tag k="name" v="Syraka Gioielli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6373947155" lat="37.0653480" lon="15.2871627">
+    <tag k="name" v="Compro Oro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6373948345" lat="37.0678481" lon="15.2845916">
+    <tag k="name" v="Oro Cash"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6373948375" lat="37.0673762" lon="15.2845567">
+    <tag k="name" v="Linea Gioielli Lara"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6376318993" lat="37.0656813" lon="15.2880766">
+    <tag k="name" v="Compro Oro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6431987999" lat="37.0699149" lon="15.2902483">
+    <tag k="name" v="Orafo Musumeci"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6956220904" lat="37.0642755" lon="15.2916194">
+    <tag k="name" v="Riccioli Gioielli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="7020911435" lat="37.0645684" lon="15.2897663">
+    <tag k="name" v="Zappalà"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="7161420164" lat="37.0607971" lon="15.2963008">
+    <tag k="name" v="Patrizia Daliana"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6199350576" lat="37.0708336" lon="15.2831636">
+    <tag k="name" v="Blue Fashion"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6199350577" lat="37.0708020" lon="15.2831816">
+    <tag k="brand" v="Pandora"/>
+    <tag k="brand:wikidata" v="Q2241604"/>
+    <tag k="brand:wikipedia" v="en:Pandora (jewelry)"/>
+    <tag k="name" v="Pandora"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6199350579" lat="37.0706546" lon="15.2832660">
+    <tag k="name" v="Bruno Maria Zimmitti"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6199350605" lat="37.0715633" lon="15.2831588">
+    <tag k="name" v="Li Volti"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6363338157" lat="37.0753499" lon="15.2839956">
+    <tag k="name" v="Oro Vivo"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6268536032" lat="37.0832864" lon="15.2931612">
+    <tag k="name" v="Orafo Uccello"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6468784790" lat="37.0808989" lon="15.2961997">
+    <tag k="name" v="Orodei"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="7557462164" lat="37.0923406" lon="15.2077968">
+    <tag k="name" v="NC Gioielli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162521" lat="37.0848335" lon="15.2829376">
+    <tag k="name" v="Oro Cash"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6250780295" lat="37.0940494" lon="15.2770137">
+    <tag k="name" v="Compro Oro"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6193161560" lat="37.0836364" lon="15.2861732">
+    <tag k="name" v="Gioielleria Spagna"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6193162512" lat="37.0853754" lon="15.2889643">
+    <tag k="name" v="Sciortino"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162230" lat="37.0867087" lon="15.2870590">
+    <tag k="name" v="Aurum"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162231" lat="37.0866995" lon="15.2870213">
+    <tag k="name" v="Sarkar"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162235" lat="37.0865874" lon="15.2865602">
+    <tag k="name" v="Alice Pia"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162253" lat="37.0865212" lon="15.2862500">
+    <tag k="name" v="Gioielleria Piccione"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162353" lat="37.0864663" lon="15.2870049">
+    <tag k="name" v="Orafo Aprile"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6283162397" lat="37.0861342" lon="15.2854635">
+    <tag k="name" v="Ambra"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6448673999" lat="37.0854511" lon="15.2894750">
+    <tag k="name" v="Veneziano Gioielli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6204633463" lat="37.0837032" lon="15.2898246">
+    <tag k="name" v="Mony Gioielli"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6448674362" lat="37.0872263" lon="15.2899978">
+    <tag k="name" v="Orafo Cavalieri"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="6467192298" lat="37.0844232" lon="15.2969143">
+    <tag k="name" v="Orafo Scalia"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+
+</osm>

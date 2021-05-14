@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T11:00:24Z" areas="2021-05-14T10:27:55Z"/>
+
+  <node id="6546231347" lat="37.0694705" lon="15.2620200">
+    <tag k="brand" v="TIM"/>
+    <tag k="brand:wikidata" v="Q144617"/>
+    <tag k="brand:wikipedia" v="it:TIM"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Tim"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6546231350" lat="37.0696496" lon="15.2623048">
+    <tag k="brand" v="Windtre"/>
+    <tag k="brand:wikidata" v="Q28119223"/>
+    <tag k="brand:wikipedia" v="it:Wind Tre"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Windtre"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6369132801" lat="37.0706022" lon="15.2804492">
+    <tag k="name" v="LoRiparo"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6369132803" lat="37.0705296" lon="15.2805378">
+    <tag k="brand" v="Windtre"/>
+    <tag k="brand:wikidata" v="Q28119223"/>
+    <tag k="brand:wikipedia" v="it:Wind Tre"/>
+    <tag k="name" v="Windtre"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6369132827" lat="37.0704557" lon="15.2811192">
+    <tag k="brand" v="Vodafone"/>
+    <tag k="brand:wikidata" v="Q122141"/>
+    <tag k="brand:wikipedia" v="en:Vodafone"/>
+    <tag k="name" v="Vodafone"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6193163635" lat="37.0683420" lon="15.2849788">
+    <tag k="name" v="Fastweb"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6219919578" lat="37.0699052" lon="15.2837330">
+    <tag k="brand" v="Tim"/>
+    <tag k="brand:wikidata" v="Q144617"/>
+    <tag k="brand:wikipedia" v="en:Telecom Italia"/>
+    <tag k="name" v="Tim"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6397419496" lat="37.0660137" lon="15.2874468">
+    <tag k="name" v="iRiparo"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6948920978" lat="37.0641199" lon="15.2920686">
+    <tag k="name" v="Fix to Fix"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6358723883" lat="37.0718469" lon="15.2861674">
+    <tag k="name" v="Telab One"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6363338159" lat="37.0753449" lon="15.2842293">
+    <tag k="name" v="Windtre"/>
+    <tag k="operator" v="Sp Multiservice"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6363338253" lat="37.0747164" lon="15.2832233">
+    <tag k="name" v="Dottor Phone"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6238471404" lat="37.0834028" lon="15.2870548">
+    <tag k="name" v="Cellular Time"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6204633529" lat="37.0834831" lon="15.2901253">
+    <tag k="brand" v="Tim"/>
+    <tag k="brand:wikidata" v="Q144617"/>
+    <tag k="brand:wikipedia" v="en:Telecom Italia"/>
+    <tag k="name" v="Tim"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6247890501" lat="37.0772113" lon="15.2913269">
+    <tag k="name" v="Telab"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6258868430" lat="37.0776547" lon="15.2941516">
+    <tag k="brand" v="Tim"/>
+    <tag k="brand:wikidata" v="Q144617"/>
+    <tag k="brand:wikipedia" v="en:Telecom Italia"/>
+    <tag k="name" v="Tim"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="7191510231" lat="37.0834456" lon="15.2916537">
+    <tag k="name" v="Gigatel"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6459447020" lat="37.0925999" lon="15.2090361">
+    <tag k="name" v="Phone Center"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="7248749762" lat="37.0930371" lon="15.2146461">
+    <tag k="name" v="Smart Plus"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6283162577" lat="37.0847187" lon="15.2812264">
+    <tag k="brand" v="Windtre"/>
+    <tag k="brand:wikidata" v="Q28119223"/>
+    <tag k="brand:wikipedia" v="it:Wind Tre"/>
+    <tag k="name" v="Windtre"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6245850996" lat="37.0999994" lon="15.2719933">
+    <tag k="name" v="Cellular Service"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6283162254" lat="37.0865065" lon="15.2861845">
+    <tag k="name" v="Technolab Store"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6283162359" lat="37.0864223" lon="15.2868329">
+    <tag k="name" v="Immagini &amp; Parole"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="6820718813" lat="37.0853441" lon="15.2883284">
+    <tag k="name" v="Iphone Center"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="8066751658" lat="37.0841627" lon="15.2832896">
+    <tag k="name" v="QQ Store"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+
+</osm>

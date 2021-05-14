@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-05-14T10:58:26Z" areas="2021-05-14T10:27:55Z"/>
+
+  <node id="6546231328" lat="37.0695514" lon="15.2623272">
+    <tag k="level" v="1"/>
+    <tag k="name" v="Scarpe &amp; Scarpe"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6546231339" lat="37.0694203" lon="15.2621808">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Aw Lab"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6546231340" lat="37.0696910" lon="15.2627880">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Bata"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-21:00"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6434291535" lat="37.0628977" lon="15.2738848">
+    <tag k="name" v="Costa Superstore"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6199350543" lat="37.0703960" lon="15.2827356">
+    <tag k="name" v="Millepiedi"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6304757778" lat="37.0708084" lon="15.2820665">
+    <tag k="name" v="White"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6369132659" lat="37.0716675" lon="15.2826888">
+    <tag k="name" v="Meeting"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="5354237122" lat="37.0822345" lon="15.2759499">
+    <tag k="brand" v="Scarpinando"/>
+    <tag k="brand:wikidata" v="Q73378741"/>
+    <tag k="name" v="Scarpinando"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6936171413" lat="37.0631015" lon="15.2929459">
+    <tag k="name" v="Superga"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="7015609626" lat="37.0628223" lon="15.2934612">
+    <tag k="name" v="Ortigia Project"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="7015609640" lat="37.0624125" lon="15.2932928">
+    <tag k="name" v="Ortigia Project"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="7040636980" lat="37.0624266" lon="15.2927745">
+    <tag k="name" v="Grasso"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="7042592722" lat="37.0617751" lon="15.2928869">
+    <tag k="name" v="Lunette Shoes"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="8521609530" lat="37.0604000" lon="15.2943542">
+    <tag k="name" v="Il Sandalo Caprese"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6199350664" lat="37.0699746" lon="15.2836934">
+    <tag k="name" v="Deichmann"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6304757752" lat="37.0697881" lon="15.2834065">
+    <tag k="name" v="Ektos"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6373946403" lat="37.0657647" lon="15.2867966">
+    <tag k="name" v="The Shoes Outlet"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6373947815" lat="37.0649760" lon="15.2884135">
+    <tag k="name" v="Padula"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6304756491" lat="37.0709438" lon="15.2849002">
+    <tag k="name" v="Big Foot"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6925097125" lat="37.0718823" lon="15.2879027">
+    <tag k="name" v="Catanzaro Calzature"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="8376102088" lat="37.0720249" lon="15.2870961">
+    <tag k="name" v="Tacco 13"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6431988562" lat="37.0720703" lon="15.2904954">
+    <tag k="name" v="Schiavone"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6204633412" lat="37.0849702" lon="15.2891764">
+    <tag k="name" v="Paseo"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6274947118" lat="37.0860301" lon="15.2850493">
+    <tag k="name" v="La Pantofolaia"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="8533223647" lat="37.0838754" lon="15.2880630">
+    <tag k="shop" v="shoes"/>
+  </node>
+  <node id="6448673997" lat="37.0855054" lon="15.2896364">
+    <tag k="name" v="Linea Pelle"/>
+    <tag k="shop" v="shoes"/>
+  </node>
+
+</osm>

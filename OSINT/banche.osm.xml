@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-13T11:24:58Z"/>
+<meta osm_base="2021-05-14T10:24:43Z" areas="2021-05-14T09:19:34Z"/>
 
   <node id="5885367886" lat="36.9771946" lon="15.1988436">
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="brand:wikidata" v="Q3633687"/>
-    <tag k="brand:wikipedia" v="it:Banca Agricola Popolare di Ragusa"/>
-    <tag k="name" v="Banca Agricola Popolare di Ragusa"/>
-    <tag k="short_name" v="Bapr"/>
-  </node>
-  <node id="8076040043" lat="37.0814949" lon="15.1516378">
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banco di Sicilia"/>
-    <tag k="brand:wikidata" v="Q45568"/>
-    <tag k="brand:wikipedia" v="it:UniCredit"/>
-    <tag k="name" v="Unicredit"/>
-  </node>
-  <node id="8076048859" lat="37.0787452" lon="15.1573750">
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="brand:wikidata" v="Q46730"/>
-    <tag k="brand:wikipedia" v="it:Banca Monte dei Paschi di Siena"/>
-    <tag k="name" v="Monte dei Paschi di Siena"/>
-    <tag k="short_name" v="Mps"/>
-  </node>
-  <node id="8076040044" lat="37.0853807" lon="15.1605105">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
     <tag k="brand:wikidata" v="Q3633687"/>
