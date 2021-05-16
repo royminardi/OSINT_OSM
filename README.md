@@ -3,6 +3,6 @@ The project extracts queries from OpenStreetMap by implementing the following li
 
 Another library you need is async-http-client from the https://github.com/AsyncHttpClient/async-http-client repository.
 
-The OverpassFilterQuery.java class has been modified to the original library by adding new method that allows you to extract together node, way and relation.
+The OverpassFilterQuery class has been modified to the overpasser library by creating a new constructor method and defining as new methods close, node, rel, way, nwr, area (the new method takes a City as argument), adminLevel, wikipedia, searcharea, build.
 
-The OverpassFilterQuery.java class has been modified compared to the original library to allow a customized extraction and especially by city.
+This allows you to expand the query filters and the most important thing is the search within a city instead of generic geographic coordinates.
