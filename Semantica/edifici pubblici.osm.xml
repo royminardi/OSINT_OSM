@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-07-12T14:07:13Z" areas="2021-07-12T13:24:27Z"/>
+
+  <way id="281717151">
+    <center lat="37.0539772" lon="15.2952590"/>
+    <nd ref="2856931352"/>
+    <nd ref="2856931351"/>
+    <nd ref="2856931355"/>
+    <nd ref="2856931356"/>
+    <nd ref="2856931358"/>
+    <nd ref="2856931359"/>
+    <nd ref="2856931352"/>
+    <tag k="building" v="public"/>
+    <tag k="fee" v="yes"/>
+    <tag k="museum" v="history;military"/>
+    <tag k="name" v="Sala cartografie"/>
+    <tag k="name:en" v="Map room"/>
+    <tag k="name:fr" v="Salle des cartes"/>
+    <tag k="tourism" v="museum"/>
+  </way>
+  <way id="410053293">
+    <center lat="37.0612856" lon="15.2702889"/>
+    <nd ref="4119165129"/>
+    <nd ref="4119165134"/>
+    <nd ref="4119165126"/>
+    <nd ref="4119165123"/>
+    <nd ref="4119165129"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Comune di Siracusa - Settore mobilità e trasporti"/>
+  </way>
+  <way id="173976113">
+    <center lat="37.0694864" lon="15.2812787"/>
+    <nd ref="6369133066"/>
+    <nd ref="6453358575"/>
+    <nd ref="1847189781"/>
+    <nd ref="6417128140"/>
+    <nd ref="6369132874"/>
+    <nd ref="1847190206"/>
+    <nd ref="1847190153"/>
+    <nd ref="6369132875"/>
+    <nd ref="1847190150"/>
+    <nd ref="6369132876"/>
+    <nd ref="6369132877"/>
+    <nd ref="6369132878"/>
+    <nd ref="6369132879"/>
+    <nd ref="1847189775"/>
+    <nd ref="6453358571"/>
+    <nd ref="6453358572"/>
+    <nd ref="6369133066"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Palazzo di vetro"/>
+  </way>
+  <way id="303673101">
+    <center lat="37.0706147" lon="15.2687607"/>
+    <nd ref="3080743627"/>
+    <nd ref="3080743628"/>
+    <nd ref="3080743629"/>
+    <nd ref="3080743630"/>
+    <nd ref="3080743627"/>
+    <tag k="building" v="public"/>
+  </way>
+  <way id="306358922">
+    <center lat="37.0710068" lon="15.2830284"/>
+    <nd ref="6453358478"/>
+    <nd ref="3112429306"/>
+    <nd ref="3112429307"/>
+    <nd ref="3112429308"/>
+    <nd ref="3112429309"/>
+    <nd ref="3112429298"/>
+    <nd ref="3112429299"/>
+    <nd ref="3112429295"/>
+    <nd ref="6304757818"/>
+    <nd ref="3112429296"/>
+    <nd ref="6453358474"/>
+    <nd ref="6453358477"/>
+    <nd ref="6199350585"/>
+    <nd ref="6453358476"/>
+    <nd ref="6453358475"/>
+    <nd ref="3112429294"/>
+    <nd ref="6453358478"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Ex Enpas"/>
+  </way>
+  <way id="174329126">
+    <center lat="37.0626325" lon="15.2913995"/>
+    <nd ref="1850206644"/>
+    <nd ref="4352964270"/>
+    <nd ref="4352964274"/>
+    <nd ref="4352964277"/>
+    <nd ref="1850206643"/>
+    <nd ref="1850206658"/>
+    <nd ref="6434291302"/>
+    <nd ref="4352964528"/>
+    <nd ref="6434291301"/>
+    <nd ref="1850206665"/>
+    <nd ref="1850206644"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="government" v="chamber_of_commerce"/>
+    <tag k="name" v="Camera di Commercio, Industria, Artigianato e Agricoltura del Sud Est Sicilia"/>
+    <tag k="office" v="government"/>
+    <tag k="short_name" v="Camera di Commercio del Sud Est Sicilia"/>
+  </way>
+  <way id="437483996">
+    <center lat="37.0630015" lon="15.2944504"/>
+    <nd ref="4352964590"/>
+    <nd ref="1839290207"/>
+    <nd ref="1855169553"/>
+    <nd ref="4352964245"/>
+    <nd ref="4352964244"/>
+    <nd ref="4352964536"/>
+    <nd ref="4352964551"/>
+    <nd ref="4352964549"/>
+    <nd ref="4352964548"/>
+    <nd ref="4352964566"/>
+    <nd ref="4352964563"/>
+    <nd ref="4352964672"/>
+    <nd ref="1855169619"/>
+    <nd ref="1855169616"/>
+    <nd ref="4352964697"/>
+    <nd ref="4352964682"/>
+    <nd ref="4352964650"/>
+    <nd ref="4352964627"/>
+    <nd ref="4352964584"/>
+    <nd ref="4352964580"/>
+    <nd ref="4352964573"/>
+    <nd ref="4352964560"/>
+    <nd ref="4352964589"/>
+    <nd ref="4352964590"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="2"/>
+  </way>
+  <way id="175176763">
+    <center lat="37.0849121" lon="15.2776938"/>
+    <nd ref="1858129809"/>
+    <nd ref="1858129797"/>
+    <nd ref="1858129799"/>
+    <nd ref="1858129790"/>
+    <nd ref="1858129788"/>
+    <nd ref="1858129757"/>
+    <nd ref="1858129758"/>
+    <nd ref="1858129754"/>
+    <nd ref="1858129752"/>
+    <nd ref="1858129745"/>
+    <nd ref="1858129741"/>
+    <nd ref="1858129804"/>
+    <nd ref="1858129809"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="name" v="Palazzetto della sanità"/>
+  </way>
+
+</osm>

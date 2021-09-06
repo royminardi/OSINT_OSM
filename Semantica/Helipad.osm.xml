@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-08-13T06:56:01Z" areas="2021-08-13T06:39:44Z"/>
+
+  <node id="3260503914" lat="37.1013545" lon="15.2685263">
+    <tag k="aeroway" v="helipad"/>
+    <tag k="ele" v="53"/>
+  </node>
+  <way id="101333070">
+    <center lat="37.0615396" lon="15.2675858"/>
+    <nd ref="1169960894"/>
+    <nd ref="1169960534"/>
+    <nd ref="1169960828"/>
+    <nd ref="1169960624"/>
+    <nd ref="1169960894"/>
+    <tag k="aeroway" v="helipad"/>
+    <tag k="ele" v="2"/>
+  </way>
+  <way id="410067194">
+    <center lat="37.0618071" lon="15.2671911"/>
+    <nd ref="4119356211"/>
+    <nd ref="4119356217"/>
+    <nd ref="4119356216"/>
+    <nd ref="4119356209"/>
+    <nd ref="4119356211"/>
+    <tag k="aeroway" v="helipad"/>
+    <tag k="ele" v="2"/>
+  </way>
+
+</osm>

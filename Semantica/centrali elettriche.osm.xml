@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-06-20T13:39:33Z" areas="2021-06-20T12:50:27Z"/>
+
+  <way id="813468318">
+    <center lat="37.0054358" lon="15.2390617"/>
+    <nd ref="7598643966"/>
+    <nd ref="7598643965"/>
+    <nd ref="7598643964"/>
+    <nd ref="7598643963"/>
+    <nd ref="7598643962"/>
+    <nd ref="7598643966"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="885605011">
+    <center lat="37.0360254" lon="15.1310317"/>
+    <nd ref="8235104226"/>
+    <nd ref="8235104225"/>
+    <nd ref="8235104224"/>
+    <nd ref="8235104223"/>
+    <nd ref="8235104226"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="189482997">
+    <center lat="37.0673153" lon="15.1708065"/>
+    <nd ref="2000908358"/>
+    <nd ref="3997698251"/>
+    <nd ref="3997698246"/>
+    <nd ref="3997698235"/>
+    <nd ref="3997698233"/>
+    <nd ref="3997698232"/>
+    <nd ref="2000908357"/>
+    <nd ref="2000908407"/>
+    <nd ref="2000908295"/>
+    <nd ref="3997698579"/>
+    <nd ref="3997698575"/>
+    <nd ref="2000908489"/>
+    <nd ref="3997698571"/>
+    <nd ref="3997698566"/>
+    <nd ref="2000908358"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="189483002">
+    <center lat="37.0602661" lon="15.1877376"/>
+    <nd ref="2000908451"/>
+    <nd ref="2000908423"/>
+    <nd ref="2000908408"/>
+    <nd ref="2000908284"/>
+    <nd ref="2000908335"/>
+    <nd ref="2000908451"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="189482998">
+    <center lat="37.0463193" lon="15.2157584"/>
+    <nd ref="2000908480"/>
+    <nd ref="2000908340"/>
+    <nd ref="2000908347"/>
+    <nd ref="2000908419"/>
+    <nd ref="2000908431"/>
+    <nd ref="2000908393"/>
+    <nd ref="2000908260"/>
+    <nd ref="2000908300"/>
+    <nd ref="2000908289"/>
+    <nd ref="2000908458"/>
+    <nd ref="2000908457"/>
+    <nd ref="2000908480"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496378">
+    <center lat="37.0885349" lon="15.2753825"/>
+    <nd ref="3957140687"/>
+    <nd ref="3957140690"/>
+    <nd ref="3957140683"/>
+    <nd ref="3957140678"/>
+    <nd ref="3957140687"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496379">
+    <center lat="37.0888042" lon="15.2752656"/>
+    <nd ref="3957140706"/>
+    <nd ref="3957140707"/>
+    <nd ref="3957140703"/>
+    <nd ref="3957140699"/>
+    <nd ref="3957140706"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496380">
+    <center lat="37.0883985" lon="15.2754453"/>
+    <nd ref="3957140676"/>
+    <nd ref="3957140680"/>
+    <nd ref="3957140673"/>
+    <nd ref="3957140668"/>
+    <nd ref="3957140676"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496382">
+    <center lat="37.0886723" lon="15.2753228"/>
+    <nd ref="3957140698"/>
+    <nd ref="3957140700"/>
+    <nd ref="3957140694"/>
+    <nd ref="3957140689"/>
+    <nd ref="3957140698"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496384">
+    <center lat="37.0880322" lon="15.2757884"/>
+    <nd ref="3957134852"/>
+    <nd ref="3957140658"/>
+    <nd ref="3957134853"/>
+    <nd ref="3957134850"/>
+    <nd ref="3957134852"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496385">
+    <center lat="37.0881691" lon="15.2757278"/>
+    <nd ref="3957140659"/>
+    <nd ref="3957140663"/>
+    <nd ref="3957140660"/>
+    <nd ref="3957134855"/>
+    <nd ref="3957140659"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496388">
+    <center lat="37.0883059" lon="15.2756679"/>
+    <nd ref="3957140664"/>
+    <nd ref="3957140674"/>
+    <nd ref="3957140666"/>
+    <nd ref="3957140661"/>
+    <nd ref="3957140664"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496381">
+    <center lat="37.0886771" lon="15.2771224"/>
+    <nd ref="3957140691"/>
+    <nd ref="3957140702"/>
+    <nd ref="3957140697"/>
+    <nd ref="3957140684"/>
+    <nd ref="3957140691"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496383">
+    <center lat="37.0884117" lon="15.2772409"/>
+    <nd ref="3957140671"/>
+    <nd ref="3957140682"/>
+    <nd ref="3957140675"/>
+    <nd ref="3957140662"/>
+    <nd ref="4568983779"/>
+    <nd ref="3957140671"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496386">
+    <center lat="37.0885421" lon="15.2771824"/>
+    <nd ref="3957140679"/>
+    <nd ref="3957140693"/>
+    <nd ref="3957140686"/>
+    <nd ref="3957140672"/>
+    <nd ref="3957140679"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+  <way id="392496387">
+    <center lat="37.0888106" lon="15.2770609"/>
+    <nd ref="3957140701"/>
+    <nd ref="3957140708"/>
+    <nd ref="3957140705"/>
+    <nd ref="3957140695"/>
+    <nd ref="3957140701"/>
+    <tag k="generator:method" v="photovoltaic"/>
+    <tag k="generator:output:electricity" v="yes"/>
+    <tag k="generator:source" v="solar"/>
+    <tag k="generator:type" v="solar_photovoltaic_panel"/>
+    <tag k="layer" v="1"/>
+    <tag k="power" v="generator"/>
+  </way>
+
+</osm>

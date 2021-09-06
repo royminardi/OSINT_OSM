@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-07-31T15:44:27Z" areas="2021-07-31T14:52:26Z"/>
+
+  <way id="44683104">
+    <center lat="37.0595826" lon="15.2938167"/>
+    <nd ref="1832289759"/>
+    <nd ref="7040655585"/>
+    <nd ref="567053421"/>
+    <nd ref="7040636984"/>
+    <nd ref="1851919767"/>
+    <nd ref="1872784721"/>
+    <nd ref="1872784710"/>
+    <nd ref="3199444157"/>
+    <nd ref="4370567166"/>
+    <nd ref="569281896"/>
+    <nd ref="1872784714"/>
+    <nd ref="569281906"/>
+    <nd ref="1851919784"/>
+    <nd ref="1851919785"/>
+    <nd ref="1872784723"/>
+    <nd ref="1872784722"/>
+    <nd ref="569281899"/>
+    <nd ref="1851919801"/>
+    <nd ref="1872784726"/>
+    <nd ref="4351572957"/>
+    <nd ref="4351572956"/>
+    <nd ref="1832289759"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="architect" v="Andrea Palma"/>
+    <tag k="building" v="cathedral"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="Cattedrale Natività di Maria Santissima"/>
+    <tag k="name:de" v="Kathedrale von Syrakus"/>
+    <tag k="name:en" v="Cathedral of Syracuse"/>
+    <tag k="name:es" v="Catedral de Siracusa"/>
+    <tag k="name:fr" v="Cathédrale de Syracuse"/>
+    <tag k="name:ko" v="시라쿠사 성당"/>
+    <tag k="name:nl" v="Kathedraal van Syracuse"/>
+    <tag k="name:ru" v="Кафедральный собор"/>
+    <tag k="name:sk" v="Stolnica v Sirakuzah"/>
+    <tag k="religion" v="christian"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q1736222"/>
+    <tag k="wikipedia" v="it:Duomo di Siracusa"/>
+    <tag k="year_of_construction" v="1753"/>
+  </way>
+
+</osm>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-07-31T15:43:24Z" areas="2021-07-31T14:52:26Z"/>
+
+  <way id="265232255">
+    <center lat="37.0349648" lon="15.1631481"/>
+    <nd ref="2708964996"/>
+    <nd ref="4586242342"/>
+    <nd ref="4586242343"/>
+    <nd ref="2708964998"/>
+    <nd ref="2708964997"/>
+    <nd ref="4586242330"/>
+    <nd ref="4586242331"/>
+    <nd ref="2708964995"/>
+    <nd ref="4586242332"/>
+    <nd ref="4586242333"/>
+    <nd ref="4586242334"/>
+    <nd ref="4586242335"/>
+    <nd ref="4586242336"/>
+    <nd ref="4586242337"/>
+    <nd ref="4586242322"/>
+    <nd ref="4586242338"/>
+    <nd ref="4586242324"/>
+    <nd ref="4586242323"/>
+    <nd ref="4586242339"/>
+    <nd ref="4586242340"/>
+    <nd ref="4586242341"/>
+    <nd ref="2708964996"/>
+    <tag k="amenity" v="prison"/>
+    <tag k="name" v="Casa Circondariale di Siracusa"/>
+  </way>
+
+</osm>

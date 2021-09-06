@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-08-13T04:03:48Z" areas="2021-08-13T03:23:03Z"/>
+
+  <node id="6900561087" lat="37.0595332" lon="15.2943852">
+    <tag k="amenity" v="cinema"/>
+    <tag k="name" v="Siracusa 3D Reborn"/>
+  </node>
+  <way id="239080138">
+    <center lat="37.0829563" lon="15.2927531"/>
+    <nd ref="2468945131"/>
+    <nd ref="3216818449"/>
+    <nd ref="2468945132"/>
+    <nd ref="3216818394"/>
+    <nd ref="3216818387"/>
+    <nd ref="3216818381"/>
+    <nd ref="2468945133"/>
+    <nd ref="2468945134"/>
+    <nd ref="3216818395"/>
+    <nd ref="2468945135"/>
+    <nd ref="2468945136"/>
+    <nd ref="3216818414"/>
+    <nd ref="3216818421"/>
+    <nd ref="3216818415"/>
+    <nd ref="3216818429"/>
+    <nd ref="2468945137"/>
+    <nd ref="2468945140"/>
+    <nd ref="6268536487"/>
+    <nd ref="6268536488"/>
+    <nd ref="6268536489"/>
+    <nd ref="6268536490"/>
+    <nd ref="6268536491"/>
+    <nd ref="6268536492"/>
+    <nd ref="2468945141"/>
+    <nd ref="2468945131"/>
+    <tag k="amenity" v="cinema"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Multisala Planet Teatro Vasquez"/>
+  </way>
+  <way id="394688776">
+    <center lat="37.0931318" lon="15.2109099"/>
+    <nd ref="3976556009"/>
+    <nd ref="7275676948"/>
+    <nd ref="3976556004"/>
+    <nd ref="3976555989"/>
+    <nd ref="7275676950"/>
+    <nd ref="3976555993"/>
+    <nd ref="3976555995"/>
+    <nd ref="7262101287"/>
+    <nd ref="7262101286"/>
+    <nd ref="7262101285"/>
+    <nd ref="7262053884"/>
+    <nd ref="7275676949"/>
+    <nd ref="7262053883"/>
+    <nd ref="3976556014"/>
+    <nd ref="3976556009"/>
+    <tag k="amenity" v="cinema"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cine teatro Aurora"/>
+  </way>
+
+</osm>

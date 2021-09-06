@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-06-19T11:38:09Z" areas="2021-06-19T11:27:57Z"/>
+
+  <node id="6479491081" lat="37.0706325" lon="15.2687548">
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Polizia Provinciale"/>
+  </node>
+  <node id="567053441" lat="37.0586216" lon="15.2961882">
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Carabinieri"/>
+    <tag k="operator" v="Arma dei Carabinieri"/>
+  </node>
+  <way id="903625188">
+    <center lat="36.9746066" lon="15.1994490"/>
+    <nd ref="1893519054"/>
+    <nd ref="1896670534"/>
+    <nd ref="8392523591"/>
+    <nd ref="1896670558"/>
+    <nd ref="1896670562"/>
+    <nd ref="1896670583"/>
+    <nd ref="1896670605"/>
+    <nd ref="8392523592"/>
+    <nd ref="1896670591"/>
+    <nd ref="1896670580"/>
+    <nd ref="1893988810"/>
+    <nd ref="1893988797"/>
+    <nd ref="1893519059"/>
+    <nd ref="1893519052"/>
+    <nd ref="1893519045"/>
+    <nd ref="1893519043"/>
+    <nd ref="1893519054"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Carabinieri"/>
+    <tag k="operator" v="Arma dei Carabinieri"/>
+  </way>
+  <way id="849353251">
+    <center lat="36.9660522" lon="15.2098416"/>
+    <nd ref="3102960951"/>
+    <nd ref="3102960937"/>
+    <nd ref="7924340954"/>
+    <nd ref="3102960945"/>
+    <nd ref="3102960950"/>
+    <nd ref="3102960956"/>
+    <nd ref="7924340992"/>
+    <nd ref="7924340959"/>
+    <nd ref="7924340967"/>
+    <nd ref="3102960929"/>
+    <nd ref="3102960957"/>
+    <nd ref="3102960951"/>
+    <tag k="amenity" v="police"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Polizia Municipale"/>
+  </way>
+  <way id="242807429">
+    <center lat="36.9798106" lon="15.2598570"/>
+    <nd ref="2502610005"/>
+    <nd ref="8715941739"/>
+    <nd ref="2502610002"/>
+    <nd ref="8713415286"/>
+    <nd ref="8713415287"/>
+    <nd ref="8713415283"/>
+    <nd ref="2502610000"/>
+    <nd ref="2502610003"/>
+    <nd ref="2502610004"/>
+    <nd ref="2502610005"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Guardia di Finanza"/>
+  </way>
+  <way id="281717283">
+    <center lat="37.0538351" lon="15.2947050"/>
+    <nd ref="2856928579"/>
+    <nd ref="2856928580"/>
+    <nd ref="2856928581"/>
+    <nd ref="2856928582"/>
+    <nd ref="2856928579"/>
+    <tag k="amenity" v="police"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+  </way>
+  <way id="664546897">
+    <center lat="37.0822946" lon="15.2721550"/>
+    <nd ref="1888698230"/>
+    <nd ref="6219920212"/>
+    <nd ref="6219920199"/>
+    <nd ref="1888698250"/>
+    <nd ref="1888698288"/>
+    <nd ref="6219920201"/>
+    <nd ref="1888698301"/>
+    <nd ref="7504717195"/>
+    <nd ref="1888698276"/>
+    <nd ref="6219920213"/>
+    <nd ref="1888698230"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Ispettorato Ripartimentale delle Foreste - Distaccamento di Siracusa"/>
+    <tag k="operator" v="Regione Siciliana"/>
+  </way>
+  <way id="174517449">
+    <center lat="37.0582552" lon="15.2922493"/>
+    <nd ref="1851919481"/>
+    <nd ref="1851919443"/>
+    <nd ref="5071819483"/>
+    <nd ref="1851919454"/>
+    <nd ref="5071819484"/>
+    <nd ref="1851919477"/>
+    <nd ref="5071819482"/>
+    <nd ref="5071819481"/>
+    <nd ref="1851919473"/>
+    <nd ref="5071819478"/>
+    <nd ref="1851919481"/>
+    <tag k="amenity" v="police"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Capitaneria di Porto"/>
+  </way>
+  <way id="680709062">
+    <center lat="37.0641112" lon="15.2859317"/>
+    <nd ref="3132304923"/>
+    <nd ref="3132304928"/>
+    <nd ref="6373946856"/>
+    <nd ref="6373946841"/>
+    <nd ref="6373946842"/>
+    <nd ref="4573817422"/>
+    <nd ref="3125505701"/>
+    <nd ref="3132304932"/>
+    <nd ref="3132304923"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Polizia di Frontiera"/>
+  </way>
+  <way id="512979846">
+    <center lat="37.0639963" lon="15.2893649"/>
+    <nd ref="6407872788"/>
+    <nd ref="6407871981"/>
+    <nd ref="1834894568"/>
+    <nd ref="6407872789"/>
+    <nd ref="1856532690"/>
+    <nd ref="6407872788"/>
+    <tag k="amenity" v="police"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Guardia di Finanza"/>
+  </way>
+  <way id="673247806">
+    <center lat="37.0690532" lon="15.2857172"/>
+    <nd ref="1847189046"/>
+    <nd ref="1847189690"/>
+    <nd ref="3086009140"/>
+    <nd ref="1847189800"/>
+    <nd ref="6304756963"/>
+    <nd ref="6304756969"/>
+    <nd ref="6304756966"/>
+    <nd ref="6304756959"/>
+    <nd ref="6304756956"/>
+    <nd ref="6304756957"/>
+    <nd ref="6304756952"/>
+    <nd ref="1847189816"/>
+    <nd ref="3086009145"/>
+    <nd ref="6304756161"/>
+    <nd ref="1847189229"/>
+    <nd ref="6304756162"/>
+    <nd ref="1847189385"/>
+    <nd ref="6304757079"/>
+    <nd ref="1847189046"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Guardia di Finanza"/>
+  </way>
+  <way id="682322269">
+    <center lat="37.0651716" lon="15.2836341"/>
+    <nd ref="4027013348"/>
+    <nd ref="6389747093"/>
+    <nd ref="6389747092"/>
+    <nd ref="6389747091"/>
+    <nd ref="4027013347"/>
+    <nd ref="1843820505"/>
+    <nd ref="3076715641"/>
+    <nd ref="3076715640"/>
+    <nd ref="4027013338"/>
+    <nd ref="1855802551"/>
+    <nd ref="1855802589"/>
+    <nd ref="4027013345"/>
+    <nd ref="4027013346"/>
+    <nd ref="4027013348"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Polizia Municipale"/>
+  </way>
+  <way id="135272944">
+    <center lat="37.0646684" lon="15.2953179"/>
+    <nd ref="1485756428"/>
+    <nd ref="1485756442"/>
+    <nd ref="4361505500"/>
+    <nd ref="7674434122"/>
+    <nd ref="4361505532"/>
+    <nd ref="1485756479"/>
+    <nd ref="1485756468"/>
+    <nd ref="4361505493"/>
+    <nd ref="1485756428"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Commissariato Ortigia"/>
+  </way>
+  <way id="510307294">
+    <center lat="37.0829162" lon="15.2844539"/>
+    <nd ref="3116028419"/>
+    <nd ref="4993485749"/>
+    <nd ref="4993485750"/>
+    <nd ref="3285139443"/>
+    <nd ref="3285139417"/>
+    <nd ref="4993485755"/>
+    <nd ref="4993485751"/>
+    <nd ref="3285139444"/>
+    <nd ref="3285139457"/>
+    <nd ref="3116028462"/>
+    <nd ref="3116028419"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Carabinieri"/>
+  </way>
+  <way id="776873642">
+    <center lat="37.0943606" lon="15.2091877"/>
+    <nd ref="1915565648"/>
+    <nd ref="1915565640"/>
+    <nd ref="1833350428"/>
+    <nd ref="1844827568"/>
+    <nd ref="3978726294"/>
+    <nd ref="1915565622"/>
+    <nd ref="7248749588"/>
+    <nd ref="1915565626"/>
+    <nd ref="3978726314"/>
+    <nd ref="1844827561"/>
+    <nd ref="1915565648"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Carabinieri"/>
+  </way>
+  <way id="911330062">
+    <center lat="37.0946748" lon="15.2699911"/>
+    <nd ref="3254329846"/>
+    <nd ref="6201643960"/>
+    <nd ref="6201643957"/>
+    <nd ref="6201643956"/>
+    <nd ref="6201643958"/>
+    <nd ref="6201643959"/>
+    <nd ref="3254329935"/>
+    <nd ref="3254329939"/>
+    <nd ref="3254329943"/>
+    <nd ref="3254329946"/>
+    <nd ref="3254329949"/>
+    <nd ref="6201643955"/>
+    <nd ref="3254329967"/>
+    <nd ref="3254329970"/>
+    <nd ref="3254329974"/>
+    <nd ref="3254330014"/>
+    <nd ref="3255627365"/>
+    <nd ref="3254330050"/>
+    <nd ref="3254330045"/>
+    <nd ref="3254329976"/>
+    <nd ref="3255626962"/>
+    <nd ref="3254329933"/>
+    <nd ref="3254329927"/>
+    <nd ref="3254329910"/>
+    <nd ref="3254329901"/>
+    <nd ref="3254329891"/>
+    <nd ref="3254329888"/>
+    <nd ref="3254329884"/>
+    <nd ref="3255626765"/>
+    <nd ref="3254329833"/>
+    <nd ref="3254329836"/>
+    <nd ref="3254329845"/>
+    <nd ref="3254329846"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Questura di Siracusa"/>
+  </way>
+  <way id="667973021">
+    <center lat="37.0937767" lon="15.2769235"/>
+    <nd ref="3265871489"/>
+    <nd ref="3265871485"/>
+    <nd ref="3265871482"/>
+    <nd ref="3265871478"/>
+    <nd ref="3265871476"/>
+    <nd ref="3265871474"/>
+    <nd ref="3269867629"/>
+    <nd ref="3269867620"/>
+    <nd ref="3265871383"/>
+    <nd ref="3265871385"/>
+    <nd ref="3265871390"/>
+    <nd ref="3265871398"/>
+    <nd ref="3265871402"/>
+    <nd ref="6254817954"/>
+    <nd ref="3265871489"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Ispettorato Ripartimentale delle Foreste"/>
+    <tag k="operator" v="Regione Siciliana"/>
+  </way>
+  <way id="819181155">
+    <center lat="37.1007508" lon="15.2698922"/>
+    <nd ref="1857607784"/>
+    <nd ref="1857607811"/>
+    <nd ref="3260924102"/>
+    <nd ref="1857607681"/>
+    <nd ref="1857607670"/>
+    <nd ref="1857607707"/>
+    <nd ref="3260924091"/>
+    <nd ref="1857607685"/>
+    <nd ref="3260924094"/>
+    <nd ref="3264548396"/>
+    <nd ref="1857607723"/>
+    <nd ref="6245851101"/>
+    <nd ref="6245851100"/>
+    <nd ref="1857607784"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Polizia stradale"/>
+  </way>
+
+</osm>

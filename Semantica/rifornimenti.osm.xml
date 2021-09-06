@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-08-02T13:49:27Z" areas="2021-08-02T13:21:02Z"/>
+
+  <node id="5037673533" lat="37.0594174" lon="15.2267611">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Servizi e Gestioni Zenit srl"/>
+    <tag k="ref:mise" v="5173"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </node>
+  <node id="5037673534" lat="37.0588952" lon="15.2255595">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Servizi e Gestioni Zenit srl"/>
+    <tag k="ref:mise" v="8706"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </node>
+  <node id="6437399418" lat="37.0679082" lon="15.2868305">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Iblea Petroli"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Iblea Petroli"/>
+    <tag k="operator" v="Iblea Petroli srl"/>
+    <tag k="ref:mise" v="50137"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-05-28"/>
+  </node>
+  <node id="7713711240" lat="37.0829468" lon="15.2901658">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Giap"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Giap"/>
+    <tag k="operator" v="Servizi e Gestioni Zenit srl"/>
+    <tag k="ref:mise" v="12254"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </node>
+  <node id="2995057166" lat="37.0926533" lon="15.2084490">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Pompe Bianche"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="G"/>
+    <tag k="operator" v="Gargante Giuseppe"/>
+    <tag k="ref:mise" v="49735"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </node>
+  <node id="8461985298" lat="37.0947103" lon="15.2701646">
+    <tag k="amenity" v="fuel"/>
+  </node>
+  <way id="308593594">
+    <center lat="36.9843197" lon="15.2095464"/>
+    <nd ref="3138565475"/>
+    <nd ref="7598643242"/>
+    <nd ref="1893521465"/>
+    <nd ref="7598643244"/>
+    <nd ref="7598643243"/>
+    <nd ref="1893521617"/>
+    <nd ref="7598643239"/>
+    <nd ref="1893521622"/>
+    <nd ref="1893521628"/>
+    <nd ref="7598643240"/>
+    <nd ref="1893521593"/>
+    <nd ref="7598643241"/>
+    <nd ref="3138565475"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="Rizzo Spurna Giuseppe"/>
+    <tag k="ref:mise" v="44421"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="859727288">
+    <center lat="37.0723410" lon="15.2314010"/>
+    <nd ref="6522248469"/>
+    <nd ref="7703784854"/>
+    <nd ref="7703784853"/>
+    <nd ref="4070811812"/>
+    <nd ref="7705543103"/>
+    <nd ref="4070811809"/>
+    <nd ref="3137753155"/>
+    <nd ref="6522248466"/>
+    <nd ref="6522248467"/>
+    <nd ref="6522248468"/>
+    <nd ref="6522248469"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="Rapisarda Mario"/>
+    <tag k="ref:mise" v="48655"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498017">
+    <center lat="37.0830943" lon="15.2541423"/>
+    <nd ref="3137753272"/>
+    <nd ref="6534143207"/>
+    <nd ref="1888698531"/>
+    <nd ref="1888698478"/>
+    <nd ref="1888698473"/>
+    <nd ref="3141971228"/>
+    <nd ref="6534143195"/>
+    <nd ref="1888698445"/>
+    <nd ref="1888698527"/>
+    <nd ref="3137753154"/>
+    <nd ref="3137753272"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="CM di Abeysuriya Jeewanie Jeewanthi"/>
+    <tag k="ref:mise" v="48785"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498013">
+    <center lat="37.0380715" lon="15.2577992"/>
+    <nd ref="3137751202"/>
+    <nd ref="3137753244"/>
+    <nd ref="3137753302"/>
+    <nd ref="3137753303"/>
+    <nd ref="7618726186"/>
+    <nd ref="6522248856"/>
+    <nd ref="6522248857"/>
+    <nd ref="6522248852"/>
+    <nd ref="6522248853"/>
+    <nd ref="7618726228"/>
+    <nd ref="6522248860"/>
+    <nd ref="3137753311"/>
+    <nd ref="6522248875"/>
+    <nd ref="6522248876"/>
+    <nd ref="3137753319"/>
+    <nd ref="6522248832"/>
+    <nd ref="6522248844"/>
+    <nd ref="6522248843"/>
+    <nd ref="6522248831"/>
+    <nd ref="6522248874"/>
+    <nd ref="6522248873"/>
+    <nd ref="6522248842"/>
+    <nd ref="3137753184"/>
+    <nd ref="3137751202"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8"/>
+    <tag k="operator" v="Capodicasa Roberto"/>
+    <tag k="ref:mise" v="33743"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498002">
+    <center lat="37.0445086" lon="15.2678063"/>
+    <nd ref="3137753141"/>
+    <nd ref="8082886845"/>
+    <nd ref="8082886844"/>
+    <nd ref="4796665261"/>
+    <nd ref="4796665259"/>
+    <nd ref="4796665263"/>
+    <nd ref="8082886538"/>
+    <nd ref="3137753153"/>
+    <nd ref="3137753180"/>
+    <nd ref="8082886509"/>
+    <nd ref="4008042835"/>
+    <nd ref="3137751221"/>
+    <nd ref="3137753261"/>
+    <nd ref="4008042831"/>
+    <nd ref="3137751214"/>
+    <nd ref="8082886870"/>
+    <nd ref="3137753219"/>
+    <nd ref="3137753143"/>
+    <nd ref="8082886846"/>
+    <nd ref="8082886847"/>
+    <nd ref="3137751223"/>
+    <nd ref="3137753141"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Sp Energia Siciliana"/>
+    <tag k="brand:wikidata" v="Q30889195"/>
+    <tag k="brand:wikipedia" v="it:SP Energia Siciliana"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="SP Energia Siciliana"/>
+    <tag k="operator" v="Bellobuono Corrado"/>
+    <tag k="ref:mise" v="16160"/>
+    <tag k="self_service" v="no"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498024">
+    <center lat="37.0576766" lon="15.2679085"/>
+    <nd ref="3137753159"/>
+    <nd ref="3137751203"/>
+    <nd ref="6489499702"/>
+    <nd ref="3137753242"/>
+    <nd ref="3137753164"/>
+    <nd ref="3137753262"/>
+    <nd ref="3137753231"/>
+    <nd ref="3137753201"/>
+    <nd ref="6489499685"/>
+    <nd ref="3137753269"/>
+    <nd ref="6489499683"/>
+    <nd ref="3386526868"/>
+    <nd ref="6489499693"/>
+    <nd ref="6489499694"/>
+    <nd ref="3386526867"/>
+    <nd ref="3137753159"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="Eni Fuel spa"/>
+    <tag k="ref:mise" v="50117"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-05-28"/>
+  </way>
+  <way id="308498016">
+    <center lat="37.0661394" lon="15.2762247"/>
+    <nd ref="3137753144"/>
+    <nd ref="3137753281"/>
+    <nd ref="3137753139"/>
+    <nd ref="6434291489"/>
+    <nd ref="3137753258"/>
+    <nd ref="3137753199"/>
+    <nd ref="3137753292"/>
+    <nd ref="6434291378"/>
+    <nd ref="3137753276"/>
+    <nd ref="3386527940"/>
+    <nd ref="6434291498"/>
+    <nd ref="6434291499"/>
+    <nd ref="3386527936"/>
+    <nd ref="3137753144"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="L.S.C.M. srl"/>
+    <tag k="ref:mise" v="34063"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498036">
+    <center lat="37.0637986" lon="15.2746042"/>
+    <nd ref="6434291630"/>
+    <nd ref="3137753298"/>
+    <nd ref="3137753175"/>
+    <nd ref="6434291182"/>
+    <nd ref="6434291631"/>
+    <nd ref="3386539117"/>
+    <nd ref="3137753193"/>
+    <nd ref="3137751218"/>
+    <nd ref="3386539118"/>
+    <nd ref="6434291630"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Pompe Bianche"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Solar"/>
+    <tag k="operator" v="Solar srl"/>
+    <tag k="ref:mise" v="4351"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498019">
+    <center lat="37.0718605" lon="15.2680497"/>
+    <nd ref="3137753168"/>
+    <nd ref="3137753167"/>
+    <nd ref="3137753255"/>
+    <nd ref="6479490620"/>
+    <nd ref="3137753163"/>
+    <nd ref="3386528063"/>
+    <nd ref="6479490623"/>
+    <nd ref="6479490622"/>
+    <nd ref="3386528065"/>
+    <nd ref="3137753168"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8 Easy"/>
+    <tag k="operator" v="Servizi &amp; Gestioni Italia srl"/>
+    <tag k="ref:mise" v="25321"/>
+    <tag k="self_service" v="only"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498028">
+    <center lat="37.0821175" lon="15.2605855"/>
+    <nd ref="1888698281"/>
+    <nd ref="1888698154"/>
+    <nd ref="1888698184"/>
+    <nd ref="1888698283"/>
+    <nd ref="3804814446"/>
+    <nd ref="4080804533"/>
+    <nd ref="5194505375"/>
+    <nd ref="4080804532"/>
+    <nd ref="5194505374"/>
+    <nd ref="1888698281"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="La Braca Antonio"/>
+    <tag k="ref:mise" v="49935"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-04-04"/>
+  </way>
+  <way id="311566278">
+    <center lat="37.0713096" lon="15.2721839"/>
+    <nd ref="3172504646"/>
+    <nd ref="3172504650"/>
+    <nd ref="3172504635"/>
+    <nd ref="6471279781"/>
+    <nd ref="3172504636"/>
+    <nd ref="6471279747"/>
+    <nd ref="3172504634"/>
+    <nd ref="6471279815"/>
+    <nd ref="3172504638"/>
+    <nd ref="3386528058"/>
+    <nd ref="6471279793"/>
+    <nd ref="6471279790"/>
+    <nd ref="3386528056"/>
+    <nd ref="3172504646"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8"/>
+    <tag k="note" v="distributore mancante nel database MISE"/>
+    <tag k="operator" v="Fiorilla Francesco"/>
+    <tag k="ref:mise" v="37327"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="455508136">
+    <center lat="37.0709304" lon="15.2708942"/>
+    <nd ref="4519061147"/>
+    <nd ref="4519061157"/>
+    <nd ref="4519061156"/>
+    <nd ref="4519061153"/>
+    <nd ref="4519061154"/>
+    <nd ref="6471280128"/>
+    <nd ref="4519061148"/>
+    <nd ref="6471280126"/>
+    <nd ref="4519061147"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Castro Daniele"/>
+    <tag k="ref:mise" v="36137"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308499654">
+    <center lat="37.0734026" lon="15.2813101"/>
+    <nd ref="3137774648"/>
+    <nd ref="3137774631"/>
+    <nd ref="3137774305"/>
+    <nd ref="474804994"/>
+    <nd ref="1834894710"/>
+    <nd ref="1834894610"/>
+    <nd ref="6453358201"/>
+    <nd ref="474804993"/>
+    <nd ref="6296836155"/>
+    <nd ref="6296836145"/>
+    <nd ref="3137774315"/>
+    <nd ref="3386528068"/>
+    <nd ref="3137774296"/>
+    <nd ref="3137774630"/>
+    <nd ref="3137774314"/>
+    <nd ref="3386528069"/>
+    <nd ref="3137774648"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8"/>
+    <tag k="operator" v="Eos Services srl"/>
+    <tag k="ref:mise" v="36589"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498004">
+    <center lat="37.0767074" lon="15.2818999"/>
+    <nd ref="3325574608"/>
+    <nd ref="3325574607"/>
+    <nd ref="3137753133"/>
+    <nd ref="3137753286"/>
+    <nd ref="3386528076"/>
+    <nd ref="3325574602"/>
+    <nd ref="607003446"/>
+    <nd ref="3325574600"/>
+    <nd ref="607003420"/>
+    <nd ref="3325574583"/>
+    <nd ref="3137753260"/>
+    <nd ref="3137753308"/>
+    <nd ref="3137753320"/>
+    <nd ref="8255935707"/>
+    <nd ref="3325574561"/>
+    <nd ref="3325574460"/>
+    <nd ref="3325574565"/>
+    <nd ref="3325574566"/>
+    <nd ref="3325574569"/>
+    <nd ref="3325574573"/>
+    <nd ref="3325574576"/>
+    <nd ref="3325574598"/>
+    <nd ref="3325574597"/>
+    <nd ref="3325574604"/>
+    <nd ref="3325574608"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="Rapisarda Mario"/>
+    <tag k="ref:mise" v="37474"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308497999">
+    <center lat="37.0806719" lon="15.2770888"/>
+    <nd ref="3137751226"/>
+    <nd ref="3301231216"/>
+    <nd ref="3137751198"/>
+    <nd ref="3299135330"/>
+    <nd ref="3299135310"/>
+    <nd ref="3137753181"/>
+    <nd ref="3137751205"/>
+    <nd ref="3301231212"/>
+    <nd ref="3137753310"/>
+    <nd ref="3137751226"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Nobile Oil"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Nobile"/>
+    <tag k="note" v="nel database MISE risulta Pompe Bianche"/>
+    <tag k="operator" v="Piazzese Carmelo"/>
+    <tag k="ref:mise" v="22193"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498023">
+    <center lat="37.0817536" lon="15.2814076"/>
+    <nd ref="3292812612"/>
+    <nd ref="3292812614"/>
+    <nd ref="3292812616"/>
+    <nd ref="3292812619"/>
+    <nd ref="3137753171"/>
+    <nd ref="3292812576"/>
+    <nd ref="3292812558"/>
+    <nd ref="3292812530"/>
+    <nd ref="3292812527"/>
+    <nd ref="3137753238"/>
+    <nd ref="3137753173"/>
+    <nd ref="3292812518"/>
+    <nd ref="3292812550"/>
+    <nd ref="3292812599"/>
+    <nd ref="3292812612"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8 Easy"/>
+    <tag k="operator" v="Servizi &amp; Gestioni Italia srl"/>
+    <tag k="ref:mise" v="6776"/>
+    <tag k="self_service" v="only"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308795991">
+    <center lat="37.0662708" lon="15.2841686"/>
+    <nd ref="1855803123"/>
+    <nd ref="1840767529"/>
+    <nd ref="1855803003"/>
+    <nd ref="1855803095"/>
+    <nd ref="3138789178"/>
+    <nd ref="1840767533"/>
+    <nd ref="3138789181"/>
+    <nd ref="3138789180"/>
+    <nd ref="1840767589"/>
+    <nd ref="1855803123"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8"/>
+    <tag k="note" v="distributore mancante nel database MISE"/>
+    <tag k="operator" v="Faraone Francesco"/>
+    <tag k="ref:mise" v="25028"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498003">
+    <center lat="37.0755028" lon="15.2853515"/>
+    <nd ref="3137753221"/>
+    <nd ref="3326462989"/>
+    <nd ref="3326462988"/>
+    <nd ref="3326462987"/>
+    <nd ref="3326462986"/>
+    <nd ref="3326462991"/>
+    <nd ref="3137753299"/>
+    <nd ref="3137753224"/>
+    <nd ref="3386528071"/>
+    <nd ref="3386528070"/>
+    <nd ref="3137753223"/>
+    <nd ref="3137753221"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Castro Daniele"/>
+    <tag k="ref:mise" v="30476"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498008">
+    <center lat="37.0766313" lon="15.2873329"/>
+    <nd ref="6248470817"/>
+    <nd ref="3327864701"/>
+    <nd ref="3327864700"/>
+    <nd ref="3065231303"/>
+    <nd ref="3322442081"/>
+    <nd ref="3327864642"/>
+    <nd ref="3327864623"/>
+    <nd ref="3065231382"/>
+    <nd ref="3327864581"/>
+    <nd ref="3327864551"/>
+    <nd ref="3065231244"/>
+    <nd ref="3386528074"/>
+    <nd ref="6248470817"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="note" v="distributore mancante nel database MISE"/>
+    <tag k="operator" v="Basile Giuseppe"/>
+    <tag k="ref:mise" v="15346"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498009">
+    <center lat="37.0785774" lon="15.2960204"/>
+    <nd ref="3132180933"/>
+    <nd ref="1841458856"/>
+    <nd ref="3219277613"/>
+    <nd ref="3132180934"/>
+    <nd ref="3132180935"/>
+    <nd ref="3132180936"/>
+    <nd ref="3132180938"/>
+    <nd ref="3132180939"/>
+    <nd ref="4076920270"/>
+    <nd ref="3386528080"/>
+    <nd ref="4076920266"/>
+    <nd ref="4076920259"/>
+    <nd ref="4076920256"/>
+    <nd ref="3386528077"/>
+    <nd ref="4076920247"/>
+    <nd ref="3132180933"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Compagnia Meridionale Combustibili srl"/>
+    <tag k="ref:mise" v="28730"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308279005">
+    <center lat="37.1100512" lon="15.2406941"/>
+    <nd ref="3135739714"/>
+    <nd ref="3137753277"/>
+    <nd ref="6392151464"/>
+    <nd ref="6392151465"/>
+    <nd ref="3137753239"/>
+    <nd ref="6392151384"/>
+    <nd ref="3135741344"/>
+    <nd ref="6394521649"/>
+    <nd ref="6392151467"/>
+    <nd ref="3135739715"/>
+    <nd ref="6392151466"/>
+    <nd ref="3135741368"/>
+    <nd ref="3135741363"/>
+    <nd ref="6392151468"/>
+    <nd ref="3135741354"/>
+    <nd ref="6392151470"/>
+    <nd ref="6392151473"/>
+    <nd ref="6392151382"/>
+    <nd ref="3135739714"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Servizi e Gestioni Zenit srl"/>
+    <tag k="ref:mise" v="5175"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-05-28"/>
+  </way>
+  <way id="727843465">
+    <center lat="37.1080144" lon="15.2469015"/>
+    <nd ref="6409731237"/>
+    <nd ref="6392151645"/>
+    <nd ref="6392151644"/>
+    <nd ref="6392151642"/>
+    <nd ref="6392151643"/>
+    <nd ref="6409731237"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Lukoil"/>
+    <tag k="brand:wikidata" v="Q329347"/>
+    <tag k="brand:wikipedia" v="it:LUKoil"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Lukoil"/>
+    <tag k="operator" v="Urussanga srls unipersonale"/>
+    <tag k="ref:mise" v="50501"/>
+    <tag k="self_service" v="only"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-05-28"/>
+  </way>
+  <way id="462242967">
+    <center lat="37.1053498" lon="15.2534522"/>
+    <nd ref="6394966275"/>
+    <nd ref="7017953478"/>
+    <nd ref="7017953479"/>
+    <nd ref="7017953480"/>
+    <nd ref="4576591725"/>
+    <nd ref="6392151818"/>
+    <nd ref="6394966282"/>
+    <nd ref="6394966281"/>
+    <nd ref="6394966280"/>
+    <nd ref="6394966279"/>
+    <nd ref="6394966278"/>
+    <nd ref="6394966277"/>
+    <nd ref="6394966276"/>
+    <nd ref="6394966275"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Pompe Bianche"/>
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="MV Petroli"/>
+    <tag k="operator" v="Moscuzza Vincenzo &amp; C. srl"/>
+    <tag k="ref:mise" v="39104"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308130204">
+    <center lat="37.0876321" lon="15.2731455"/>
+    <nd ref="3131954001"/>
+    <nd ref="3291413306"/>
+    <nd ref="3291413292"/>
+    <nd ref="3134164760"/>
+    <nd ref="3291413266"/>
+    <nd ref="7711484685"/>
+    <nd ref="3291413262"/>
+    <nd ref="3137753233"/>
+    <nd ref="7711484686"/>
+    <nd ref="3291413278"/>
+    <nd ref="3137753189"/>
+    <nd ref="7711484687"/>
+    <nd ref="3291413303"/>
+    <nd ref="3291413314"/>
+    <nd ref="7711484688"/>
+    <nd ref="3131954000"/>
+    <nd ref="3131954001"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Api-Ip"/>
+    <tag k="brand:wikidata" v="Q646807"/>
+    <tag k="brand:wikipedia" v="it:Italiana Petroli (azienda 2019)"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="IP"/>
+    <tag k="operator" v="S.C. Servizi Globali srl"/>
+    <tag k="ref:mise" v="11010"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498032">
+    <center lat="37.0874609" lon="15.2824736"/>
+    <nd ref="3137751208"/>
+    <nd ref="6642026067"/>
+    <nd ref="3273536639"/>
+    <nd ref="6639078552"/>
+    <nd ref="6639078551"/>
+    <nd ref="3137753306"/>
+    <nd ref="3197932244"/>
+    <nd ref="3197937442"/>
+    <nd ref="3273536660"/>
+    <nd ref="6639078549"/>
+    <nd ref="3137751208"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8"/>
+    <tag k="operator" v="Eos Services srl"/>
+    <tag k="ref:mise" v="47684"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308320655">
+    <center lat="37.0900779" lon="15.2718219"/>
+    <nd ref="3136110835"/>
+    <nd ref="3291414763"/>
+    <nd ref="3291414768"/>
+    <nd ref="3291414771"/>
+    <nd ref="3291414776"/>
+    <nd ref="3136110853"/>
+    <nd ref="3291414769"/>
+    <nd ref="3291414541"/>
+    <nd ref="3131947251"/>
+    <nd ref="3131947252"/>
+    <nd ref="3291414523"/>
+    <nd ref="7711484702"/>
+    <nd ref="3291414522"/>
+    <nd ref="3291414538"/>
+    <nd ref="7711484703"/>
+    <nd ref="3291414540"/>
+    <nd ref="3291414549"/>
+    <nd ref="7711484704"/>
+    <nd ref="3291414548"/>
+    <nd ref="3291414557"/>
+    <nd ref="7711484705"/>
+    <nd ref="3136110835"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Aglianò Francesco"/>
+    <tag k="ref:mise" v="47969"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308497994">
+    <center lat="37.0916912" lon="15.2831766"/>
+    <nd ref="1889239978"/>
+    <nd ref="1889239973"/>
+    <nd ref="1889239972"/>
+    <nd ref="3198831984"/>
+    <nd ref="3277326713"/>
+    <nd ref="3277326717"/>
+    <nd ref="3198831982"/>
+    <nd ref="3279630226"/>
+    <nd ref="3279630229"/>
+    <nd ref="3279630231"/>
+    <nd ref="3279630233"/>
+    <nd ref="1889239978"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="Gestioni Innovative Italia srl"/>
+    <tag k="ref:mise" v="46277"/>
+    <tag k="self_service" v="only"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-05-28"/>
+  </way>
+  <way id="308127063">
+    <center lat="37.0905276" lon="15.2708970"/>
+    <nd ref="3134137038"/>
+    <nd ref="7499616840"/>
+    <nd ref="3134137039"/>
+    <nd ref="7499616831"/>
+    <nd ref="7499616830"/>
+    <nd ref="7499616829"/>
+    <nd ref="7499616818"/>
+    <nd ref="3134137040"/>
+    <nd ref="3199026111"/>
+    <nd ref="3134137041"/>
+    <nd ref="3134137038"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8"/>
+    <tag k="operator" v="Servizi &amp; Gestioni Italia srl"/>
+    <tag k="ref:mise" v="41104"/>
+    <tag k="self_service" v="only"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498010">
+    <center lat="37.0914870" lon="15.2769250"/>
+    <nd ref="3137753172"/>
+    <nd ref="1859047371"/>
+    <nd ref="1859047369"/>
+    <nd ref="1859047398"/>
+    <nd ref="1859047366"/>
+    <nd ref="1859047367"/>
+    <nd ref="3267588565"/>
+    <nd ref="3267588443"/>
+    <nd ref="3267588431"/>
+    <nd ref="3267588412"/>
+    <nd ref="1859047263"/>
+    <nd ref="3267588394"/>
+    <nd ref="3137753166"/>
+    <nd ref="3137753234"/>
+    <nd ref="3137753250"/>
+    <nd ref="3137753172"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Sasef di Gaetano Veneziano"/>
+    <tag k="ref:mise" v="50588"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-05-28"/>
+  </way>
+  <way id="308498030">
+    <center lat="37.1002990" lon="15.2667943"/>
+    <nd ref="3137753169"/>
+    <nd ref="3136110838"/>
+    <nd ref="3136110850"/>
+    <nd ref="3524402852"/>
+    <nd ref="3137753285"/>
+    <nd ref="2995056976"/>
+    <nd ref="3137753169"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Rizza Mario"/>
+    <tag k="ref:mise" v="33440"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308497995">
+    <center lat="37.0990078" lon="15.2722008"/>
+    <nd ref="3137751227"/>
+    <nd ref="3137753142"/>
+    <nd ref="6258867148"/>
+    <nd ref="3249959459"/>
+    <nd ref="3137753267"/>
+    <nd ref="6258867149"/>
+    <nd ref="3255626872"/>
+    <nd ref="3137751225"/>
+    <nd ref="3137753145"/>
+    <nd ref="3137751227"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="it:Esso"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Servizi e Gestioni Zenit srl"/>
+    <tag k="ref:mise" v="12276"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498026">
+    <center lat="37.0982451" lon="15.2750147"/>
+    <nd ref="3137753316"/>
+    <nd ref="3137753240"/>
+    <nd ref="3249615145"/>
+    <nd ref="3137751216"/>
+    <nd ref="3137753295"/>
+    <nd ref="1882625403"/>
+    <nd ref="1882625475"/>
+    <nd ref="1882625516"/>
+    <nd ref="1882625547"/>
+    <nd ref="3249615168"/>
+    <nd ref="3249615160"/>
+    <nd ref="3249615150"/>
+    <nd ref="3137753316"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="it:Eni"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Eni"/>
+    <tag k="operator" v="Servizi e Gestioni Zenit srl"/>
+    <tag k="ref:mise" v="12275"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="308498005">
+    <center lat="37.0893969" lon="15.2938868"/>
+    <nd ref="3137751215"/>
+    <nd ref="3137751224"/>
+    <nd ref="6415303549"/>
+    <nd ref="3208418049"/>
+    <nd ref="6415303547"/>
+    <nd ref="3208418163"/>
+    <nd ref="3208418161"/>
+    <nd ref="6415303546"/>
+    <nd ref="3208418175"/>
+    <nd ref="3137753213"/>
+    <nd ref="3137751215"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Pompe Bianche"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Trinacria"/>
+    <tag k="operator" v="Fratelli Violante srls"/>
+    <tag k="ref:mise" v="40226"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+  <way id="423506715">
+    <center lat="37.0947182" lon="15.2862124"/>
+    <nd ref="3231928753"/>
+    <nd ref="4703630673"/>
+    <nd ref="4703630665"/>
+    <nd ref="4231050689"/>
+    <nd ref="3234555220"/>
+    <nd ref="3233741856"/>
+    <nd ref="4703630678"/>
+    <nd ref="6498928231"/>
+    <nd ref="4703630680"/>
+    <nd ref="4703630683"/>
+    <nd ref="6498928232"/>
+    <nd ref="4703630685"/>
+    <nd ref="4703630684"/>
+    <nd ref="3231928753"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Q8"/>
+    <tag k="brand:wikidata" v="Q1634762"/>
+    <tag k="brand:wikipedia" v="it:Kuwait Petroleum Corporation"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="no"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="Q8 Easy"/>
+    <tag k="operator" v="Servizi &amp; Gestioni Italia srl"/>
+    <tag k="ref:mise" v="34856"/>
+    <tag k="self_service" v="only"/>
+    <tag k="source" v="https://www.mise.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"/>
+    <tag k="source:date" v="2021-03-13"/>
+  </way>
+
+</osm>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-06-19T11:39:12Z" areas="2021-06-19T11:27:57Z"/>
+
+  <way id="699676561">
+    <center lat="36.9808981" lon="15.1999706"/>
+    <nd ref="1893519595"/>
+    <nd ref="1893519726"/>
+    <nd ref="1893519711"/>
+    <nd ref="1893519555"/>
+    <nd ref="1893519595"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="690955712">
+    <center lat="37.0681930" lon="15.2530096"/>
+    <nd ref="6482997548"/>
+    <nd ref="6482997561"/>
+    <nd ref="6482997560"/>
+    <nd ref="6482997547"/>
+    <nd ref="6482997548"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="690955713">
+    <center lat="37.0680622" lon="15.2525214"/>
+    <nd ref="6482997552"/>
+    <nd ref="6482997550"/>
+    <nd ref="6482997549"/>
+    <nd ref="6482997551"/>
+    <nd ref="6482997552"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="690955714">
+    <center lat="37.0679425" lon="15.2520752"/>
+    <nd ref="6482997556"/>
+    <nd ref="6482997554"/>
+    <nd ref="6482997553"/>
+    <nd ref="6482997555"/>
+    <nd ref="6482997556"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="690955715">
+    <center lat="37.0678218" lon="15.2516247"/>
+    <nd ref="6482997558"/>
+    <nd ref="6482997557"/>
+    <nd ref="6482997559"/>
+    <nd ref="6482997562"/>
+    <nd ref="6482997558"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="283276289">
+    <center lat="37.0736918" lon="15.2910993"/>
+    <nd ref="2871640315"/>
+    <nd ref="2871640316"/>
+    <nd ref="607017671"/>
+    <nd ref="6502796990"/>
+    <nd ref="6502796989"/>
+    <nd ref="6502796988"/>
+    <nd ref="6502796991"/>
+    <nd ref="6502796994"/>
+    <nd ref="6502796993"/>
+    <nd ref="6502796992"/>
+    <nd ref="6502796995"/>
+    <nd ref="2871640318"/>
+    <nd ref="2871640315"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="name" v="Tribuna centrale"/>
+  </way>
+  <way id="283276290">
+    <center lat="37.0745424" lon="15.2916282"/>
+    <nd ref="2871640319"/>
+    <nd ref="2871640320"/>
+    <nd ref="2871640321"/>
+    <nd ref="2871640322"/>
+    <nd ref="2871640323"/>
+    <nd ref="2871640324"/>
+    <nd ref="2871640325"/>
+    <nd ref="2871640326"/>
+    <nd ref="2871640319"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="name" v="Gradinata"/>
+  </way>
+  <way id="299852479">
+    <center lat="37.0738884" lon="15.2922019"/>
+    <nd ref="3039350727"/>
+    <nd ref="3039358231"/>
+    <nd ref="3074521922"/>
+    <nd ref="3039358236"/>
+    <nd ref="3039350726"/>
+    <nd ref="3074521921"/>
+    <nd ref="3039350727"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="name" v="Curva Est"/>
+  </way>
+  <way id="299852480">
+    <center lat="37.0744416" lon="15.2907035"/>
+    <nd ref="3039358374"/>
+    <nd ref="3039357998"/>
+    <nd ref="3039358377"/>
+    <nd ref="3039358373"/>
+    <nd ref="3039358374"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="name" v="Curva Ovest"/>
+  </way>
+  <way id="299852502">
+    <center lat="37.0739306" lon="15.2905922"/>
+    <nd ref="3039358230"/>
+    <nd ref="3039357977"/>
+    <nd ref="3039357976"/>
+    <nd ref="607017677"/>
+    <nd ref="3039358230"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="name" v="Tribuna laterale"/>
+  </way>
+  <way id="303135638">
+    <center lat="37.0739643" lon="15.2921596"/>
+    <nd ref="3074521921"/>
+    <nd ref="3039350726"/>
+    <nd ref="3039358236"/>
+    <nd ref="3074521922"/>
+    <nd ref="6502796986"/>
+    <nd ref="3074521923"/>
+    <nd ref="3074521924"/>
+    <nd ref="3074521927"/>
+    <nd ref="3074521928"/>
+    <nd ref="3074521929"/>
+    <nd ref="607017736"/>
+    <nd ref="3074521908"/>
+    <nd ref="3074521909"/>
+    <nd ref="607017738"/>
+    <nd ref="3074521930"/>
+    <nd ref="607017740"/>
+    <nd ref="3074521911"/>
+    <nd ref="607017708"/>
+    <nd ref="3074521912"/>
+    <nd ref="6502796987"/>
+    <nd ref="607017711"/>
+    <nd ref="607017715"/>
+    <nd ref="3074521913"/>
+    <nd ref="607017718"/>
+    <nd ref="3074521914"/>
+    <nd ref="3074521915"/>
+    <nd ref="607017720"/>
+    <nd ref="3074521916"/>
+    <nd ref="3074521917"/>
+    <nd ref="3074521918"/>
+    <nd ref="3074521919"/>
+    <nd ref="3074521920"/>
+    <nd ref="3074521921"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="307272067">
+    <center lat="37.0800012" lon="15.2933279"/>
+    <nd ref="3123600551"/>
+    <nd ref="3123600552"/>
+    <nd ref="6450887978"/>
+    <nd ref="3123600553"/>
+    <nd ref="3123600554"/>
+    <nd ref="3123600551"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="315518380">
+    <center lat="37.0797036" lon="15.2920440"/>
+    <nd ref="3216327153"/>
+    <nd ref="3216327156"/>
+    <nd ref="3216327100"/>
+    <nd ref="3216327098"/>
+    <nd ref="3216327153"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="315518403">
+    <center lat="37.0796713" lon="15.2925215"/>
+    <nd ref="3216327159"/>
+    <nd ref="3216327163"/>
+    <nd ref="3216327086"/>
+    <nd ref="3216327079"/>
+    <nd ref="3216327159"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="924821752">
+    <center lat="37.0800613" lon="15.2919934"/>
+    <nd ref="8583043523"/>
+    <nd ref="8583043522"/>
+    <nd ref="8583043521"/>
+    <nd ref="8583043520"/>
+    <nd ref="8583043523"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="397538014">
+    <center lat="37.0908704" lon="15.2161226"/>
+    <nd ref="4003267125"/>
+    <nd ref="4003267099"/>
+    <nd ref="4003267101"/>
+    <nd ref="7295536996"/>
+    <nd ref="7295536994"/>
+    <nd ref="7295536993"/>
+    <nd ref="7295536995"/>
+    <nd ref="4003267128"/>
+    <nd ref="4003267125"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+  <way id="313905202">
+    <center lat="37.0914830" lon="15.2659945"/>
+    <nd ref="3199427427"/>
+    <nd ref="3199427428"/>
+    <nd ref="3199427429"/>
+    <nd ref="3199427430"/>
+    <nd ref="3199427427"/>
+    <tag k="building" v="grandstand"/>
+  </way>
+
+</osm>
