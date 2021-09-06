@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-08-13T12:55:08Z" areas="2021-08-13T12:15:29Z"/>
+
+  <node id="8432345382" lat="37.0030952" lon="15.1819900">
+    <tag k="description" v="Grotta con deposito di fauna preistorica"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Spinagallo"/>
+    <tag k="natural" v="cave_entrance"/>
+  </node>
+  <node id="8432345383" lat="37.0031152" lon="15.1795954">
+    <tag k="description" v="Grotta con deposito di fauna preistorica"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Spinagallo"/>
+    <tag k="natural" v="cave_entrance"/>
+  </node>
+  <node id="3077910758" lat="36.9795742" lon="15.2633622">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Fori Palizzate Neolitiche"/>
+  </node>
+  <node id="5208830821" lat="37.0386150" lon="15.2368047">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Pozzo greco"/>
+  </node>
+  <node id="5208830824" lat="37.0387890" lon="15.2363545">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Tombe sicule"/>
+  </node>
+  <node id="5060341497" lat="37.0414112" lon="15.2953417">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Sili Greci"/>
+  </node>
+  <node id="5037906744" lat="37.0407033" lon="15.3034217">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Sili Greci"/>
+  </node>
+  <node id="8723650239" lat="37.0405061" lon="15.3049120">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Sili greci"/>
+  </node>
+  <node id="8723650240" lat="37.0407565" lon="15.3053367">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Sili greci"/>
+  </node>
+  <node id="3968610026" lat="37.0758562" lon="15.2692337">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Necropoli del Fusco"/>
+    <tag k="site_type" v="necropolis"/>
+  </node>
+  <node id="3086097382" lat="37.0671847" lon="15.2848267">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Foro Siracusano"/>
+    <tag k="wikidata" v="Q19545377"/>
+  </node>
+  <node id="6401593551" lat="37.0690904" lon="15.2895409">
+    <tag k="alt_name" v="Terme Bizantine o Bagni di Dafne"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Terme di Dafne"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikipedia" v="it:Terme di Dafne"/>
+  </node>
+  <node id="290930171" lat="37.0767995" lon="15.2848558">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Catacombe di San Giovanni"/>
+    <tag k="name:ko" v="산 지오반니의 카타콤베"/>
+    <tag k="wikipedia" v="it:Catacombe di Siracusa"/>
+  </node>
+  <node id="3336719061" lat="37.0761312" lon="15.2882915">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Catacombe di Vigna Cassia"/>
+  </node>
+  <node id="3111560958" lat="37.0864552" lon="15.2754877">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Necropoli"/>
+  </node>
+  <node id="3111553712" lat="37.0864167" lon="15.2807579">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Necropoli"/>
+  </node>
+  <way id="683594091">
+    <center lat="37.0516068" lon="15.2570910"/>
+    <nd ref="6402871557"/>
+    <nd ref="6402871556"/>
+    <nd ref="6402871555"/>
+    <nd ref="6402871554"/>
+    <nd ref="6402871553"/>
+    <nd ref="6402871552"/>
+    <nd ref="6402871551"/>
+    <nd ref="6402871550"/>
+    <nd ref="6402871549"/>
+    <nd ref="6402871548"/>
+    <nd ref="6402871547"/>
+    <nd ref="6402871546"/>
+    <nd ref="6402871545"/>
+    <nd ref="6402871544"/>
+    <nd ref="6402871543"/>
+    <nd ref="6402871542"/>
+    <nd ref="6402871541"/>
+    <nd ref="6402871540"/>
+    <nd ref="6402871539"/>
+    <nd ref="6402871538"/>
+    <nd ref="6402871537"/>
+    <nd ref="4008042905"/>
+    <nd ref="6402871529"/>
+    <nd ref="6402871528"/>
+    <nd ref="4008042899"/>
+    <nd ref="6402871536"/>
+    <nd ref="6402871557"/>
+    <tag k="alt_name" v="Tempio di Giove"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="loc_name" v="Due Colonne"/>
+    <tag k="name" v="Tempio di Zeus Olimpio"/>
+    <tag k="wikipedia" v="it:Tempio di Zeus (Siracusa)"/>
+  </way>
+  <way id="306046012">
+    <center lat="37.0714007" lon="15.2791520"/>
+    <nd ref="3108232933"/>
+    <nd ref="6493240390"/>
+    <nd ref="6493240396"/>
+    <nd ref="6371000808"/>
+    <nd ref="3173570013"/>
+    <nd ref="3173570014"/>
+    <nd ref="3173570016"/>
+    <nd ref="3173570017"/>
+    <nd ref="3173570018"/>
+    <nd ref="3173570019"/>
+    <nd ref="6371000337"/>
+    <nd ref="1844096949"/>
+    <nd ref="8147636491"/>
+    <nd ref="8207562740"/>
+    <nd ref="8207562739"/>
+    <nd ref="8147636489"/>
+    <nd ref="1844096623"/>
+    <nd ref="8172114108"/>
+    <nd ref="1844096693"/>
+    <nd ref="3173570021"/>
+    <nd ref="6371000960"/>
+    <nd ref="3173570026"/>
+    <nd ref="6369132860"/>
+    <nd ref="6369132859"/>
+    <nd ref="6369132858"/>
+    <nd ref="3173570029"/>
+    <nd ref="6371000810"/>
+    <nd ref="3173570030"/>
+    <nd ref="6369132854"/>
+    <nd ref="6369132853"/>
+    <nd ref="6369132857"/>
+    <nd ref="3173570031"/>
+    <nd ref="3173570032"/>
+    <nd ref="4170650580"/>
+    <nd ref="3173570033"/>
+    <nd ref="3173570034"/>
+    <nd ref="6371000809"/>
+    <nd ref="3108221025"/>
+    <nd ref="3108232931"/>
+    <nd ref="6493240398"/>
+    <nd ref="6493240389"/>
+    <nd ref="3108232933"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Mulini Spagnoli"/>
+  </way>
+  <way id="682322262">
+    <center lat="37.0676144" lon="15.2805334"/>
+    <nd ref="6412890258"/>
+    <nd ref="6412890259"/>
+    <nd ref="6412890260"/>
+    <nd ref="6412890257"/>
+    <nd ref="6412890261"/>
+    <nd ref="6412890262"/>
+    <nd ref="6412890265"/>
+    <nd ref="6389747046"/>
+    <nd ref="6389747045"/>
+    <nd ref="6389746783"/>
+    <nd ref="2498401225"/>
+    <nd ref="6389747043"/>
+    <nd ref="6389747041"/>
+    <nd ref="6389747040"/>
+    <nd ref="6389747038"/>
+    <nd ref="6389747039"/>
+    <nd ref="6389747035"/>
+    <nd ref="6389747034"/>
+    <nd ref="6389747033"/>
+    <nd ref="6389747032"/>
+    <nd ref="6389747031"/>
+    <nd ref="6389747030"/>
+    <nd ref="6389747029"/>
+    <nd ref="6389747028"/>
+    <nd ref="8175110800"/>
+    <nd ref="8175110801"/>
+    <nd ref="3770350916"/>
+    <nd ref="3386527980"/>
+    <nd ref="6389747027"/>
+    <nd ref="6389747026"/>
+    <nd ref="6389747025"/>
+    <nd ref="6389747024"/>
+    <nd ref="4090888635"/>
+    <nd ref="4090888633"/>
+    <nd ref="6389747052"/>
+    <nd ref="3059309834"/>
+    <nd ref="6389747051"/>
+    <nd ref="1856532785"/>
+    <nd ref="1856532770"/>
+    <nd ref="6412890248"/>
+    <nd ref="6412890258"/>
+    <tag k="alt_name" v="Piccolo Teatro Romano"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Ginnasio romano"/>
+    <tag k="wikidata" v="Q17631557"/>
+    <tag k="wikipedia" v="it:Ginnasio romano"/>
+  </way>
+  <way id="214610849">
+    <center lat="37.0760061" lon="15.2750253"/>
+    <nd ref="2241167768"/>
+    <nd ref="3312459206"/>
+    <nd ref="3308683395"/>
+    <nd ref="3308683398"/>
+    <nd ref="3308683399"/>
+    <nd ref="3308683403"/>
+    <nd ref="3312459269"/>
+    <nd ref="3308683406"/>
+    <nd ref="3312459283"/>
+    <nd ref="3308683409"/>
+    <nd ref="3308683411"/>
+    <nd ref="3308683414"/>
+    <nd ref="3312459307"/>
+    <nd ref="3312459312"/>
+    <nd ref="3308683418"/>
+    <nd ref="3308683424"/>
+    <nd ref="3308683425"/>
+    <nd ref="3312459349"/>
+    <nd ref="3308683427"/>
+    <nd ref="3308683429"/>
+    <nd ref="3312459360"/>
+    <nd ref="3312459661"/>
+    <nd ref="3308683423"/>
+    <nd ref="3308683421"/>
+    <nd ref="3308683430"/>
+    <nd ref="3312459356"/>
+    <nd ref="3308683428"/>
+    <nd ref="3312459348"/>
+    <nd ref="3308683426"/>
+    <nd ref="3312459341"/>
+    <nd ref="3312459333"/>
+    <nd ref="3312459317"/>
+    <nd ref="3308683419"/>
+    <nd ref="3308683417"/>
+    <nd ref="3312459311"/>
+    <nd ref="3312459303"/>
+    <nd ref="3308683413"/>
+    <nd ref="3312459295"/>
+    <nd ref="3312459284"/>
+    <nd ref="3312459277"/>
+    <nd ref="3308683408"/>
+    <nd ref="3308683404"/>
+    <nd ref="3308683400"/>
+    <nd ref="3308683397"/>
+    <nd ref="3312459228"/>
+    <nd ref="2241167795"/>
+    <nd ref="3312459209"/>
+    <nd ref="3312459225"/>
+    <nd ref="3312459226"/>
+    <nd ref="3312459232"/>
+    <nd ref="3312459233"/>
+    <nd ref="3312459241"/>
+    <nd ref="3312459246"/>
+    <nd ref="3312459253"/>
+    <nd ref="3312459257"/>
+    <nd ref="3312459260"/>
+    <nd ref="3312459265"/>
+    <nd ref="3312459264"/>
+    <nd ref="3312459259"/>
+    <nd ref="3312459255"/>
+    <nd ref="3312459252"/>
+    <nd ref="3312459243"/>
+    <nd ref="3312459240"/>
+    <nd ref="3312459230"/>
+    <nd ref="3312459229"/>
+    <nd ref="3312459224"/>
+    <nd ref="3312459223"/>
+    <nd ref="2241167768"/>
+    <tag k="amenity" v="theatre"/>
+    <tag k="artist_name" v="Damocopos"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Teatro Greco"/>
+    <tag k="name:el" v="Ελληνικό Θέατρο"/>
+    <tag k="name:en" v="Greek Theatre"/>
+    <tag k="name:ru" v="Греческий театр"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q1058967"/>
+    <tag k="wikipedia" v="it:Teatro greco di Siracusa"/>
+  </way>
+  <way id="249675365">
+    <center lat="37.0743680" lon="15.2772494"/>
+    <nd ref="2562551067"/>
+    <nd ref="2562551068"/>
+    <nd ref="2562551069"/>
+    <nd ref="2562551070"/>
+    <nd ref="2562551067"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Ara di Ierone"/>
+    <tag k="tourism" v="attraction"/>
+  </way>
+  <way id="313863488">
+    <center lat="37.0745543" lon="15.2805768"/>
+    <nd ref="1873214001"/>
+    <nd ref="3315681318"/>
+    <nd ref="3326462976"/>
+    <nd ref="3142154245"/>
+    <nd ref="3142154236"/>
+    <nd ref="6502797363"/>
+    <nd ref="3142154276"/>
+    <nd ref="3142154258"/>
+    <nd ref="3142154306"/>
+    <nd ref="3142154315"/>
+    <nd ref="3142154544"/>
+    <nd ref="3142154532"/>
+    <nd ref="3142154287"/>
+    <nd ref="1873213908"/>
+    <nd ref="1873213904"/>
+    <nd ref="1873213895"/>
+    <nd ref="1873213881"/>
+    <nd ref="1873213860"/>
+    <nd ref="1873213856"/>
+    <nd ref="5194505224"/>
+    <nd ref="1873213815"/>
+    <nd ref="3317413529"/>
+    <nd ref="6402870668"/>
+    <nd ref="1873213858"/>
+    <nd ref="1873213865"/>
+    <nd ref="1873213868"/>
+    <nd ref="1873213871"/>
+    <nd ref="1873213874"/>
+    <nd ref="1873213878"/>
+    <nd ref="1873213888"/>
+    <nd ref="1873213892"/>
+    <nd ref="1873213901"/>
+    <nd ref="1873213965"/>
+    <nd ref="1873213967"/>
+    <nd ref="1873213971"/>
+    <nd ref="1873213973"/>
+    <nd ref="1873213989"/>
+    <nd ref="1873213980"/>
+    <nd ref="1873213983"/>
+    <nd ref="1873213996"/>
+    <nd ref="1873214005"/>
+    <nd ref="3315681329"/>
+    <nd ref="1873214010"/>
+    <nd ref="1873214001"/>
+    <tag k="historic" v="archaeological_site"/>
+  </way>
+  <way id="174937363">
+    <center lat="37.0756886" lon="15.2772450"/>
+    <nd ref="1837821270"/>
+    <nd ref="3092751844"/>
+    <nd ref="3326462977"/>
+    <nd ref="1837821280"/>
+    <nd ref="8483408631"/>
+    <nd ref="8483408632"/>
+    <nd ref="3326228061"/>
+    <nd ref="1837821216"/>
+    <nd ref="1855803760"/>
+    <nd ref="1837821213"/>
+    <nd ref="1855803746"/>
+    <nd ref="3317413904"/>
+    <nd ref="1855803734"/>
+    <nd ref="3317413899"/>
+    <nd ref="1855803730"/>
+    <nd ref="1855803728"/>
+    <nd ref="3317413892"/>
+    <nd ref="1855803723"/>
+    <nd ref="1855803718"/>
+    <nd ref="1855803716"/>
+    <nd ref="1855803704"/>
+    <nd ref="5194505245"/>
+    <nd ref="6481780050"/>
+    <nd ref="1855803699"/>
+    <nd ref="3315243836"/>
+    <nd ref="1855803695"/>
+    <nd ref="1855803694"/>
+    <nd ref="3315243810"/>
+    <nd ref="6481780049"/>
+    <nd ref="6481780046"/>
+    <nd ref="6481780045"/>
+    <nd ref="6481780047"/>
+    <nd ref="6481780048"/>
+    <nd ref="3173570035"/>
+    <nd ref="1855803678"/>
+    <nd ref="6471280605"/>
+    <nd ref="1855803682"/>
+    <nd ref="6429414945"/>
+    <nd ref="6429414944"/>
+    <nd ref="6429414943"/>
+    <nd ref="6429414940"/>
+    <nd ref="6429414942"/>
+    <nd ref="6429414941"/>
+    <nd ref="1855803687"/>
+    <nd ref="1855803689"/>
+    <nd ref="3315242822"/>
+    <nd ref="1855803690"/>
+    <nd ref="1855803692"/>
+    <nd ref="3315243840"/>
+    <nd ref="1855803697"/>
+    <nd ref="3315243989"/>
+    <nd ref="3315244005"/>
+    <nd ref="3315244007"/>
+    <nd ref="3315244054"/>
+    <nd ref="3315244060"/>
+    <nd ref="6471280598"/>
+    <nd ref="1855803726"/>
+    <nd ref="6471280599"/>
+    <nd ref="3315244123"/>
+    <nd ref="6471280594"/>
+    <nd ref="6471280593"/>
+    <nd ref="6471280592"/>
+    <nd ref="6471280591"/>
+    <nd ref="1855803740"/>
+    <nd ref="3312458076"/>
+    <nd ref="1855803742"/>
+    <nd ref="6473201418"/>
+    <nd ref="6473201417"/>
+    <nd ref="6473201416"/>
+    <nd ref="6429414367"/>
+    <nd ref="6473201463"/>
+    <nd ref="6429414366"/>
+    <nd ref="3312458083"/>
+    <nd ref="6473201466"/>
+    <nd ref="6473201465"/>
+    <nd ref="6429414962"/>
+    <nd ref="1855803736"/>
+    <nd ref="6473201460"/>
+    <nd ref="2502610051"/>
+    <nd ref="1855803750"/>
+    <nd ref="2502610056"/>
+    <nd ref="6473201444"/>
+    <nd ref="6429414926"/>
+    <nd ref="3312458148"/>
+    <nd ref="3312458160"/>
+    <nd ref="6429414967"/>
+    <nd ref="1855803761"/>
+    <nd ref="3308683376"/>
+    <nd ref="1855803763"/>
+    <nd ref="1855803765"/>
+    <nd ref="1855803771"/>
+    <nd ref="3308683378"/>
+    <nd ref="1855803779"/>
+    <nd ref="3308683383"/>
+    <nd ref="3312459018"/>
+    <nd ref="3312459023"/>
+    <nd ref="3312459024"/>
+    <nd ref="6473201426"/>
+    <nd ref="1855803769"/>
+    <nd ref="6473201439"/>
+    <nd ref="6473201438"/>
+    <nd ref="6473201437"/>
+    <nd ref="1855803777"/>
+    <nd ref="6473201436"/>
+    <nd ref="3308683392"/>
+    <nd ref="3308683393"/>
+    <nd ref="1855803811"/>
+    <nd ref="1855803853"/>
+    <nd ref="1855803859"/>
+    <nd ref="3312459271"/>
+    <nd ref="6473201368"/>
+    <nd ref="3312459326"/>
+    <nd ref="3312459352"/>
+    <nd ref="1855803865"/>
+    <nd ref="1855803867"/>
+    <nd ref="3312459712"/>
+    <nd ref="3142154321"/>
+    <nd ref="1855803882"/>
+    <nd ref="3312459967"/>
+    <nd ref="3312459988"/>
+    <nd ref="1855803894"/>
+    <nd ref="3312460033"/>
+    <nd ref="1855803902"/>
+    <nd ref="1855803910"/>
+    <nd ref="3312460285"/>
+    <nd ref="1855803914"/>
+    <nd ref="1837729638"/>
+    <nd ref="3308683779"/>
+    <nd ref="1837729698"/>
+    <nd ref="1837729587"/>
+    <nd ref="3317413959"/>
+    <nd ref="3317413960"/>
+    <nd ref="3173440204"/>
+    <nd ref="6429414979"/>
+    <nd ref="3317413962"/>
+    <nd ref="3142154534"/>
+    <nd ref="3312460673"/>
+    <nd ref="3312460664"/>
+    <nd ref="3312460353"/>
+    <nd ref="3312460344"/>
+    <nd ref="3128221397"/>
+    <nd ref="3312460331"/>
+    <nd ref="3312460333"/>
+    <nd ref="3312460350"/>
+    <nd ref="3312460359"/>
+    <nd ref="3312460668"/>
+    <nd ref="3312460676"/>
+    <nd ref="3312460680"/>
+    <nd ref="3312460356"/>
+    <nd ref="3317413956"/>
+    <nd ref="3125505678"/>
+    <nd ref="3173440203"/>
+    <nd ref="3173440202"/>
+    <nd ref="3312460717"/>
+    <nd ref="3312460719"/>
+    <nd ref="3312460721"/>
+    <nd ref="3173440201"/>
+    <nd ref="3173440200"/>
+    <nd ref="3173440199"/>
+    <nd ref="3173440198"/>
+    <nd ref="3173440197"/>
+    <nd ref="6429414992"/>
+    <nd ref="3173440196"/>
+    <nd ref="3173440195"/>
+    <nd ref="6429414993"/>
+    <nd ref="6429414994"/>
+    <nd ref="3173440194"/>
+    <nd ref="3173440193"/>
+    <nd ref="3173440192"/>
+    <nd ref="3173440191"/>
+    <nd ref="3312461244"/>
+    <nd ref="3317414027"/>
+    <nd ref="3312461254"/>
+    <nd ref="3312461256"/>
+    <nd ref="3173440190"/>
+    <nd ref="3312461257"/>
+    <nd ref="3173440188"/>
+    <nd ref="3317414039"/>
+    <nd ref="3173440189"/>
+    <nd ref="3173440187"/>
+    <nd ref="3308683829"/>
+    <nd ref="3173440186"/>
+    <nd ref="3308683828"/>
+    <nd ref="3173440185"/>
+    <nd ref="3308683827"/>
+    <nd ref="3173440184"/>
+    <nd ref="3173440183"/>
+    <nd ref="1855803962"/>
+    <nd ref="3308683823"/>
+    <nd ref="3173440182"/>
+    <nd ref="3326228062"/>
+    <nd ref="3173440181"/>
+    <nd ref="3317414005"/>
+    <nd ref="3317414006"/>
+    <nd ref="1855803956"/>
+    <nd ref="3312461203"/>
+    <nd ref="3312461192"/>
+    <nd ref="3312461193"/>
+    <nd ref="3312461183"/>
+    <nd ref="1855803940"/>
+    <nd ref="3312460751"/>
+    <nd ref="3312460759"/>
+    <nd ref="3312460740"/>
+    <nd ref="3317413970"/>
+    <nd ref="3312460696"/>
+    <nd ref="3317413961"/>
+    <nd ref="3312460685"/>
+    <nd ref="3312460682"/>
+    <nd ref="3312460681"/>
+    <nd ref="3312460671"/>
+    <nd ref="3312460666"/>
+    <nd ref="1855803918"/>
+    <nd ref="3092999385"/>
+    <nd ref="3312460310"/>
+    <nd ref="3092999380"/>
+    <nd ref="3092999377"/>
+    <nd ref="3312460296"/>
+    <nd ref="3312460291"/>
+    <nd ref="3312460048"/>
+    <nd ref="3317413952"/>
+    <nd ref="3312460008"/>
+    <nd ref="3312459972"/>
+    <nd ref="3312459978"/>
+    <nd ref="3317413950"/>
+    <nd ref="3312459970"/>
+    <nd ref="3312459962"/>
+    <nd ref="1855803879"/>
+    <nd ref="1855803877"/>
+    <nd ref="1855803875"/>
+    <nd ref="3317413948"/>
+    <nd ref="1855803873"/>
+    <nd ref="3317413946"/>
+    <nd ref="1855803869"/>
+    <nd ref="3317413945"/>
+    <nd ref="1855803863"/>
+    <nd ref="1855803861"/>
+    <nd ref="1855803823"/>
+    <nd ref="3315681349"/>
+    <nd ref="3326226764"/>
+    <nd ref="3315681312"/>
+    <nd ref="3315681304"/>
+    <nd ref="1837821270"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Area Monumentale della Neapolis"/>
+    <tag k="name:el" v="Αρχαιολογικό Πάρκο της Νεάπολης"/>
+    <tag k="name:fr" v="Parc archéologique de Néapolis"/>
+    <tag k="name:it" v="Area Monumentale della Neapolis"/>
+    <tag k="name:ko" v="네아폴리스 고고학 공원"/>
+    <tag k="wikipedia" v="it:Parco archeologico della Neapolis"/>
+  </way>
+  <way id="324118777">
+    <center lat="37.0794733" lon="15.2763176"/>
+    <nd ref="3306393415"/>
+    <nd ref="3306393425"/>
+    <nd ref="3306393449"/>
+    <nd ref="3306393561"/>
+    <nd ref="3306393581"/>
+    <nd ref="3306393584"/>
+    <nd ref="3306393372"/>
+    <nd ref="6238471044"/>
+    <nd ref="3306393207"/>
+    <nd ref="3306393370"/>
+    <nd ref="3306393393"/>
+    <nd ref="3306393415"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Terme ellenistiche"/>
+  </way>
+  <way id="324540030">
+    <center lat="37.0783006" lon="15.2805037"/>
+    <nd ref="3312461254"/>
+    <nd ref="3312461251"/>
+    <nd ref="3312461249"/>
+    <nd ref="3312461248"/>
+    <nd ref="3312461247"/>
+    <nd ref="3312461246"/>
+    <nd ref="3312461243"/>
+    <nd ref="3312461241"/>
+    <nd ref="3312461242"/>
+    <nd ref="3312461245"/>
+    <nd ref="3312461240"/>
+    <nd ref="3312461239"/>
+    <nd ref="3312461236"/>
+    <nd ref="3312461234"/>
+    <nd ref="3312461232"/>
+    <nd ref="3312461231"/>
+    <nd ref="3312461230"/>
+    <nd ref="3312461227"/>
+    <nd ref="3312461229"/>
+    <nd ref="3092999551"/>
+    <nd ref="3308683822"/>
+    <nd ref="3092999556"/>
+    <nd ref="3092999557"/>
+    <nd ref="3312461237"/>
+    <nd ref="3308683826"/>
+    <nd ref="3308683825"/>
+    <nd ref="3092999558"/>
+    <nd ref="3308683824"/>
+    <nd ref="3092999555"/>
+    <nd ref="3092999554"/>
+    <nd ref="3092999553"/>
+    <nd ref="3092999552"/>
+    <nd ref="3092999549"/>
+    <nd ref="3308683821"/>
+    <nd ref="3308683817"/>
+    <nd ref="3308683820"/>
+    <nd ref="3308683819"/>
+    <nd ref="3092999547"/>
+    <nd ref="3308683818"/>
+    <nd ref="3092999550"/>
+    <nd ref="3092999548"/>
+    <nd ref="3092999544"/>
+    <nd ref="3312461223"/>
+    <nd ref="3312461222"/>
+    <nd ref="3312461221"/>
+    <nd ref="3092999538"/>
+    <nd ref="3312461214"/>
+    <nd ref="3092999535"/>
+    <nd ref="3312461203"/>
+    <nd ref="1855803956"/>
+    <nd ref="3317414006"/>
+    <nd ref="3317414005"/>
+    <nd ref="3173440181"/>
+    <nd ref="3173440182"/>
+    <nd ref="3308683823"/>
+    <nd ref="1855803962"/>
+    <nd ref="3173440183"/>
+    <nd ref="3173440184"/>
+    <nd ref="3308683827"/>
+    <nd ref="3173440185"/>
+    <nd ref="3308683828"/>
+    <nd ref="3173440186"/>
+    <nd ref="3308683829"/>
+    <nd ref="3173440187"/>
+    <nd ref="3173440189"/>
+    <nd ref="3317414039"/>
+    <nd ref="3173440188"/>
+    <nd ref="3312461257"/>
+    <nd ref="3173440190"/>
+    <nd ref="3312461256"/>
+    <nd ref="3312461254"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Necropoli Grotticelle"/>
+    <tag k="tourism" v="attraction"/>
+  </way>
+  <way id="307888028">
+    <center lat="37.0636174" lon="15.2916702"/>
+    <nd ref="3131167699"/>
+    <nd ref="3131167701"/>
+    <nd ref="3131167698"/>
+    <nd ref="3131167700"/>
+    <nd ref="3131167699"/>
+    <tag k="description" v="Porta di accesso alla fortezza di Ortigia, fatta erigere da Dionigi il Grande. Essa faceva parte della cinta muraria che oltre a cingere Ortigia, costeggiava tutta la città fino al castello Eurialo."/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="ancient_greek"/>
+    <tag k="name" v="Porta Urbica"/>
+    <tag k="wikipedia" v="it:Porta urbica"/>
+  </way>
+  <way id="308074744">
+    <center lat="37.0618120" lon="15.2944904"/>
+    <nd ref="3133531910"/>
+    <nd ref="3133531801"/>
+    <nd ref="3133531704"/>
+    <nd ref="3133532017"/>
+    <nd ref="4359957405"/>
+    <nd ref="3133531910"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="ancient_greek"/>
+    <tag k="name" v="Scavo archeologico V secolo a.C."/>
+  </way>
+  <way id="135272913">
+    <center lat="37.0639041" lon="15.2930504"/>
+    <nd ref="1485756407"/>
+    <nd ref="1485756408"/>
+    <nd ref="1485756413"/>
+    <nd ref="1485756415"/>
+    <nd ref="1485756407"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="ancient_greek"/>
+    <tag k="name" v="Tempio di Apollo"/>
+    <tag k="name:el" v="Ναός του Απόλλωνα"/>
+    <tag k="wikidata" v="Q619477"/>
+    <tag k="wikipedia" v="it:Tempio di Apollo (Siracusa)"/>
+  </way>
+  <way id="683460966">
+    <center lat="37.0693906" lon="15.2900311"/>
+    <nd ref="6401593550"/>
+    <nd ref="6401593541"/>
+    <nd ref="6401593542"/>
+    <nd ref="6401593543"/>
+    <nd ref="6401593544"/>
+    <nd ref="6401593545"/>
+    <nd ref="6401593546"/>
+    <nd ref="6401593548"/>
+    <nd ref="6401593549"/>
+    <nd ref="6401593540"/>
+    <nd ref="6401593564"/>
+    <nd ref="6401593550"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Arsenale greco"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikipedia" v="it:Arsenale greco di Siracusa"/>
+  </way>
+  <way id="309926818">
+    <center lat="37.0755711" lon="15.2847276"/>
+    <nd ref="3152589528"/>
+    <nd ref="3152589525"/>
+    <nd ref="3152589527"/>
+    <nd ref="3171102656"/>
+    <nd ref="3152589529"/>
+    <nd ref="3152589528"/>
+    <tag k="barrier" v="wall"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Mausoleo Politi"/>
+  </way>
+  <way id="673247569">
+    <center lat="37.0732928" lon="15.2856973"/>
+    <nd ref="1844096679"/>
+    <nd ref="1844096851"/>
+    <nd ref="3065231323"/>
+    <nd ref="1847042568"/>
+    <nd ref="1847042723"/>
+    <nd ref="1847042721"/>
+    <nd ref="1847042737"/>
+    <nd ref="1847042565"/>
+    <nd ref="6304755948"/>
+    <nd ref="6304755949"/>
+    <nd ref="6304755950"/>
+    <nd ref="6304755951"/>
+    <nd ref="6304755952"/>
+    <nd ref="6304755953"/>
+    <nd ref="6304755954"/>
+    <nd ref="6304755955"/>
+    <nd ref="6304755956"/>
+    <nd ref="6304755957"/>
+    <nd ref="6304755958"/>
+    <nd ref="6304755959"/>
+    <nd ref="6304755960"/>
+    <nd ref="6304755961"/>
+    <nd ref="6304755962"/>
+    <nd ref="6304755963"/>
+    <nd ref="1847042762"/>
+    <nd ref="1847042748"/>
+    <nd ref="3139312544"/>
+    <nd ref="1847042729"/>
+    <nd ref="6366278301"/>
+    <nd ref="3065231300"/>
+    <nd ref="6304755947"/>
+    <nd ref="4132825037"/>
+    <nd ref="4132825040"/>
+    <nd ref="4132825041"/>
+    <nd ref="6304755944"/>
+    <nd ref="6304755943"/>
+    <nd ref="6304755942"/>
+    <nd ref="6304755941"/>
+    <nd ref="6304755940"/>
+    <nd ref="1844096679"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Santuario di Demetra e Kore"/>
+  </way>
+  <way id="693928251">
+    <center lat="37.0725420" lon="15.2942290"/>
+    <nd ref="6515160025"/>
+    <nd ref="6515165149"/>
+    <nd ref="6515165146"/>
+    <nd ref="6515160029"/>
+    <nd ref="6515160027"/>
+    <nd ref="6515165150"/>
+    <nd ref="6515160026"/>
+    <nd ref="6515160028"/>
+    <nd ref="6515160025"/>
+    <tag k="historic" v="archaeological_site"/>
+  </way>
+  <way id="281728577">
+    <center lat="37.0921162" lon="15.2237845"/>
+    <nd ref="2857068038"/>
+    <nd ref="4057310687"/>
+    <nd ref="4057317389"/>
+    <nd ref="4056687356"/>
+    <nd ref="4057317396"/>
+    <nd ref="4057317393"/>
+    <nd ref="4057317394"/>
+    <nd ref="4057317392"/>
+    <nd ref="4057317390"/>
+    <nd ref="4057317391"/>
+    <nd ref="4057317395"/>
+    <nd ref="2857068039"/>
+    <nd ref="4056687359"/>
+    <nd ref="4056687355"/>
+    <nd ref="3173450603"/>
+    <nd ref="3173450604"/>
+    <nd ref="7177825803"/>
+    <nd ref="4056687352"/>
+    <nd ref="4056687353"/>
+    <nd ref="7177825805"/>
+    <nd ref="4056687354"/>
+    <nd ref="3173464010"/>
+    <nd ref="4056687346"/>
+    <nd ref="4056687347"/>
+    <nd ref="4056687348"/>
+    <nd ref="4056687349"/>
+    <nd ref="4056687350"/>
+    <nd ref="4056687345"/>
+    <nd ref="4056687363"/>
+    <nd ref="4056687741"/>
+    <nd ref="4056687790"/>
+    <nd ref="4056687780"/>
+    <nd ref="3044537650"/>
+    <nd ref="4056687864"/>
+    <nd ref="4056687874"/>
+    <nd ref="4056687945"/>
+    <nd ref="3044570351"/>
+    <nd ref="3044570350"/>
+    <nd ref="3044570349"/>
+    <nd ref="4056687942"/>
+    <nd ref="4056687941"/>
+    <nd ref="4056687939"/>
+    <nd ref="4056687938"/>
+    <nd ref="4056687933"/>
+    <nd ref="4056687932"/>
+    <nd ref="2857068045"/>
+    <nd ref="4056687931"/>
+    <nd ref="4056687930"/>
+    <nd ref="4056687929"/>
+    <nd ref="4056687928"/>
+    <nd ref="2857068047"/>
+    <nd ref="4056687918"/>
+    <nd ref="4056687919"/>
+    <nd ref="4056687925"/>
+    <nd ref="4056687923"/>
+    <nd ref="4056687922"/>
+    <nd ref="4056687920"/>
+    <nd ref="4056687880"/>
+    <nd ref="4056687876"/>
+    <nd ref="4003267353"/>
+    <nd ref="4056687878"/>
+    <nd ref="3126210128"/>
+    <nd ref="4056687856"/>
+    <nd ref="3128221651"/>
+    <nd ref="4056687847"/>
+    <nd ref="4056687839"/>
+    <nd ref="4003267207"/>
+    <nd ref="4003267185"/>
+    <nd ref="4003267160"/>
+    <nd ref="2857067458"/>
+    <nd ref="2857068052"/>
+    <nd ref="4057310688"/>
+    <nd ref="4057310686"/>
+    <nd ref="2857068038"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Castello Eurialo"/>
+    <tag k="site_type" v="fortification"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikipedia" v="it:Castello Eurialo"/>
+  </way>
+  <way id="683594092">
+    <center lat="37.1140660" lon="15.2392370"/>
+    <nd ref="6402871559"/>
+    <nd ref="6392150909"/>
+    <nd ref="6392150910"/>
+    <nd ref="6392150911"/>
+    <nd ref="6392150912"/>
+    <nd ref="686535120"/>
+    <nd ref="686535129"/>
+    <nd ref="686535131"/>
+    <nd ref="686535107"/>
+    <nd ref="686535124"/>
+    <nd ref="686535123"/>
+    <nd ref="686535117"/>
+    <nd ref="686535109"/>
+    <nd ref="686535118"/>
+    <nd ref="48871949"/>
+    <nd ref="686535127"/>
+    <nd ref="686535126"/>
+    <nd ref="686535084"/>
+    <nd ref="686535079"/>
+    <nd ref="686535083"/>
+    <nd ref="48871950"/>
+    <nd ref="686535082"/>
+    <nd ref="686535081"/>
+    <nd ref="686535074"/>
+    <nd ref="686535073"/>
+    <nd ref="686535075"/>
+    <nd ref="686535078"/>
+    <nd ref="686535077"/>
+    <nd ref="686535076"/>
+    <nd ref="686534894"/>
+    <nd ref="686534896"/>
+    <nd ref="686534893"/>
+    <nd ref="6402871562"/>
+    <nd ref="6392150805"/>
+    <nd ref="6392150806"/>
+    <nd ref="6392150807"/>
+    <nd ref="6392150808"/>
+    <nd ref="6402871561"/>
+    <nd ref="6402871558"/>
+    <nd ref="6402871560"/>
+    <nd ref="6402871559"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="neolithic"/>
+    <tag k="name" v="Stentinello"/>
+    <tag k="site_type" v="settlement"/>
+    <tag k="wikidata" v="Q726619"/>
+    <tag k="wikipedia" v="it:Stentinello"/>
+  </way>
+  <way id="874442983">
+    <center lat="37.0868079" lon="15.2780468"/>
+    <nd ref="1858129881"/>
+    <nd ref="8140245364"/>
+    <nd ref="7671106526"/>
+    <nd ref="7671106532"/>
+    <nd ref="7671106531"/>
+    <nd ref="7671106530"/>
+    <nd ref="7671106529"/>
+    <nd ref="7671106528"/>
+    <nd ref="8140245363"/>
+    <nd ref="7667440906"/>
+    <nd ref="3286518261"/>
+    <nd ref="1858129895"/>
+    <nd ref="3068559563"/>
+    <nd ref="3068559559"/>
+    <nd ref="1858129881"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Area archeologica Santa Panagia"/>
+    <tag k="site_type" v="necropolis"/>
+  </way>
+  <way id="901661127">
+    <center lat="37.1036903" lon="15.2608990"/>
+    <nd ref="8375867481"/>
+    <nd ref="8375867482"/>
+    <nd ref="8375867483"/>
+    <nd ref="8375867484"/>
+    <nd ref="8375867485"/>
+    <nd ref="8375867486"/>
+    <nd ref="8375867487"/>
+    <nd ref="8375867488"/>
+    <nd ref="8375867489"/>
+    <nd ref="8375867490"/>
+    <nd ref="8375867481"/>
+    <tag k="historic" v="archaeological_site"/>
+  </way>
+  <relation id="3847874">
+    <center lat="37.0742132" lon="15.2789048"/>
+    <member type="way" ref="243189321" role="outer"/>
+    <member type="way" ref="289680763" role="inner"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Anfiteatro romano"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikidata" v="Q1091447"/>
+    <tag k="wikipedia" v="it:Anfiteatro romano di Siracusa"/>
+  </relation>
+
+</osm>

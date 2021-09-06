@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-07-30T09:33:13Z" areas="2021-07-30T08:52:34Z"/>
+<meta osm_base="2021-09-06T10:04:42Z" areas="2021-09-06T08:54:13Z"/>
 
   <node id="5885367886" lat="36.9771946" lon="15.1988436">
     <tag k="amenity" v="bank"/>
@@ -60,7 +60,6 @@
   <node id="6193164834" lat="37.0615582" lon="15.2938347">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banco di Sicilia"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="it:UniCredit"/>
     <tag k="name" v="Unicredit"/>
@@ -91,7 +90,6 @@
   <node id="6193163613" lat="37.0689516" lon="15.2846117">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banco di Sicilia"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="it:UniCredit"/>
     <tag k="name" v="Unicredit"/>
@@ -144,7 +142,6 @@
   <node id="6193162962" lat="37.0781245" lon="15.2838664">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banco di Sicilia"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="it:UniCredit"/>
     <tag k="name" v="Unicredit"/>
@@ -189,7 +186,6 @@
   <node id="6193162856" lat="37.0933402" lon="15.2702492">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banco di Sicilia"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="it:UniCredit"/>
     <tag k="name" v="Unicredit"/>
@@ -197,7 +193,6 @@
   <node id="6193162569" lat="37.0860833" lon="15.2890167">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banco di Sicilia"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="it:UniCredit"/>
     <tag k="name" v="Unicredit"/>

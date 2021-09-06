@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-07-30T09:33:13Z" areas="2021-07-30T08:52:34Z"/>
+
+  <way id="73260041">
+    <center lat="36.9570907" lon="15.1727804"/>
+    <nd ref="869016464"/>
+    <nd ref="1237156903"/>
+    <nd ref="869017702"/>
+    <nd ref="1237154835"/>
+    <nd ref="3189947776"/>
+    <nd ref="869017050"/>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Viadotto Cassibile"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73260070">
+    <center lat="36.9571519" lon="15.1726613"/>
+    <nd ref="869016144"/>
+    <nd ref="3189947777"/>
+    <nd ref="1237155987"/>
+    <nd ref="369269040"/>
+    <nd ref="869014943"/>
+    <nd ref="1237154588"/>
+    <nd ref="869014483"/>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Viadotto Cassibile"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="265421237">
+    <center lat="36.9630575" lon="15.1795405"/>
+    <nd ref="2710884366"/>
+    <nd ref="5145436668"/>
+    <nd ref="2709714344"/>
+    <nd ref="1237157085"/>
+    <nd ref="869015834"/>
+    <nd ref="1237157266"/>
+    <nd ref="1237156458"/>
+    <nd ref="2710884362"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="265421250">
+    <center lat="36.9626279" lon="15.1793079"/>
+    <nd ref="2710884360"/>
+    <nd ref="1237154751"/>
+    <nd ref="1237156800"/>
+    <nd ref="2709714342"/>
+    <nd ref="5285533722"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313072084">
+    <center lat="36.9591350" lon="15.1749021"/>
+    <nd ref="869017050"/>
+    <nd ref="2710884349"/>
+    <nd ref="2710884354"/>
+    <nd ref="869017333"/>
+    <nd ref="2958092080"/>
+    <nd ref="5285533724"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313072094">
+    <center lat="36.9597189" lon="15.1755170"/>
+    <nd ref="253950946"/>
+    <nd ref="2958092090"/>
+    <nd ref="869014614"/>
+    <nd ref="2958092088"/>
+    <nd ref="5145436667"/>
+    <nd ref="869016144"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="265421232">
+    <center lat="36.9611316" lon="15.1773930"/>
+    <nd ref="2710884362"/>
+    <nd ref="253950946"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="265421240">
+    <center lat="36.9610242" lon="15.1774766"/>
+    <nd ref="416783483"/>
+    <nd ref="2710884360"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="546999964">
+    <center lat="36.9604703" lon="15.1766937"/>
+    <nd ref="5285533724"/>
+    <nd ref="416783483"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="546999966">
+    <center lat="36.9659271" lon="15.1825964"/>
+    <nd ref="5285533727"/>
+    <nd ref="2710884370"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722776162">
+    <center lat="36.9686037" lon="15.1854293"/>
+    <nd ref="2710884368"/>
+    <nd ref="290391068"/>
+    <nd ref="2710884373"/>
+    <nd ref="1237155676"/>
+    <nd ref="2710884386"/>
+    <nd ref="5145436671"/>
+    <nd ref="390076376"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="265421236">
+    <center lat="36.9650441" lon="15.1817248"/>
+    <nd ref="2710884370"/>
+    <nd ref="2710884366"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Viadotto Cava Patiddi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="265421242">
+    <center lat="36.9649937" lon="15.1818746"/>
+    <nd ref="2710884364"/>
+    <nd ref="2710884368"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Viadotto Cava Patiddi"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="546999963">
+    <center lat="36.9645279" lon="15.1814141"/>
+    <nd ref="5285533722"/>
+    <nd ref="5145436669"/>
+    <nd ref="2710884364"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="546999965">
+    <center lat="36.9672002" lon="15.1838596"/>
+    <nd ref="2710884376"/>
+    <nd ref="253950944"/>
+    <nd ref="5285533727"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313072082">
+    <center lat="36.9794912" lon="15.1930191"/>
+    <nd ref="6779827386"/>
+    <nd ref="1893988452"/>
+    <nd ref="1893988663"/>
+    <nd ref="390076379"/>
+    <nd ref="1893988999"/>
+    <nd ref="3067725201"/>
+    <nd ref="390076418"/>
+    <nd ref="1237155668"/>
+    <nd ref="8359059309"/>
+    <nd ref="1237156818"/>
+    <nd ref="5145436677"/>
+    <nd ref="274505992"/>
+    <nd ref="1237155347"/>
+    <nd ref="1237156611"/>
+    <nd ref="3067725164"/>
+    <nd ref="1237154552"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313072086">
+    <center lat="36.9707432" lon="15.1873511"/>
+    <nd ref="5285533729"/>
+    <nd ref="3067725758"/>
+    <nd ref="390076377"/>
+    <nd ref="5145436670"/>
+    <nd ref="2710884388"/>
+    <nd ref="1237155942"/>
+    <nd ref="2710884376"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722776160">
+    <center lat="36.9750941" lon="15.1913960"/>
+    <nd ref="6779794983"/>
+    <nd ref="390076378"/>
+    <nd ref="1237157029"/>
+    <nd ref="5285533729"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722776161">
+    <center lat="36.9723412" lon="15.1891180"/>
+    <nd ref="390076376"/>
+    <nd ref="6779827386"/>
+    <tag k="destination:lanes" v="||Cassibile"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="none|none|slight_right"/>
+  </way>
+  <way id="546999967">
+    <center lat="36.9784543" lon="15.1934926"/>
+    <nd ref="253950941"/>
+    <nd ref="3067725212"/>
+    <nd ref="1237154524"/>
+    <nd ref="3067725780"/>
+    <nd ref="1237156582"/>
+    <nd ref="6779827385"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722776159">
+    <center lat="36.9766080" lon="15.1925799"/>
+    <nd ref="6779827385"/>
+    <nd ref="6779794983"/>
+    <tag k="destination:lanes" v="||Cassibile"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="none|none|slight_right"/>
+  </way>
+  <way id="313091127">
+    <center lat="37.0006874" lon="15.2055756"/>
+    <nd ref="292888903"/>
+    <nd ref="1237157109"/>
+    <nd ref="3067725736"/>
+    <nd ref="5145436687"/>
+    <nd ref="253950937"/>
+    <nd ref="3067725773"/>
+    <nd ref="292888976"/>
+    <nd ref="1237154560"/>
+    <nd ref="292889037"/>
+    <nd ref="1237156624"/>
+    <nd ref="3067725163"/>
+    <nd ref="292889083"/>
+    <nd ref="1237155361"/>
+    <nd ref="253950938"/>
+    <nd ref="1237155685"/>
+    <nd ref="1237156590"/>
+    <nd ref="1237154894"/>
+    <nd ref="1237156961"/>
+    <nd ref="1237155798"/>
+    <nd ref="253950939"/>
+    <nd ref="1237157169"/>
+    <nd ref="292889291"/>
+    <nd ref="1237156013"/>
+    <nd ref="292889293"/>
+    <nd ref="1237154612"/>
+    <nd ref="3190119688"/>
+    <nd ref="253950940"/>
+    <nd ref="5145436678"/>
+    <nd ref="1237156670"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313091130">
+    <center lat="37.0006697" lon="15.2057423"/>
+    <nd ref="1237156434"/>
+    <nd ref="5145436679"/>
+    <nd ref="274505993"/>
+    <nd ref="1237157569"/>
+    <nd ref="292889298"/>
+    <nd ref="1237155770"/>
+    <nd ref="292889292"/>
+    <nd ref="1237156932"/>
+    <nd ref="292889234"/>
+    <nd ref="1237155490"/>
+    <nd ref="1237154645"/>
+    <nd ref="1237156831"/>
+    <nd ref="1237156043"/>
+    <nd ref="274505994"/>
+    <nd ref="1237157523"/>
+    <nd ref="292889091"/>
+    <nd ref="1237155727"/>
+    <nd ref="292889053"/>
+    <nd ref="1237156879"/>
+    <nd ref="292888977"/>
+    <nd ref="292888941"/>
+    <nd ref="5145436688"/>
+    <nd ref="1237156186"/>
+    <nd ref="292888918"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="546999968">
+    <center lat="36.9832704" lon="15.1953953"/>
+    <nd ref="1237155449"/>
+    <nd ref="3067725170"/>
+    <nd ref="1237155712"/>
+    <nd ref="253950941"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="179063462">
+    <center lat="36.9868830" lon="15.1967069"/>
+    <nd ref="1237156670"/>
+    <nd ref="1237155449"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Viadotto Cavagiorgia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="179063464">
+    <center lat="36.9868441" lon="15.1968695"/>
+    <nd ref="1237154552"/>
+    <nd ref="1237156434"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Viadotto Cavagiorgia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="288497046">
+    <center lat="37.0279975" lon="15.2188225"/>
+    <nd ref="1237156738"/>
+    <nd ref="1237154682"/>
+    <nd ref="292888775"/>
+    <nd ref="5145436686"/>
+    <nd ref="292888838"/>
+    <nd ref="292888849"/>
+    <nd ref="1237157570"/>
+    <nd ref="292888655"/>
+    <nd ref="274505995"/>
+    <nd ref="5145436684"/>
+    <nd ref="1237155429"/>
+    <nd ref="3067725217"/>
+    <nd ref="292888592"/>
+    <nd ref="3067725760"/>
+    <nd ref="1237156661"/>
+    <nd ref="3067725172"/>
+    <nd ref="292888740"/>
+    <nd ref="1237155760"/>
+    <nd ref="1237156003"/>
+    <nd ref="3190086454"/>
+    <nd ref="3067725194"/>
+    <nd ref="292888565"/>
+    <nd ref="5145436682"/>
+    <nd ref="274505996"/>
+    <nd ref="292888512"/>
+    <nd ref="1237155968"/>
+    <nd ref="3067725776"/>
+    <nd ref="292888480"/>
+    <nd ref="1237157127"/>
+    <nd ref="274505997"/>
+    <nd ref="1237155748"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="690517239">
+    <center lat="37.0280333" lon="15.2186546"/>
+    <nd ref="1237155986"/>
+    <nd ref="253950930"/>
+    <nd ref="1237157338"/>
+    <nd ref="292888461"/>
+    <nd ref="1237156205"/>
+    <nd ref="292888508"/>
+    <nd ref="1877097389"/>
+    <nd ref="1237154557"/>
+    <nd ref="253950932"/>
+    <nd ref="3190086455"/>
+    <nd ref="1237156923"/>
+    <nd ref="1237154603"/>
+    <nd ref="292888578"/>
+    <nd ref="1237157560"/>
+    <nd ref="292888616"/>
+    <nd ref="3067725772"/>
+    <nd ref="3067725742"/>
+    <nd ref="1237156420"/>
+    <nd ref="1877097367"/>
+    <nd ref="5145436683"/>
+    <nd ref="253950935"/>
+    <nd ref="292888728"/>
+    <nd ref="1237154627"/>
+    <nd ref="292888868"/>
+    <nd ref="292888845"/>
+    <nd ref="5145436685"/>
+    <nd ref="292888757"/>
+    <nd ref="1237155838"/>
+    <nd ref="1237157620"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="288497038">
+    <center lat="37.0146758" lon="15.2146748"/>
+    <nd ref="292888918"/>
+    <nd ref="1237156738"/>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Viadotto Cavadonna"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="288497061">
+    <center lat="37.0146963" lon="15.2145094"/>
+    <nd ref="1237157620"/>
+    <nd ref="292888903"/>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="110"/>
+    <tag k="name" v="Viadotto Cavadonna"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313089953">
+    <center lat="37.0457241" lon="15.2247298"/>
+    <nd ref="1877097574"/>
+    <nd ref="270880137"/>
+    <nd ref="3190097615"/>
+    <nd ref="1237154725"/>
+    <nd ref="292888104"/>
+    <nd ref="1237156777"/>
+    <nd ref="270880138"/>
+    <nd ref="3067725741"/>
+    <nd ref="1237156225"/>
+    <nd ref="292888228"/>
+    <nd ref="1877097495"/>
+    <nd ref="1877097469"/>
+    <nd ref="292888355"/>
+    <nd ref="1237157156"/>
+    <nd ref="3190088306"/>
+    <tag k="destination" v="Gela"/>
+    <tag k="destination:ref" v="A18"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313089954">
+    <center lat="37.0454522" lon="15.2248778"/>
+    <nd ref="3190088305"/>
+    <nd ref="3067725182"/>
+    <nd ref="292888435"/>
+    <nd ref="1877097473"/>
+    <nd ref="1877097491"/>
+    <nd ref="3067725752"/>
+    <nd ref="292888244"/>
+    <nd ref="1237155127"/>
+    <nd ref="274505999"/>
+    <nd ref="1237155891"/>
+    <nd ref="292888175"/>
+    <nd ref="1237157061"/>
+    <nd ref="3190097614"/>
+    <nd ref="274506000"/>
+    <nd ref="4070372753"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313089492">
+    <center lat="37.0413164" lon="15.2228234"/>
+    <nd ref="3190088306"/>
+    <nd ref="292888440"/>
+    <nd ref="1237155986"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Viadotto Mortilla"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="313089493">
+    <center lat="37.0412712" lon="15.2229851"/>
+    <nd ref="1237155748"/>
+    <nd ref="292888448"/>
+    <nd ref="1237156901"/>
+    <nd ref="3190088305"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Viadotto Mortilla"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722658946">
+    <center lat="37.0493601" lon="15.2264818"/>
+    <nd ref="4070372753"/>
+    <nd ref="6778847089"/>
+    <tag k="destination:lanes" v="Siracusa|Siracusa|Canicattini Bagni"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="none|none|slight_right"/>
+  </way>
+  <way id="722658947">
+    <center lat="37.0524408" lon="15.2264021"/>
+    <nd ref="6778847089"/>
+    <nd ref="3479417410"/>
+    <nd ref="5145436680"/>
+    <nd ref="4070379910"/>
+    <nd ref="1842175381"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="130"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="859453273">
+    <center lat="37.0517755" lon="15.2262654"/>
+    <nd ref="6779947996"/>
+    <nd ref="5145436681"/>
+    <nd ref="1877097588"/>
+    <nd ref="1877097574"/>
+    <tag k="destination" v="Gela"/>
+    <tag k="destination:ref" v="A18"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722658948">
+    <center lat="37.0550127" lon="15.2261735"/>
+    <nd ref="1842175374"/>
+    <nd ref="3479417407"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="722793675">
+    <center lat="37.0544184" lon="15.2261871"/>
+    <nd ref="3479417407"/>
+    <nd ref="6779947996"/>
+    <tag k="destination:lanes" v="Gela|Gela|Canicattini Bagni"/>
+    <tag k="destination:ref:lanes" v="A18|A18|"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="E 45"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Autostrada Siracusa-Gela"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A18"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="none|none|slight_right"/>
+  </way>
+
+</osm>

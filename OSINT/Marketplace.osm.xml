@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-17T06:17:42Z" areas="2021-06-17T05:54:12Z"/>
+<meta osm_base="2021-08-13T10:04:43Z" areas="2021-08-13T08:54:13Z"/>
 
   <node id="4738256963" lat="36.9753054" lon="15.1986864">
     <tag k="amenity" v="marketplace"/>
@@ -17,10 +17,6 @@
     <tag k="name" v="Mercato del Contadino"/>
     <tag k="opening_hours" v="Jul-Sep sa 12:00-18:00"/>
   </node>
-  <node id="4738256965" lat="37.0621528" lon="15.2722621">
-    <tag k="amenity" v="marketplace"/>
-    <tag k="name" v="Mercato delle Piante e dei Fiori"/>
-  </node>
   <node id="6371000957" lat="37.0711486" lon="15.2801563">
     <tag k="amenity" v="marketplace"/>
     <tag k="name" v="Mercato del Contadino"/>
@@ -29,6 +25,7 @@
   <node id="4738256966" lat="37.0649840" lon="15.2934730">
     <tag k="amenity" v="marketplace"/>
     <tag k="name" v="Mercato di Via De Benedictis"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-14:00"/>
   </node>
   <node id="6371000956" lat="37.0659184" lon="15.2926109">
     <tag k="amenity" v="marketplace"/>

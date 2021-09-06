@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-19T11:38:09Z" areas="2021-06-19T11:27:57Z"/>
+<meta osm_base="2021-08-12T15:53:44Z" areas="2021-08-12T15:01:28Z"/>
 
   <node id="6479491081" lat="37.0706325" lon="15.2687548">
     <tag k="amenity" v="police"/>
@@ -67,6 +67,9 @@
     <nd ref="2502610005"/>
     <tag k="amenity" v="police"/>
     <tag k="name" v="Guardia di Finanza"/>
+    <tag k="operator" v="Guardia di Finanza"/>
+    <tag k="operator:wikidata" v="Q1552861"/>
+    <tag k="operator:wikipedia" v="it:Guardia di Finanza"/>
   </way>
   <way id="281717283">
     <center lat="37.0538351" lon="15.2947050"/>

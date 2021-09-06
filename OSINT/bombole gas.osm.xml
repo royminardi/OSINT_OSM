@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-06-19T14:15:38Z" areas="2021-06-19T13:42:57Z"/>
+
+  <node id="6486874118" lat="37.0706646" lon="15.2669191">
+    <tag k="name" v="Sima Gas"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <node id="7161420165" lat="37.0607653" lon="15.2963056">
+    <tag k="name" v="Ortigia Gas"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <node id="6439915303" lat="37.0720308" lon="15.2891421">
+    <tag k="name" v="Speedy Gas"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <node id="6439915456" lat="37.0729776" lon="15.2903750">
+    <tag k="name" v="Spataro"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <node id="6515165086" lat="37.0746521" lon="15.2924286">
+    <tag k="name" v="De Natale"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <node id="6262470856" lat="37.0925018" lon="15.2779539">
+    <tag k="name" v="La Bombola"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <node id="6456670402" lat="37.0878269" lon="15.2940933">
+    <tag k="name" v="D'Alessandro"/>
+    <tag k="shop" v="gas"/>
+  </node>
+  <way id="691542103">
+    <center lat="37.0581476" lon="15.2672394"/>
+    <nd ref="6489499629"/>
+    <nd ref="6489499807"/>
+    <nd ref="6489499806"/>
+    <nd ref="6489499803"/>
+    <nd ref="6489499802"/>
+    <nd ref="6489499781"/>
+    <nd ref="6489499734"/>
+    <nd ref="6489499782"/>
+    <nd ref="6489499846"/>
+    <nd ref="6489499845"/>
+    <nd ref="6489499844"/>
+    <nd ref="6489499828"/>
+    <nd ref="6489499827"/>
+    <nd ref="6489499818"/>
+    <nd ref="6489499819"/>
+    <nd ref="6489499635"/>
+    <nd ref="6489499817"/>
+    <nd ref="6489499816"/>
+    <nd ref="6489499814"/>
+    <nd ref="6489499815"/>
+    <nd ref="6489499634"/>
+    <nd ref="6489499820"/>
+    <nd ref="6489499821"/>
+    <nd ref="6493240418"/>
+    <nd ref="6493240417"/>
+    <nd ref="6493240420"/>
+    <nd ref="6489499812"/>
+    <nd ref="6489499808"/>
+    <nd ref="6489499629"/>
+    <tag k="name" v="Gasmess"/>
+    <tag k="shop" v="gas"/>
+  </way>
+  <way id="691833814">
+    <center lat="37.0700470" lon="15.2758719"/>
+    <nd ref="4024973961"/>
+    <nd ref="4024695787"/>
+    <nd ref="4024695989"/>
+    <nd ref="6484583096"/>
+    <nd ref="6484583095"/>
+    <nd ref="4024695990"/>
+    <nd ref="6484583377"/>
+    <nd ref="4024695992"/>
+    <nd ref="6484583378"/>
+    <nd ref="4024695996"/>
+    <nd ref="4024696000"/>
+    <nd ref="6484583342"/>
+    <nd ref="6484583344"/>
+    <nd ref="6484583341"/>
+    <nd ref="6484583346"/>
+    <nd ref="6484583347"/>
+    <nd ref="6484583348"/>
+    <nd ref="6484583357"/>
+    <nd ref="6486874294"/>
+    <nd ref="6484583356"/>
+    <nd ref="6486870849"/>
+    <nd ref="6484583763"/>
+    <nd ref="6484583764"/>
+    <nd ref="6484583767"/>
+    <nd ref="6484583769"/>
+    <nd ref="6484583770"/>
+    <nd ref="6484583771"/>
+    <nd ref="6484583772"/>
+    <nd ref="6484583773"/>
+    <nd ref="6484583774"/>
+    <nd ref="6484583753"/>
+    <nd ref="6484583775"/>
+    <nd ref="6484583776"/>
+    <nd ref="6484583777"/>
+    <nd ref="6484583778"/>
+    <nd ref="6484583885"/>
+    <nd ref="6484583886"/>
+    <nd ref="6434290803"/>
+    <nd ref="4024973959"/>
+    <nd ref="4024973961"/>
+    <tag k="name" v="Linde Medicale"/>
+    <tag k="shop" v="gas"/>
+  </way>
+  <way id="690593978">
+    <center lat="37.0711893" lon="15.2706294"/>
+    <nd ref="6471280121"/>
+    <nd ref="6471280123"/>
+    <nd ref="6471279979"/>
+    <nd ref="6471280124"/>
+    <nd ref="6471280094"/>
+    <nd ref="6471279978"/>
+    <nd ref="6471280093"/>
+    <nd ref="6479481032"/>
+    <nd ref="6471280089"/>
+    <nd ref="6471280102"/>
+    <nd ref="6471280103"/>
+    <nd ref="6471280105"/>
+    <nd ref="4024974005"/>
+    <nd ref="6471280110"/>
+    <nd ref="6471280111"/>
+    <nd ref="6471280114"/>
+    <nd ref="6402870675"/>
+    <nd ref="6471280299"/>
+    <nd ref="6471280300"/>
+    <nd ref="6471280301"/>
+    <nd ref="6471280292"/>
+    <nd ref="6471280302"/>
+    <nd ref="6471280303"/>
+    <nd ref="6471280304"/>
+    <nd ref="4519061133"/>
+    <nd ref="4519061132"/>
+    <nd ref="6479481054"/>
+    <nd ref="4519061147"/>
+    <nd ref="4519061157"/>
+    <nd ref="6471280121"/>
+    <tag k="name" v="Mediter"/>
+    <tag k="shop" v="gas"/>
+  </way>
+
+</osm>
