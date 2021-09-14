@@ -1,6 +1,4 @@
 # OSINT
-898 / 5000
-Risultati della traduzione
 The project is called "Territory Security for Crime Prevention" and combines queries extracted from a purpose-built ontology with queries extracted from OpenStreetMap by implementing the following libraries:
 
 https://github.com/zsoltk/overpasser.git;
