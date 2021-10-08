@@ -1,4 +1,4 @@
-# OSINT
+# SiTer
 The project is called SiTer ("Sicurezza del Territorio per la prevenzione del crimine" - "Territory Security for Crime Prevention") and combines queries extracted from a purpose-built ontology with queries extracted from OpenStreetMap by implementing the following libraries:
 
 https://github.com/zsoltk/overpasser.git;
