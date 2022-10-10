@@ -94,8 +94,8 @@ import java.awt.event.ItemEvent;
 public class SemanticCrime {
 
 	static int numTotale;
-	static double[] latitudine;
-	static double[] longitudine;
+	static double[] latitude;
+	static double[] longitude;
 	
 	/* ONTOLOGIA */
 	static String defaultNameSpace = "http://www.enea-terin-sen-apic.it/TERMINUS-crime-v01#";
@@ -232,7 +232,7 @@ public class SemanticCrime {
 	static Set<String> resultListVulnerability=new TreeSet<>();
 	static Set<String> resultListStakeholder=new TreeSet<>();
 	
-	String infoMappa="";
+	String infoMap="";
 	
 	private JTextField txttotale;
 	private JTextField textFieldSoggetto2;
@@ -276,7 +276,7 @@ public class SemanticCrime {
 		
 		frmSicurezzaDelTerritorio = new JFrame();
 		frmSicurezzaDelTerritorio.setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\sives\\Eclipse progetti Roy\\police1.png"));
-		frmSicurezzaDelTerritorio.setTitle("Sicurezza del territorio e prevenzione del crimine");
+		frmSicurezzaDelTerritorio.setTitle("Crime Prevention Platform");
 		frmSicurezzaDelTerritorio.setBounds(100, 100, 1024, 600);
 		frmSicurezzaDelTerritorio.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmSicurezzaDelTerritorio.getContentPane().setLayout(null);
@@ -289,7 +289,7 @@ public class SemanticCrime {
 		/* 1° pannello */
 		
 		JPanel tabricerca = new JPanel();
-		tabGenerale.addTab("Ricerca POI", null, tabricerca, null);
+		tabGenerale.addTab("Search POI", null, tabricerca, null);
 		tabricerca.setLayout(null);
 		
 		txttotale = new JTextField();
@@ -299,7 +299,7 @@ public class SemanticCrime {
 		txttotale.setColumns(10);
 		
 		JPanel tabOSM = new JPanel();
-		tabGenerale.addTab("Risultato su OpenStreetMap", null, tabOSM, null);
+		tabGenerale.addTab("Results on OpenStreetMap", null, tabOSM, null);
 		tabOSM.setLayout(null);
 		
 		JTextArea txtareaosm = new JTextArea();
@@ -312,11 +312,8 @@ public class SemanticCrime {
 		tabOSM.add(scrollpaneosm);
 		scrollpaneosm.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
 		
-		/* nel metodo costruttore si indica l'array elenco in input */
-		/* Setta il font */
-		
 		JPanel tabOWL = new JPanel();
-		tabGenerale.addTab("Risultato Query SPARQL", null, tabOWL, null);
+		tabGenerale.addTab("SPARQL query results", null, tabOWL, null);
 		tabOWL.setLayout(null);
 		
 		JTextArea txtareaowl = new JTextArea();
@@ -328,7 +325,7 @@ public class SemanticCrime {
 		tabOWL.add(scrollpaneowl);
 		scrollpaneowl.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
 		
-		JLabel lbltotale = new JLabel("n\u00B0 occorrenze");
+		JLabel lbltotale = new JLabel("n\u00B0 occurrences");
 		lbltotale.setBounds(398, 45, 89, 14);
 		tabricerca.add(lbltotale);
 		
@@ -338,7 +335,7 @@ public class SemanticCrime {
 		scrollpanesparql.setBounds(86, 350, 756, 141);
 		tabricerca.add(scrollpanesparql);
 		scrollpanesparql.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-		JButton btnsparql = new JButton("Esegui query");
+		JButton btnsparql = new JButton("Run query");
 		btnsparql.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String queryString=txtsparql.getText();
@@ -354,11 +351,11 @@ public class SemanticCrime {
 			    txtareaowl.setText(risultato.toString());
 			}
 		});
-		btnsparql.setActionCommand("Esegui");
+		btnsparql.setActionCommand("Run");
 		btnsparql.setBounds(852, 466, 120, 23);
 		tabricerca.add(btnsparql);
 		
-		JLabel lblsparql = new JLabel("Query SPARQL libera");
+		JLabel lblsparql = new JLabel("Free SPARQL query");
 		lblsparql.setBounds(86, 325, 147, 14);
 		tabricerca.add(lblsparql);
 	
@@ -425,7 +422,6 @@ public class SemanticCrime {
 				case 1:
 					valHazard=itemQuery5;
 					String comboqStakeholder12345=Query("qStakeholder12345",itemQuery1,itemQuery2,"");
-//					System.out.println(comboqStakeholder12345);
 					Query queryBox1= QueryFactory.create(comboqStakeholder12345);
 					QueryExecution qexecBox1=QueryExecutionFactory.create(queryBox1, model1);
 					try {
@@ -440,7 +436,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa1=stringa1.substring(stringa1.indexOf("#")+1, stringa1.length()-3);
 								resultListStakeholder.add(stringa1);
-//								comboBoxQuery6.addItem(stringa1);
 								/* prova per visualizzare su console */
 							}
 							for (String i : resultListStakeholder) {
@@ -455,7 +450,6 @@ public class SemanticCrime {
 				case 2:
 					valVulnerability=itemQuery5;
 					String comboqEvent2=Query("qStakeholder12345",itemQuery4,itemQuery3,"");
-//					System.out.println(comboqEvent2);
 					Query queryBox2= QueryFactory.create(comboqEvent2);
 					QueryExecution qexecBox2=QueryExecutionFactory.create(queryBox2, model1);
 					try {
@@ -470,7 +464,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa2=stringa2.substring(stringa2.indexOf("#")+1, stringa2.length()-3);
 								resultListStakeholder.add(stringa2);
-//								comboBoxQuery6.addItem(stringa2);
 							}
 							for (String i : resultListStakeholder) {
 								comboBoxQuery6.addItem(i);
@@ -485,7 +478,6 @@ public class SemanticCrime {
 					valVulnerability=itemQuery5;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqHazard3=Query("qStakeholder12345",itemQuery4,itemQuery3,"");
-//					System.out.println(comboqHazard3);
 					Query queryBox3= QueryFactory.create(comboqHazard3);
 					QueryExecution qexecBox3=QueryExecutionFactory.create(queryBox3, model1);
 					try {
@@ -500,7 +492,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa3=stringa3.substring(stringa3.indexOf("#")+1, stringa3.length()-3);
 								resultListStakeholder.add(stringa3);
-//								comboBoxQuery6.addItem(stringa3);
 							}
 							for (String i : resultListStakeholder) {
 								comboBoxQuery6.addItem(i);
@@ -515,7 +506,6 @@ public class SemanticCrime {
 					valEvent=itemQuery5;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqSystem4=Query("qHazard1456",itemQuery2,itemQuery5,"");
-//					System.out.println(comboqSystem4);
 					Query queryBox4= QueryFactory.create(comboqSystem4);
 					QueryExecution qexecBox4=QueryExecutionFactory.create(queryBox4, model1);
 					try {
@@ -530,7 +520,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa4=stringa4.substring(stringa4.indexOf("#")+1, stringa4.length()-3);
 								resultListHazard.add(stringa4);
-//								comboBoxQuery6.addItem(stringa4);
 							}
 							for (String i : resultListHazard) {
 								comboBoxQuery6.addItem(i);
@@ -545,7 +534,6 @@ public class SemanticCrime {
 					valEvent=itemQuery5;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect5=Query("qHazard1456",itemQuery3,itemQuery5,"");
-//					System.out.println(comboqAspect5);
 					Query queryBox5= QueryFactory.create(comboqAspect5);
 					QueryExecution qexecBox5=QueryExecutionFactory.create(queryBox5, model1);
 					try {
@@ -560,7 +548,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa5=stringa5.substring(stringa5.indexOf("#")+1, stringa5.length()-3);
 								resultListHazard.add(stringa5);
-//								comboBoxQuery6.addItem(stringa5);
 							}
 							for (String i : resultListHazard) {
 								comboBoxQuery6.addItem(i);
@@ -576,7 +563,6 @@ public class SemanticCrime {
 					valEvent=itemQuery5;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect6=Query("qHazard1456",itemQuery3,itemQuery5,"");
-//					System.out.println(comboqAspect6);
 					Query queryBox6= QueryFactory.create(comboqAspect6);
 					QueryExecution qexecBox6=QueryExecutionFactory.create(queryBox6, model1);
 					try {
@@ -591,7 +577,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa6=stringa6.substring(stringa6.indexOf("#")+1, stringa6.length()-3);
 								resultListHazard.add(stringa6);
-//								comboBoxQuery6.addItem(stringa6);
 							}
 							for (String i : resultListHazard) {
 								comboBoxQuery6.addItem(i);
@@ -631,7 +616,6 @@ public class SemanticCrime {
 			case 1:
 				valEvent=itemQuery4;
 				String comboqHazard1456=Query("qHazard1456",itemQuery1,itemQuery4,"");
-//				System.out.println(comboqHazard1456);
 				Query queryBox1= QueryFactory.create(comboqHazard1456);
 				QueryExecution qexecBox1=QueryExecutionFactory.create(queryBox1, model1);
 				try {
@@ -646,8 +630,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa1=stringa1.substring(stringa1.indexOf("#")+1, stringa1.length()-3);
 							resultListHazard.add(stringa1);
-//							comboBoxQuery5.addItem(stringa1);
-							/* prova per visualizzare su console */
 						}
 						for (String i : resultListHazard) {
 							comboBoxQuery5.addItem(i);
@@ -661,7 +643,6 @@ public class SemanticCrime {
 			case 2:
 				valSystem=itemQuery4;
 				String comboqEvent2=Query("qVulnerability12346",itemQuery4,itemQuery3,"");
-//				System.out.println(comboqEvent2);
 				Query queryBox2= QueryFactory.create(comboqEvent2);
 				QueryExecution qexecBox2=QueryExecutionFactory.create(queryBox2, model1);
 				try {
@@ -676,7 +657,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa2=stringa2.substring(stringa2.indexOf("#")+1, stringa2.length()-3);
 							resultListVulnerability.add(stringa2);
-//							comboBoxQuery5.addItem(stringa2);
 						}
 						for (String i : resultListVulnerability) {
 							comboBoxQuery5.addItem(i);
@@ -691,7 +671,6 @@ public class SemanticCrime {
 				valSystem=itemQuery4;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqHazard3=Query("qVulnerability12346",itemQuery4,itemQuery3,"");
-//				System.out.println(comboqHazard3);
 				Query queryBox3= QueryFactory.create(comboqHazard3);
 				QueryExecution qexecBox3=QueryExecutionFactory.create(queryBox3, model1);
 				try {
@@ -706,7 +685,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa3=stringa3.substring(stringa3.indexOf("#")+1, stringa3.length()-3);
 							resultListVulnerability.add(stringa3);
-//							comboBoxQuery5.addItem(stringa3);
 						}
 						for (String i : resultListVulnerability) {
 							comboBoxQuery5.addItem(i);
@@ -721,7 +699,6 @@ public class SemanticCrime {
 				valStakeholder=itemQuery4;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqSystem4=Query("qEvent1456",itemQuery2,itemQuery1,"");
-//				System.out.println(comboqSystem4);
 				Query queryBox4= QueryFactory.create(comboqSystem4);
 				QueryExecution qexecBox4=QueryExecutionFactory.create(queryBox4, model1);
 				try {
@@ -736,7 +713,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa4=stringa4.substring(stringa4.indexOf("#")+1, stringa4.length()-3);
 							resultListEvent.add(stringa4);
-//							comboBoxQuery5.addItem(stringa4);
 						}
 						for (String i : resultListEvent) {
 							comboBoxQuery5.addItem(i);
@@ -751,7 +727,6 @@ public class SemanticCrime {
 				valStakeholder=itemQuery4;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqAspect5=Query("qEvent1456",itemQuery3,itemQuery2,"");
-//				System.out.println(comboqAspect5);
 				Query queryBox5= QueryFactory.create(comboqAspect5);
 				QueryExecution qexecBox5=QueryExecutionFactory.create(queryBox5, model1);
 				try {
@@ -766,7 +741,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa5=stringa5.substring(stringa5.indexOf("#")+1, stringa5.length()-3);
 							resultListEvent.add(stringa5);
-//							comboBoxQuery5.addItem(stringa5);
 						}
 						for (String i : resultListEvent) {
 							comboBoxQuery5.addItem(i);
@@ -781,7 +755,6 @@ public class SemanticCrime {
 				valVulnerability=itemQuery4;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqAspect6=Query("qEvent1456",itemQuery3,itemQuery2,"");
-//				System.out.println(comboqAspect6);
 				Query queryBox6= QueryFactory.create(comboqAspect6);
 				QueryExecution qexecBox6=QueryExecutionFactory.create(queryBox6, model1);
 				try {
@@ -796,7 +769,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa6=stringa6.substring(stringa6.indexOf("#")+1, stringa6.length()-3);
 							resultListEvent.add(stringa6);
-//							comboBoxQuery5.addItem(stringa6);
 						}
 						for (String i : resultListEvent) {
 							comboBoxQuery5.addItem(i);
@@ -837,7 +809,6 @@ public class SemanticCrime {
 			case 1:
 				valVulnerability=itemQuery3;
 				String comboqEvent1456=Query("qEvent1456",itemQuery1,itemQuery2,"");
-//				System.out.println(comboqEvent1456);
 				Query queryBox1= QueryFactory.create(comboqEvent1456);
 				QueryExecution qexecBox1=QueryExecutionFactory.create(queryBox1, model1);
 				try {
@@ -852,8 +823,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa1=stringa1.substring(stringa1.indexOf("#")+1, stringa1.length()-3);
 							resultListEvent.add(stringa1);
-//							comboBoxQuery4.addItem(stringa1);
-							/* prova per visualizzare su console */
 						}
 						for (String i : resultListEvent) {
 							comboBoxQuery4.addItem(i);
@@ -867,7 +836,6 @@ public class SemanticCrime {
 			case 2:
 				valAspect=itemQuery3;
 				String comboqEvent2=Query("qSystem23",itemQuery1,itemQuery2,itemQuery3);
-//				System.out.println(comboqEvent2);
 				Query queryBox2= QueryFactory.create(comboqEvent2);
 				QueryExecution qexecBox2=QueryExecutionFactory.create(queryBox2, model1);
 				try {
@@ -882,7 +850,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa2=stringa2.substring(stringa2.indexOf("#")+1, stringa2.length()-3);
 							resultListSystem.add(stringa2);
-//							comboBoxQuery4.addItem(stringa2);
 						}
 						for (String i : resultListSystem) {
 							comboBoxQuery4.addItem(i);
@@ -897,7 +864,6 @@ public class SemanticCrime {
 				valAspect=itemQuery3;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqHazard3=Query("qSystem23",itemQuery2,itemQuery1,itemQuery3);
-//				System.out.println(comboqHazard3);
 				Query queryBox3= QueryFactory.create(comboqHazard3);
 				QueryExecution qexecBox3=QueryExecutionFactory.create(queryBox3, model1);
 				try {
@@ -912,7 +878,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa3=stringa3.substring(stringa3.indexOf("#")+1, stringa3.length()-3);
 							resultListSystem.add(stringa3);
-//							comboBoxQuery4.addItem(stringa3);
 						}
 						for (String i : resultListSystem) {
 							comboBoxQuery4.addItem(i);
@@ -927,7 +892,6 @@ public class SemanticCrime {
 				valVulnerability=itemQuery3;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqSystem4=Query("qStakeholder12345",itemQuery2,itemQuery1,"");
-//				System.out.println(comboqSystem4);
 				Query queryBox4= QueryFactory.create(comboqSystem4);
 				QueryExecution qexecBox4=QueryExecutionFactory.create(queryBox4, model1);
 				try {
@@ -942,7 +906,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa4=stringa4.substring(stringa4.indexOf("#")+1, stringa4.length()-3);
 							resultListStakeholder.add(stringa4);
-//							comboBoxQuery4.addItem(stringa4);
 						}
 						for (String i : resultListStakeholder) {
 							comboBoxQuery4.addItem(i);
@@ -957,7 +920,6 @@ public class SemanticCrime {
 				valSystem=itemQuery3;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqAspect5=Query("qStakeholder12345",itemQuery3,itemQuery2,"");
-//				System.out.println(comboqAspect5);
 				Query queryBox5= QueryFactory.create(comboqAspect5);
 				QueryExecution qexecBox5=QueryExecutionFactory.create(queryBox5, model1);
 				try {
@@ -972,7 +934,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa5=stringa5.substring(stringa5.indexOf("#")+1, stringa5.length()-3);
 							resultListStakeholder.add(stringa5);
-//							comboBoxQuery4.addItem(stringa5);
 						}
 						for (String i : resultListStakeholder) {
 							comboBoxQuery4.addItem(i);
@@ -987,7 +948,6 @@ public class SemanticCrime {
 				valSystem=itemQuery3;
 				/* Query che valorizza comboBoxQuery2 */
 				String comboqAspect6=Query("qVulnerability12346",itemQuery3,itemQuery2,"");
-//				System.out.println(comboqAspect6);
 				Query queryBox6= QueryFactory.create(comboqAspect6);
 				QueryExecution qexecBox6=QueryExecutionFactory.create(queryBox6, model1);
 				try {
@@ -1002,7 +962,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa6=stringa6.substring(stringa6.indexOf("#")+1, stringa6.length()-3);
 							resultListVulnerability.add(stringa6);
-//							comboBoxQuery4.addItem(stringa6);
 						}
 						for (String i : resultListVulnerability) {
 							comboBoxQuery4.addItem(i);
@@ -1043,7 +1002,6 @@ public class SemanticCrime {
 				case 1:
 					valAspect=itemQuery2;
 					String comboqVulnerability12346=Query("qVulnerability12346",itemQuery1,itemQuery2,"");
-//					System.out.println(comboqVulnerability12346);
 					Query queryBox1= QueryFactory.create(comboqVulnerability12346);
 					QueryExecution qexecBox1=QueryExecutionFactory.create(queryBox1, model1);
 					try {
@@ -1058,7 +1016,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa1=stringa1.substring(stringa1.indexOf("#")+1, stringa1.length()-3);
 								resultListVulnerability.add(stringa1);
-//								comboBoxQuery3.addItem(stringa1);
 								/* prova per visualizzare su console */
 							}
 							for (String i : resultListVulnerability) {
@@ -1073,7 +1030,6 @@ public class SemanticCrime {
 				case 2:
 					valEvent=itemQuery2;
 					String comboqEvent2=Query("qAspect23",itemQuery2,"","");
-//					System.out.println(comboqEvent2);
 					Query queryBox2= QueryFactory.create(comboqEvent2);
 					QueryExecution qexecBox2=QueryExecutionFactory.create(queryBox2, model1);
 					try {
@@ -1088,7 +1044,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa2=stringa2.substring(stringa2.indexOf("#")+1, stringa2.length()-3);
 								resultListAspect.add(stringa2);
-//								comboBoxQuery3.addItem(stringa2);
 							}
 							for (String i : resultListAspect) {
 								comboBoxQuery3.addItem(i);
@@ -1103,7 +1058,6 @@ public class SemanticCrime {
 					valHazard=itemQuery2;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqHazard3=Query("qAspect23",itemQuery1,"","");
-//					System.out.println(comboqHazard3);
 					Query queryBox3= QueryFactory.create(comboqHazard3);
 					QueryExecution qexecBox3=QueryExecutionFactory.create(queryBox3, model1);
 					try {
@@ -1118,7 +1072,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa3=stringa3.substring(stringa3.indexOf("#")+1, stringa3.length()-3);
 								resultListAspect.add(stringa3);
-//								comboBoxQuery3.addItem(stringa3);
 							}
 							for (String i : resultListAspect) {
 								comboBoxQuery3.addItem(i);
@@ -1133,7 +1086,6 @@ public class SemanticCrime {
 					valSystem=itemQuery2;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqSystem4=Query("qVulnerability12346",itemQuery2,itemQuery1,"");
-//					System.out.println(comboqSystem4);
 					Query queryBox4= QueryFactory.create(comboqSystem4);
 					QueryExecution qexecBox4=QueryExecutionFactory.create(queryBox4, model1);
 					try {
@@ -1148,7 +1100,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa4=stringa4.substring(stringa4.indexOf("#")+1, stringa4.length()-3);
 								resultListVulnerability.add(stringa4);
-//								comboBoxQuery3.addItem(stringa4);
 							}
 							for (String i : resultListVulnerability) {
 								comboBoxQuery3.addItem(i);
@@ -1163,7 +1114,6 @@ public class SemanticCrime {
 					valAspect=itemQuery2;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect5=Query("qSystem5",itemQuery2,itemQuery1,"");
-//					System.out.println(comboqAspect5);
 					Query queryBox5= QueryFactory.create(comboqAspect5);
 					QueryExecution qexecBox5=QueryExecutionFactory.create(queryBox5, model1);
 					try {
@@ -1178,7 +1128,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa5=stringa5.substring(stringa5.indexOf("#")+1, stringa5.length()-3);
 								resultListSystem.add(stringa5);
-//								comboBoxQuery3.addItem(stringa5);
 							}
 							for (String i : resultListSystem) {
 								comboBoxQuery3.addItem(i);
@@ -1193,7 +1142,6 @@ public class SemanticCrime {
 					valAspect=itemQuery2;
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect6=Query("qSystem6",itemQuery2,itemQuery1,"");
-//					System.out.println(comboqAspect6);
 					Query queryBox6= QueryFactory.create(comboqAspect6);
 					QueryExecution qexecBox6=QueryExecutionFactory.create(queryBox6, model1);
 					try {
@@ -1208,7 +1156,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa6=stringa6.substring(stringa6.indexOf("#")+1, stringa6.length()-3);
 								resultListSystem.add(stringa6);
-//								comboBoxQuery3.addItem(stringa6);
 							} 
 							for (String i : resultListSystem) {
 								comboBoxQuery3.addItem(i);
@@ -1234,11 +1181,6 @@ public class SemanticCrime {
 				comboBoxQuery4.removeAllItems();
 				comboBoxQuery5.removeAllItems();
 				comboBoxQuery6.removeAllItems();
-//				if (comboBoxQuery2.isValid()) comboBoxQuery2.removeAllItems();
-//				if (comboBoxQuery3.isValid()) comboBoxQuery3.removeAllItems();
-//				if (comboBoxQuery4.isValid()) comboBoxQuery4.removeAllItems();
-//				if (comboBoxQuery5.isValid()) comboBoxQuery5.removeAllItems();
-//				if (comboBoxQuery6.isValid()) comboBoxQuery6.removeAllItems();
 				/* recupera il valore e ne rimuove gli eventuali spazi */
 				Object tmpQ1=comboBoxQuery1.getSelectedItem();
 				if (tmpQ1 != null) {
@@ -1255,11 +1197,8 @@ public class SemanticCrime {
 				case 1:
 					/* System_aspect */
 					valSystem=itemQuery1;
-					/* forse da eliminare */
-//					itemQuery1=comboBoxQuery1.getSelectedItem().toString();
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect1=Query("qAspect1",itemQuery1,"","");
-//					System.out.println(comboqAspect1);
 					Query queryBox1= QueryFactory.create(comboqAspect1);
 					QueryExecution qexecBox1=QueryExecutionFactory.create(queryBox1, model1);
 					try {
@@ -1274,7 +1213,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa1=stringa1.substring(stringa1.indexOf("#")+1, stringa1.length()-3);
 								resultListAspect.add(stringa1);
-//								comboBoxQuery2.addItem(stringa1);
 							}
 							for (String i : resultListAspect) {
 								comboBoxQuery2.addItem(i);
@@ -1288,11 +1226,8 @@ public class SemanticCrime {
 				case 2:
 					valHazard=itemQuery1;
 					/* Critical event of system */
-					/* forse da eliminare */
-//					itemQuery1=comboBoxQuery1.getSelectedItem().toString();
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqEvent2=Query("qEvent2",itemQuery1,"","");
-//					System.out.println(comboqEvent2);
 					Query queryBox2= QueryFactory.create(comboqEvent2);
 					QueryExecution qexecBox2=QueryExecutionFactory.create(queryBox2, model1);
 					try {
@@ -1307,7 +1242,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa2=stringa2.substring(stringa2.indexOf("#")+1, stringa2.length()-3);
 								resultListEvent.add(stringa2);
-//								comboBoxQuery2.addItem(stringa2);
 							}
 							for (String i : resultListEvent) {
 								comboBoxQuery2.addItem(i);
@@ -1323,7 +1257,6 @@ public class SemanticCrime {
 					/* Anthropic hazard */
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqHazard3=Query("qHazard3",itemQuery1,"","");
-//					System.out.println(comboqHazard3);
 					Query queryBox3= QueryFactory.create(comboqHazard3);
 					QueryExecution qexecBox3=QueryExecutionFactory.create(queryBox3, model1);
 					try {
@@ -1338,7 +1271,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa3=stringa3.substring(stringa3.indexOf("#")+1, stringa3.length()-3);
 								resultListHazard.add(stringa3);
-//								comboBoxQuery2.addItem(stringa3);
 							}
 							for (String i : resultListHazard) {
 								comboBoxQuery2.addItem(i);
@@ -1354,7 +1286,6 @@ public class SemanticCrime {
 					/* System_aspect */
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqSystem4=Query("qSystem4",itemQuery1,"","");
-//					System.out.println(comboqSystem4);
 					Query queryBox4= QueryFactory.create(comboqSystem4);
 					QueryExecution qexecBox4=QueryExecutionFactory.create(queryBox4, model1);
 					try {
@@ -1369,7 +1300,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa4=stringa4.substring(stringa4.indexOf("#")+1, stringa4.length()-3);
 								resultListSystem.add(stringa4);
-//								comboBoxQuery2.addItem(stringa4);
 							}
 							for (String i : resultListSystem) {
 								comboBoxQuery2.addItem(i);
@@ -1385,7 +1315,6 @@ public class SemanticCrime {
 					/* Vulnerability */
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect5=Query("qAspect5",itemQuery1,"","");
-//					System.out.println(comboqAspect5);
 					Query queryBox5= QueryFactory.create(comboqAspect5);
 					QueryExecution qexecBox5=QueryExecutionFactory.create(queryBox5, model1);
 					try {
@@ -1400,7 +1329,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa5=stringa5.substring(stringa5.indexOf("#")+1, stringa5.length()-3);
 								resultListAspect.add(stringa5);
-//								comboBoxQuery2.addItem(stringa5);
 							}
 							for (String i : resultListAspect) {
 								comboBoxQuery2.addItem(i);
@@ -1416,7 +1344,6 @@ public class SemanticCrime {
 					/* Stakeholder */
 					/* Query che valorizza comboBoxQuery2 */
 					String comboqAspect6=Query("qAspect6",itemQuery1,"","");
-//					System.out.println(comboqAspect6);
 					Query queryBox6= QueryFactory.create(comboqAspect6);
 					QueryExecution qexecBox6=QueryExecutionFactory.create(queryBox6, model1);
 					try {
@@ -1431,7 +1358,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa6=stringa6.substring(stringa6.indexOf("#")+1, stringa6.length()-3);
 								resultListAspect.add(stringa6);
-//								comboBoxQuery2.addItem(stringa6);
 							}
 							for (String i : resultListAspect) {
 								comboBoxQuery2.addItem(i);
@@ -1471,12 +1397,6 @@ public class SemanticCrime {
 				if (cbS1 != null) {
 					comboSoggetto1=cbS1.toString();
 				}
-//				if (comboBoxQuery1.isValid()) comboBoxQuery1.removeAllItems();
-//				if (comboBoxQuery2.isValid()) comboBoxQuery2.removeAllItems();
-//				if (comboBoxQuery3.isValid()) comboBoxQuery3.removeAllItems();
-//				if (comboBoxQuery4.isValid()) comboBoxQuery4.removeAllItems();
-//				if (comboBoxQuery5.isValid()) comboBoxQuery5.removeAllItems();
-//				if (comboBoxQuery6.isValid()) comboBoxQuery6.removeAllItems();
 				switch (indice) {
 				case 0:
 					/* elenco a discesa vuoto */
@@ -1507,7 +1427,6 @@ public class SemanticCrime {
 					textFieldSoggetto6.setText("Stakeholder");
 					/* aggiungere query */
 					String queryAllHazard=Query("qAllHazard", "", "", "");
-//					System.out.println(queryAllHazard);
 					Query querySog2= QueryFactory.create(queryAllHazard);
 					QueryExecution qexecSog2=QueryExecutionFactory.create(querySog2, model1);
 						List<QuerySolution> resultSog2 = null;
@@ -1520,7 +1439,6 @@ public class SemanticCrime {
 								/* elimina i prefissi IRI */
 								stringa2=stringa2.substring(stringa2.indexOf("#")+1, stringa2.length()-3);
 								resultListHazard.add(stringa2);
-//								comboBoxQuery1.addItem(stringa2);
 							}
 							for (String i : resultListHazard) {
 								comboBoxQuery1.addItem(i);
@@ -1535,7 +1453,6 @@ public class SemanticCrime {
 					textFieldSoggetto5.setText("Vulnerability");
 					textFieldSoggetto6.setText("Stakeholder");
 					String queryAllEvent=Query("qAllEvent", "", "", "");
-//					System.out.println(queryAllEvent);
 					Query querySog3= QueryFactory.create(queryAllEvent);
 					QueryExecution qexecSog3=QueryExecutionFactory.create(querySog3, model1);
 					List<QuerySolution> resultSog3 = null;
@@ -1548,7 +1465,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa3=stringa3.substring(stringa3.indexOf("#")+1, stringa3.length()-3);
 							resultListEvent.add(stringa3);
-//							comboBoxQuery1.addItem(stringa3);
 						}
 						for (String i : resultListEvent) {
 							comboBoxQuery1.addItem(i);
@@ -1563,7 +1479,6 @@ public class SemanticCrime {
 					textFieldSoggetto5.setText("Critical_event_of_system");
 					textFieldSoggetto6.setText("Anthropic_hazard");
 					String queryAllAspect=Query("qAllAspect", "", "", "");
-//					System.out.println(queryAllAspect);
 					Query querySog4= QueryFactory.create(queryAllAspect);
 					QueryExecution qexecSog4=QueryExecutionFactory.create(querySog4, model1);
 					List<QuerySolution> resultSog4 = null;
@@ -1576,7 +1491,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa4=stringa4.substring(stringa4.indexOf("#")+1, stringa4.length()-3);
 							resultListAspect.add(stringa4);
-//							comboBoxQuery1.addItem(stringa4);
 						}
 						for (String i : resultListAspect) {
 							comboBoxQuery1.addItem(i);
@@ -1591,7 +1505,6 @@ public class SemanticCrime {
 					textFieldSoggetto5.setText("Critical_event_of_system");
 					textFieldSoggetto6.setText("Anthropic_hazard");
 					String queryAllVulnerability=Query("qAllVulnerability", "", "", "");
-//					System.out.println(queryAllVulnerability);
 					Query querySog5= QueryFactory.create(queryAllVulnerability);
 					QueryExecution qexecSog5=QueryExecutionFactory.create(querySog5, model1);
 					List<QuerySolution> resultSog5 = null;
@@ -1604,7 +1517,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa5=stringa5.substring(stringa5.indexOf("#")+1, stringa5.length()-3);
 							resultListVulnerability.add(stringa5);
-//							comboBoxQuery1.addItem(stringa5);
 						}
 						for (String i : resultListVulnerability) {
 							comboBoxQuery1.addItem(i);
@@ -1619,7 +1531,6 @@ public class SemanticCrime {
 					textFieldSoggetto5.setText("Critical_event_of_system");
 					textFieldSoggetto6.setText("Anthropic_hazard");
 					String queryAllStakeholder=Query("qAllStakeholder", "", "", "");
-//					System.out.println(queryAllStakeholder);
 					Query querySog6= QueryFactory.create(queryAllStakeholder);
 					QueryExecution qexecSog6=QueryExecutionFactory.create(querySog6, model1);
 					List<QuerySolution> resultSog6 = null;
@@ -1632,7 +1543,6 @@ public class SemanticCrime {
 							/* elimina i prefissi IRI */
 							stringa6=stringa6.substring(stringa6.indexOf("#")+1, stringa6.length()-3);
 							resultListStakeholder.add(stringa6);
-//							comboBoxQuery1.addItem(stringa6);
 						}
 						for (String i : resultListStakeholder) {
 							comboBoxQuery1.addItem(i);
@@ -1677,7 +1587,7 @@ public class SemanticCrime {
 		tabricerca.add(textFieldSoggetto6);
 		textFieldSoggetto6.setColumns(10);
 		
-		JButton btnEsegui = new JButton("Esegui");
+		JButton btnEsegui = new JButton("Run");
 		btnEsegui.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				comboBoxQuery1.setEnabled(false);
@@ -1686,23 +1596,13 @@ public class SemanticCrime {
 				comboBoxQuery4.setEnabled(false);
 				comboBoxQuery5.setEnabled(false);
 				comboBoxQuery6.setEnabled(false);
-//				switch (indice) {
-//				case 0:
-//					break;
-//				case 1:
-					infoMappa=CreaInfo(indice);
-//					break;
-//				}
-//				System.out.println(infoMappa);
+				infoMap=CreaInfo(indice);
 				/* ricava l'indice dell'elemento della combobox POI selezionato */
-				int indice=TrovaInArray(item, valSystem);
-//				System.out.println(valSystem + " " + indice);
-//				int indice=comboboxPOI.getSelectedIndex();
-				/* la seconda scheda viene riempita con il risultato del metodo interroga */
-				txtareaosm.setText(SemanticCrime.Interroga("",system[indice*3],system[indice*3+1],system[indice*3+2]));
+				int indice=FindInArray(item, valSystem);
+				/* la seconda scheda viene riempita con il risultato del metodo Question */
+				txtareaosm.setText(SemanticCrime.Question("",system[indice*3],system[indice*3+1],system[indice*3+2]));
 				String totale="" + numTotale;
 				txttotale.setText(totale);
-//				infoMappa="ciao\nmondo";
 				JPanel tabMappa = new JPanel();
 				/* Aggiunge la scheda della mappa con il nome del POI */
 				tabGenerale.addTab(system[indice*3].toString(), null, tabMappa, null);
@@ -1710,13 +1610,14 @@ public class SemanticCrime {
 				tabMappa.setLayout(null);
 				
 				/* Chiude scheda della mappa meno recente */
-				JButton btnchiudi= new JButton("Chiudi Mappa");
+				JButton btnchiudi= new JButton("Close map");
 				tabMappa.add(btnchiudi);
 				btnchiudi.addActionListener(new ActionListener() {
 					public void actionPerformed(ActionEvent e) {
-						/* Roy */
 						tabGenerale.remove(tabMappa);
 						tabricerca.remove(btnchiudi);
+						/* roy azzeramento occorrenze */
+						txttotale.setText("");
 					}
 				});
 				
@@ -1734,7 +1635,7 @@ public class SemanticCrime {
 		        GeoPosition centroSiracusa = new GeoPosition(37.0746000,15.2819000);
 		        GeoPosition punto[]= new GeoPosition[numTotale];
 		        for (int i=0; i<numTotale; i++) {
-		        	punto[i]=new GeoPosition(latitudine[i],longitudine[i]);
+		        	punto[i]=new GeoPosition(latitude[i],longitude[i]);
 		        }
 		        
 		     // Set the focus
@@ -1753,12 +1654,12 @@ public class SemanticCrime {
 		    	for (int i=0; i<numTotale; i++) {
 		    		/* Testo da visualizzare nel segnaposto  e finestra di dialogo info */
 //		    		segnaposto[i]=new SwingWaypoint(item[indice],punto[i]);
-		    		segnaposto[i]=new SwingWaypoint(infoMappa,punto[i]);
+		    		segnaposto[i]=new SwingWaypoint(infoMap,punto[i]);
 		    	}
 		        
 		        Set<SwingWaypoint> waypoints = new HashSet<SwingWaypoint>(Arrays.asList(segnaposto));
 		        		
-		     // Set the overlay painter
+		        // Set the overlay painter
 		        WaypointPainter<SwingWaypoint> swingWaypointPainter = new SwingWaypointOverlayPainter();
 		        swingWaypointPainter.setWaypoints(waypoints);
 		        mapViewer.setOverlayPainter(swingWaypointPainter);
@@ -1771,26 +1672,24 @@ public class SemanticCrime {
 				/* Aggiunge il pulsante per chiudere la mappa */
 				btnchiudi.setBounds(263, 40, 120, 23);
 				tabricerca.add(btnchiudi);
-				
-//				comboBoxSoggetto1.setSelectedIndex(1);
-//				comboBoxSoggetto1.setSelectedIndex(0);
-//				comboBoxQuery1.setSelectedIndex(0);
-//				comboBoxQuery2.setSelectedIndex(0);
-//				comboBoxQuery3.setSelectedIndex(0);
-//				comboBoxQuery4.setSelectedIndex(0);
-//				comboBoxQuery5.setSelectedIndex(0);
-//				comboBoxQuery6.setSelectedIndex(0);
 			}
 		});
 		btnEsegui.setBounds(879, 235, 89, 22);
 		tabricerca.add(btnEsegui);
 		
-		JLabel lblNewLabel = new JLabel("Ricerca nell'ontologia Terminus Crime");
+		JLabel lblNewLabel = new JLabel("Searching the Terminus Crime ontology");
 		lblNewLabel.setBounds(32, 45, 277, 14);
 		tabricerca.add(lblNewLabel);
 	}
 		
-	
+	/**
+	 * 
+	 * @param type Specifica il nome di uno dei 19 tipi di query SPARQL
+	 * @param var1 Eventuale valore dell'ontologia Terminus-Crime in input
+	 * @param var2 Eventuale valore dell'ontologia Terminus-Crime in input
+	 * @param var3 Eventuale valore dell'ontologia Terminus-Crime in input
+	 * @return Risultato della query SPARQL
+	 */
 	public static String Query (String type, String var1, String var2, String var3) {
 		String risultato="";
 		switch (type) {
@@ -2187,9 +2086,9 @@ public class SemanticCrime {
 	 * @param nomefile indica il nome del file da generare
 	 * @param tipologia indica la chiave di ricerca
 	 * @param descrizione indica il valore di ricerca
-	 * @return il numero di occorrenze
+	 * @return il risultato della query Overpass QL
 	 */
-	public static String Interroga (String type, String nomefile, String tipologia,String descrizione) {
+	public static String Question (String type, String nomefile, String tipologia,String descrizione) {
 		
 		String server = "http://overpass-api.de/api/interpreter?data=";
 		String totaleNWR = null;
@@ -2261,7 +2160,6 @@ public class SemanticCrime {
 			Future<Response> f = asyncHttpClient.prepareGet(server + interrogazione).execute();
 				Response r = f.get();
 				risultato = r.getResponseBody(StandardCharsets.UTF_8);
-//			System.out.println(risultato);
 			try (BufferedWriter outputFile =
 				Files.newBufferedWriter(Paths.get(nomefile + ".osm.xml"), StandardCharsets.UTF_8)) {
 				outputFile.write(risultato);
@@ -2270,21 +2168,18 @@ public class SemanticCrime {
 		} catch (InterruptedException | ExecutionException | IOException e) {
 			e.printStackTrace();
 		}
-		numTotale= Occorrenze(totaleNWR,"id=");
-		latitudine=Valore(totaleNWR, "lat=", 5, 10, numTotale);
-		longitudine=Valore(totaleNWR, "lon=", 5, 10, numTotale);
+		numTotale= Occurrences(totaleNWR,"id=");
+		latitude=Value(totaleNWR, "lat=", 5, 10, numTotale);
+		longitude=Value(totaleNWR, "lon=", 5, 10, numTotale);
 		return risultato;
 	}
-		
-		
-		
 
 /**
  * @param str la stringa su cui eseguire la ricerca
  * @param id la sottostringa da cercare
  * @return il numero di occorrenze
  */
-	public static int Occorrenze(String str, String id) {
+	public static int Occurrences(String str, String id) {
 		int conta = 0;
 		Pattern p= Pattern.compile(id);
 		Matcher m=p.matcher(str);
@@ -2303,7 +2198,7 @@ public class SemanticCrime {
 	 * @param numTotale indica il numero di occorrenze da prendere
 	 * @return un array con tutti i valori
 	 */
-	public static double[] Valore(String stringa, String etichetta, int posIniziale, int dimensione, int numTotale) { 
+	public static double[] Value(String stringa, String etichetta, int posIniziale, int dimensione, int numTotale) { 
 		String testo="";
 		double[] numero=new double[numTotale];
 		int posizione=0, inizio=0, fine=0;
@@ -2318,12 +2213,23 @@ public class SemanticCrime {
 		return numero;
 	}
 	
-	public static int TrovaInArray(String[] array, String valoreCercato) {
+	/**
+	 * 
+	 * @param array l'array di strighe oggetto della ricerca
+	 * @param valoreCercato la stringa da cercare all'interno dell'array
+	 * @return l'indice dell'array che contiene la stringa altrimenti -1
+	 */
+	public static int FindInArray(String[] array, String valoreCercato) {
 		for (int i=0; i<array.length; i++)
 			if (array[i].indexOf(valoreCercato)>=0) return i;  
 		return -1;
 	}
 	
+	/**
+	 * 
+	 * @param index indice dell'elenco a discesa (comboBoxSoggetto1)
+	 * @return una stringa contenente tutti i risultati delle query SPARQL
+	 */
 	public static String CreaInfo(int index) {
 		int j=1;
 		/* System */
@@ -2332,10 +2238,6 @@ public class SemanticCrime {
 			for (String i : resultListSystem) {
 				info= info + i + ", ";
 				j++;
-//				if (j==6) {
-//					info= info + "\n";
-//					j=1;
-//				}
 			}
 		} else {
 			info= info + valSystem;
@@ -2346,10 +2248,6 @@ public class SemanticCrime {
 			for (String i : resultListAspect) {
 				info= info + i + ", ";
 				j++;
-//				if (j==6) {
-//					info= info + "\n";
-//					j=1;
-//				}
 			}
 		} else {
 			info= info + valAspect;
@@ -2360,10 +2258,6 @@ public class SemanticCrime {
 			for (String i : resultListVulnerability) {
 				info= info + i + ", ";
 				j++;
-//				if (j==6) {
-//					info= info + "\n";
-//					j=1;
-//				}
 			}
 		} else {
 			info= info + valVulnerability;
@@ -2374,10 +2268,6 @@ public class SemanticCrime {
 			for (String i : resultListEvent) {
 				info= info + i + ", ";
 				j++;
-//				if (j==6) {
-//					info= info + "\n";
-//					j=1;
-//				}
 			}
 		} else {
 			info= info + valEvent;
@@ -2388,10 +2278,6 @@ public class SemanticCrime {
 			for (String i : resultListHazard) {
 				info= info + i + ", ";
 				j++;
-//				if (j==6) {
-//					info= info + "\n";
-//					j=1;
-//				}
 			} 
 		} else {
 			info= info + valHazard;
@@ -2402,10 +2288,6 @@ public class SemanticCrime {
 			for (String i : resultListStakeholder) {
 				info= info + i + ", ";
 				j++;
-//				if (j==6) {
-//					info= info + "\n";
-//					j=1;
-//				}
 			}
 		} else {
 			info= info + valStakeholder;
